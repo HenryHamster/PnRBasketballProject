@@ -20,7 +20,7 @@ public class PlayPauseButton : MonoBehaviour
         {
             // 遊戲開始運行
             buttonText.text = "Pause";
-            Time.timeScale = 1.5f;
+            Time.timeScale = 1f;
             // 在這裡添加開始運行的邏輯
         }
         else

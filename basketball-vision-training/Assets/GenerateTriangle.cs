@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System;
 using System.Collections;
 [RequireComponent(typeof(MeshFilter))]
 public class GenerateTriangle : MonoBehaviour
@@ -50,11 +51,17 @@ public class GenerateTriangle : MonoBehaviour
         // meshFilter.mesh = mesh;
         // meshRenderer.material = material;
     }
-
+    int CustomSort(Vector3 a, Vector3 b)
+    {
+        return b.z.CompareTo(a.z);
+    }
     void MakeMeshData()
     {
         Debug.Log(objectA.transform.position);
+        
         vertices = new Vector3[] { objectA.transform.position, objectB.transform.position, objectC.transform.position };
+
+        Array.Sort(vertices, CustomSort);
         // vertices = new Vector3[] { objectA.transform.position, new Vector3(0, 0, 1), new Vector3(0, 0, 2) };
         triangles = new int[] { 0, 1, 2 };
 
@@ -85,10 +92,11 @@ public class GenerateTriangle : MonoBehaviour
         // 檢查 O6 是否進入特定範圍
         bool Def1InArea = objectC.transform.position.z >= Def1_StartPosition.z && objectC.transform.position.z <= Def1_EndPosition.z;
         bool Def2InArea = objectB.transform.position.x <= Def2_StartPosition.x && objectB.transform.position.x >= Def2_EndPostion.x;
-        if (HanlderInArea && Def1InArea && Def2InArea)
+        if (/**/true ||/**/HanlderInArea && Def1InArea && Def2InArea)
         {
             MakeMeshData();
             CreateMesh();
+            mesh.RecalculateNormals();
             GoodSpaceText.SetActive(true);
         }
         else
