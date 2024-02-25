@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using Oculus.Voice.Demo;
-
+//NO LONGER CONTROLS PLAYER MOVEMENT
 public class TimerManager : MonoBehaviour
 {
     // Question

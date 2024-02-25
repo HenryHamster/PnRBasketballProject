@@ -423,13 +423,15 @@ public class TaskManager : MonoBehaviour
                 // Debug.Log(TrajectoryManager.TrajectorySteps[QuestionID]);
                 // Debug.Log(StepID);
                 // Debug.Log(QuestionID);
+                /* Replaced previous movement system -Henry
                 TC1.MoveOn_NextPos(QuestionID, StepID);
                 TC2.MoveOn_NextPos(QuestionID, StepID);
                 TC3.MoveOn_NextPos(QuestionID, StepID);
                 TC4.MoveOn_NextPos(QuestionID, StepID);
                 TC5.MoveOn_NextPos(QuestionID, StepID);
                 TC6.MoveOn_NextPos(QuestionID, StepID);
-
+                */
+                //DataInterpreter.instance.UpdatePosition(); //Updates for all players
                 // 如果有對手
                 // if (MenuManager.OpponentType == "Enable" && DStepID < TrajectoryManager.DefTrajectorySteps[DQuestionID])
                 // {
@@ -460,13 +462,13 @@ public class TaskManager : MonoBehaviour
                 // Debug.Log(StepID);
                 // Debug.Log(TrajectoryManager.DefTrajectorySteps[DQuestionID]);
                 // Debug.Log(DStepID);
-                OC1.MoveOn_NextPos(DQuestionID, DStepID);
+                /*OC1.MoveOn_NextPos(DQuestionID, DStepID);
                 OC2.MoveOn_NextPos(DQuestionID, DStepID);
                 OC3.MoveOn_NextPos(DQuestionID, DStepID);
                 OC4.MoveOn_NextPos(DQuestionID, DStepID);
                 OC5.MoveOn_NextPos(DQuestionID, DStepID);
                 OC6.MoveOn_NextPos(DQuestionID, DStepID);
-
+                */
                 DStepID = DStepID + 1;
 
                 // 如果有對手
