@@ -12,7 +12,7 @@ public class BallHandlerTendencyDisplay : MonoBehaviour
     void Start()
     {
         image = GetComponent<Image>();
-        Tendency.SetActive(false);
+        //Tendency.SetActive(false);
     }
 
     // Update is called once per frame
@@ -27,7 +27,7 @@ public class BallHandlerTendencyDisplay : MonoBehaviour
         }
         else
         {
-            Tendency.SetActive(false);
+            //Tendency.SetActive(false);
 
             image.color = Color.white;
             // buttonText.text = "Offense Tendency (Show)";

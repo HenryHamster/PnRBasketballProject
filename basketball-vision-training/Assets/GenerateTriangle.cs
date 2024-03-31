@@ -4,9 +4,9 @@ using System.Collections;
 [RequireComponent(typeof(MeshFilter))]
 public class GenerateTriangle : MonoBehaviour
 {
-    public GameObject objectA;
-    public GameObject objectB;
-    public GameObject objectC;
+    public GameObject[] objectA;
+    public GameObject[] objectB;
+    public GameObject[] objectC;
     public GameObject GoodSpaceText;
     // public Material material;
     Mesh mesh;
@@ -57,9 +57,9 @@ public class GenerateTriangle : MonoBehaviour
     }
     void MakeMeshData()
     {
-        Debug.Log(objectA.transform.position);
+        Debug.Log(objectA[DataInterpreter.instance.usedDataIndex].transform.position);
         
-        vertices = new Vector3[] { objectA.transform.position, objectB.transform.position, objectC.transform.position };
+        vertices = new Vector3[] { objectA[DataInterpreter.instance.usedDataIndex].transform.position, objectB[DataInterpreter.instance.usedDataIndex].transform.position, objectC[DataInterpreter.instance.usedDataIndex].transform.position };
 
         Array.Sort(vertices, CustomSort);
         // vertices = new Vector3[] { objectA.transform.position, new Vector3(0, 0, 1), new Vector3(0, 0, 2) };
@@ -88,10 +88,10 @@ public class GenerateTriangle : MonoBehaviour
 
     void Update()
     {
-        bool HanlderInArea = objectA.transform.position.z >= PnR_Handler_StartPosition.z && objectA.transform.position.z <= PnR_Handler_EndPosition.z;
+        bool HanlderInArea = objectA[DataInterpreter.instance.usedDataIndex].transform.position.z >= PnR_Handler_StartPosition.z && objectA[DataInterpreter.instance.usedDataIndex].transform.position.z <= PnR_Handler_EndPosition.z;
         // 檢查 O6 是否進入特定範圍
-        bool Def1InArea = objectC.transform.position.z >= Def1_StartPosition.z && objectC.transform.position.z <= Def1_EndPosition.z;
-        bool Def2InArea = objectB.transform.position.x <= Def2_StartPosition.x && objectB.transform.position.x >= Def2_EndPostion.x;
+        bool Def1InArea = objectC[DataInterpreter.instance.usedDataIndex].transform.position.z >= Def1_StartPosition.z && objectC[DataInterpreter.instance.usedDataIndex].transform.position.z <= Def1_EndPosition.z;
+        bool Def2InArea = objectB[DataInterpreter.instance.usedDataIndex].transform.position.x <= Def2_StartPosition.x && objectB[DataInterpreter.instance.usedDataIndex].transform.position.x >= Def2_EndPostion.x;
         if (/**/true ||/**/HanlderInArea && Def1InArea && Def2InArea)
         {
             MakeMeshData();

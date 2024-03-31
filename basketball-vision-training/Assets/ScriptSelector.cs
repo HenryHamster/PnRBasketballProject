@@ -32,17 +32,17 @@ public class ScriptSelector : MonoBehaviour
             case 0: // None
                 distScript.enabled = false;
                 areaScript.enabled = false;
-                triangleScript.enabled = false;
+                triangleScript.gameObject.SetActive(false);
                 break;
             case 1: // Show Dist
                 distScript.enabled = true;
                 areaScript.enabled = false;
-                triangleScript.enabled = false;
+                triangleScript.gameObject.SetActive(false);
                 break;
             case 2: // Show Area
                 distScript.enabled = false;
                 areaScript.enabled = true;
-                triangleScript.enabled = true;
+                triangleScript.gameObject.SetActive(true);
                 break;
         }
     }

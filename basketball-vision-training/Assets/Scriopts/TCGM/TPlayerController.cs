@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TPlayerController : MonoBehaviour
 {
@@ -13,7 +14,10 @@ public class TPlayerController : MonoBehaviour
 
     private List<float> PlayersPos = new List<float>();
     private Vector3 prevPosition;
+    public Image defenderFillCircle;
 
+    public bool isHoldingBall = false;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -27,23 +31,49 @@ public class TPlayerController : MonoBehaviour
     void Update()
     {
         SetAnimationSpeed();
+        PlayerTransform target=DataInterpreter.instance.GetClosestOffense(transform, out float dist);
+        Debug.Log("Closest target: " + target.id + " for " + name);
+        float distFromBall = Vector2.Distance(transform.position, BallPositionHelper.instance.transform.position);
+        Vector3 targetPos2 = Vector3.MoveTowards(target.transform.position, BallPositionHelper.instance.transform.position, 1.5f);
+        Vector3 targetPos = new Vector3(BallPositionHelper.instance.transform.position.x, transform.position.y, BallPositionHelper.instance.transform.position.z);
+        if (dist < 100&&dist>distFromBall*1.5)
+        {
+            Debug.Log("dist: " + dist);
+            defenderFillCircle.fillAmount = target.opc.isHoldingBall?(2-dist) / 4:0;
+            transform.forward = (target.transform.position - transform.position).normalized;
+            Animator.SetBool("_defending", true);
+        }
+        else {
+            defenderFillCircle.fillAmount = (2 - distFromBall) / 4;
+            transform.forward = (targetPos - transform.position).normalized;
+            Animator.SetBool("_defending", true);
+        }
+        /*else
+        {
+            Animator.SetBool("_defending", false);
+        }*/
+
+        //ballGameObject.SetActive(isHoldingBall);
 
     }
     private void LateUpdate()
     {
         lastFramePos = transform.position;
 
-        gameObject.transform.LookAt(2*transform.position-prevPosition);
+        if(!Animator.GetBool("_defending"))gameObject.transform.LookAt(2*Vector3.Slerp(transform.position,prevPosition,0.5f));
+        //gameObject.transform.LookAt(new Vector3(0, 0, -12));
         prevPosition = transform.position;
     }
 
     private void SetAnimationSpeed()
     {
-        float sqrDist = (lastFramePos - transform.position).sqrMagnitude;
+        float sqrDist = (lastFramePos - transform.position).magnitude;
         Debug.Log("distSqr: " + sqrDist);
 
-        Animator.SetFloat("_move", (sqrDist > minSqrMagnitude * Time.deltaTime) ? 2 : 0);
-        Animator.speed = (sqrDist > minSqrMagnitude * Time.deltaTime) ? Mathf.Clamp(sqrDist * 2400, 0, 1) : 0;
+        Animator.SetFloat("_move", 2);
+        //Animator.SetFloat("_move", (sqrDist > minSqrMagnitude * Time.deltaTime) ? 2 : 0);
+        Animator.speed = Mathf.Clamp(1000*sqrDist / Time.deltaTime, 0.5f, 1);
+        //Animator.speed = 1;
     }
     public void Init_Player()
     {

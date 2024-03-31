@@ -47,9 +47,9 @@ public class CustomPnRSelect : MonoBehaviour
     {
         
         Time.timeScale = 1;
-        _customPnRTriangle.objectA = _playerList[0];
-        _customPnRTriangle.objectB = _playerList[1];
-        _customPnRTriangle.objectC = _playerList[2];
+        _customPnRTriangle.objectA[DataInterpreter.instance.usedDataIndex] = _playerList[0];
+        _customPnRTriangle.objectB[DataInterpreter.instance.usedDataIndex] = _playerList[1];
+        _customPnRTriangle.objectC[DataInterpreter.instance.usedDataIndex] = _playerList[2];
         ResetPnRSelection();
     }
 

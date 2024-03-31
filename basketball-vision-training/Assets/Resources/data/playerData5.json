@@ -1,0 +1,10742 @@
+{
+    "array":[
+    {
+        "frameID": 1,
+        "playerID": 1,
+        "x": 669.31,
+        "y": 19.1,
+        "team": 1
+    },
+    {
+        "frameID": 1,
+        "playerID": 2,
+        "x": 779.8,
+        "y": 475.97,
+        "team": 1
+    },
+    {
+        "frameID": 1,
+        "playerID": 3,
+        "x": 568.37,
+        "y": 287.81,
+        "team": 1
+    },
+    {
+        "frameID": 1,
+        "playerID": 4,
+        "x": 665.64,
+        "y": 107.5,
+        "team": 1
+    },
+    {
+        "frameID": 1,
+        "playerID": 6,
+        "x": 655.76,
+        "y": 267.51,
+        "team": 0
+    },
+    {
+        "frameID": 1,
+        "playerID": 7,
+        "x": 792.86,
+        "y": 367.53,
+        "team": 0
+    },
+    {
+        "frameID": 1,
+        "playerID": 8,
+        "x": 736.62,
+        "y": 221.63,
+        "team": 0
+    },
+    {
+        "frameID": 1,
+        "playerID": 9,
+        "x": 699.32,
+        "y": 106.21,
+        "team": 0
+    },
+    {
+        "frameID": 1,
+        "playerID": 10,
+        "x": 740.56,
+        "y": 73.45,
+        "team": 0
+    },
+    {
+        "frameID": 2,
+        "playerID": 1,
+        "x": 673.52,
+        "y": 22.16,
+        "team": 1
+    },
+    {
+        "frameID": 2,
+        "playerID": 2,
+        "x": 785.22,
+        "y": 476.0,
+        "team": 1
+    },
+    {
+        "frameID": 2,
+        "playerID": 3,
+        "x": 572.54,
+        "y": 290.15,
+        "team": 1
+    },
+    {
+        "frameID": 2,
+        "playerID": 4,
+        "x": 664.23,
+        "y": 113.2,
+        "team": 1
+    },
+    {
+        "frameID": 2,
+        "playerID": 6,
+        "x": 655.11,
+        "y": 270.76,
+        "team": 0
+    },
+    {
+        "frameID": 2,
+        "playerID": 7,
+        "x": 794.87,
+        "y": 369.51,
+        "team": 0
+    },
+    {
+        "frameID": 2,
+        "playerID": 8,
+        "x": 735.71,
+        "y": 225.3,
+        "team": 0
+    },
+    {
+        "frameID": 2,
+        "playerID": 9,
+        "x": 696.94,
+        "y": 111.83,
+        "team": 0
+    },
+    {
+        "frameID": 2,
+        "playerID": 10,
+        "x": 742.1,
+        "y": 75.96,
+        "team": 0
+    },
+    {
+        "frameID": 3,
+        "playerID": 1,
+        "x": 676.79,
+        "y": 24.33,
+        "team": 1
+    },
+    {
+        "frameID": 3,
+        "playerID": 2,
+        "x": 790.28,
+        "y": 476.08,
+        "team": 1
+    },
+    {
+        "frameID": 3,
+        "playerID": 3,
+        "x": 576.52,
+        "y": 292.94,
+        "team": 1
+    },
+    {
+        "frameID": 3,
+        "playerID": 4,
+        "x": 662.8,
+        "y": 118.21,
+        "team": 1
+    },
+    {
+        "frameID": 3,
+        "playerID": 6,
+        "x": 654.99,
+        "y": 273.79,
+        "team": 0
+    },
+    {
+        "frameID": 3,
+        "playerID": 7,
+        "x": 796.99,
+        "y": 371.01,
+        "team": 0
+    },
+    {
+        "frameID": 3,
+        "playerID": 8,
+        "x": 735.21,
+        "y": 228.13,
+        "team": 0
+    },
+    {
+        "frameID": 3,
+        "playerID": 9,
+        "x": 694.83,
+        "y": 116.93,
+        "team": 0
+    },
+    {
+        "frameID": 3,
+        "playerID": 10,
+        "x": 742.8,
+        "y": 78.48,
+        "team": 0
+    },
+    {
+        "frameID": 4,
+        "playerID": 1,
+        "x": 679.28,
+        "y": 25.76,
+        "team": 1
+    },
+    {
+        "frameID": 4,
+        "playerID": 2,
+        "x": 795.0,
+        "y": 476.2,
+        "team": 1
+    },
+    {
+        "frameID": 4,
+        "playerID": 3,
+        "x": 580.31,
+        "y": 296.13,
+        "team": 1
+    },
+    {
+        "frameID": 4,
+        "playerID": 4,
+        "x": 661.35,
+        "y": 122.62,
+        "team": 1
+    },
+    {
+        "frameID": 4,
+        "playerID": 6,
+        "x": 655.33,
+        "y": 276.61,
+        "team": 0
+    },
+    {
+        "frameID": 4,
+        "playerID": 7,
+        "x": 799.2,
+        "y": 372.09,
+        "team": 0
+    },
+    {
+        "frameID": 4,
+        "playerID": 8,
+        "x": 735.05,
+        "y": 230.2,
+        "team": 0
+    },
+    {
+        "frameID": 4,
+        "playerID": 9,
+        "x": 692.96,
+        "y": 121.56,
+        "team": 0
+    },
+    {
+        "frameID": 4,
+        "playerID": 10,
+        "x": 742.82,
+        "y": 80.98,
+        "team": 0
+    },
+    {
+        "frameID": 5,
+        "playerID": 1,
+        "x": 681.13,
+        "y": 26.55,
+        "team": 1
+    },
+    {
+        "frameID": 5,
+        "playerID": 2,
+        "x": 799.39,
+        "y": 476.35,
+        "team": 1
+    },
+    {
+        "frameID": 5,
+        "playerID": 3,
+        "x": 583.93,
+        "y": 299.67,
+        "team": 1
+    },
+    {
+        "frameID": 5,
+        "playerID": 4,
+        "x": 659.9,
+        "y": 126.5,
+        "team": 1
+    },
+    {
+        "frameID": 5,
+        "playerID": 6,
+        "x": 656.07,
+        "y": 279.24,
+        "team": 0
+    },
+    {
+        "frameID": 5,
+        "playerID": 7,
+        "x": 801.49,
+        "y": 372.79,
+        "team": 0
+    },
+    {
+        "frameID": 5,
+        "playerID": 8,
+        "x": 735.17,
+        "y": 231.62,
+        "team": 0
+    },
+    {
+        "frameID": 5,
+        "playerID": 9,
+        "x": 691.31,
+        "y": 125.76,
+        "team": 0
+    },
+    {
+        "frameID": 5,
+        "playerID": 10,
+        "x": 742.31,
+        "y": 83.4,
+        "team": 0
+    },
+    {
+        "frameID": 6,
+        "playerID": 1,
+        "x": 682.47,
+        "y": 26.82,
+        "team": 1
+    },
+    {
+        "frameID": 6,
+        "playerID": 2,
+        "x": 803.48,
+        "y": 476.53,
+        "team": 1
+    },
+    {
+        "frameID": 6,
+        "playerID": 3,
+        "x": 587.38,
+        "y": 303.5,
+        "team": 1
+    },
+    {
+        "frameID": 6,
+        "playerID": 4,
+        "x": 658.46,
+        "y": 129.94,
+        "team": 1
+    },
+    {
+        "frameID": 6,
+        "playerID": 6,
+        "x": 657.17,
+        "y": 281.7,
+        "team": 0
+    },
+    {
+        "frameID": 6,
+        "playerID": 7,
+        "x": 803.84,
+        "y": 373.16,
+        "team": 0
+    },
+    {
+        "frameID": 6,
+        "playerID": 8,
+        "x": 735.5,
+        "y": 232.46,
+        "team": 0
+    },
+    {
+        "frameID": 6,
+        "playerID": 9,
+        "x": 689.85,
+        "y": 129.59,
+        "team": 0
+    },
+    {
+        "frameID": 6,
+        "playerID": 10,
+        "x": 741.38,
+        "y": 85.73,
+        "team": 0
+    },
+    {
+        "frameID": 7,
+        "playerID": 1,
+        "x": 683.39,
+        "y": 26.67,
+        "team": 1
+    },
+    {
+        "frameID": 7,
+        "playerID": 2,
+        "x": 807.27,
+        "y": 476.73,
+        "team": 1
+    },
+    {
+        "frameID": 7,
+        "playerID": 3,
+        "x": 590.67,
+        "y": 307.58,
+        "team": 1
+    },
+    {
+        "frameID": 7,
+        "playerID": 4,
+        "x": 657.05,
+        "y": 133.0,
+        "team": 1
+    },
+    {
+        "frameID": 7,
+        "playerID": 6,
+        "x": 658.56,
+        "y": 284.01,
+        "team": 0
+    },
+    {
+        "frameID": 7,
+        "playerID": 7,
+        "x": 806.21,
+        "y": 373.25,
+        "team": 0
+    },
+    {
+        "frameID": 7,
+        "playerID": 8,
+        "x": 736.01,
+        "y": 232.8,
+        "team": 0
+    },
+    {
+        "frameID": 7,
+        "playerID": 9,
+        "x": 688.57,
+        "y": 133.08,
+        "team": 0
+    },
+    {
+        "frameID": 7,
+        "playerID": 10,
+        "x": 740.15,
+        "y": 87.92,
+        "team": 0
+    },
+    {
+        "frameID": 8,
+        "playerID": 1,
+        "x": 684.0,
+        "y": 26.2,
+        "team": 1
+    },
+    {
+        "frameID": 8,
+        "playerID": 2,
+        "x": 810.78,
+        "y": 476.93,
+        "team": 1
+    },
+    {
+        "frameID": 8,
+        "playerID": 3,
+        "x": 593.82,
+        "y": 311.85,
+        "team": 1
+    },
+    {
+        "frameID": 8,
+        "playerID": 4,
+        "x": 655.66,
+        "y": 135.75,
+        "team": 1
+    },
+    {
+        "frameID": 8,
+        "playerID": 6,
+        "x": 660.21,
+        "y": 286.18,
+        "team": 0
+    },
+    {
+        "frameID": 8,
+        "playerID": 7,
+        "x": 808.61,
+        "y": 373.1,
+        "team": 0
+    },
+    {
+        "frameID": 8,
+        "playerID": 8,
+        "x": 736.65,
+        "y": 232.71,
+        "team": 0
+    },
+    {
+        "frameID": 8,
+        "playerID": 9,
+        "x": 687.44,
+        "y": 136.28,
+        "team": 0
+    },
+    {
+        "frameID": 8,
+        "playerID": 10,
+        "x": 738.71,
+        "y": 89.97,
+        "team": 0
+    },
+    {
+        "frameID": 9,
+        "playerID": 1,
+        "x": 684.38,
+        "y": 25.46,
+        "team": 1
+    },
+    {
+        "frameID": 9,
+        "playerID": 2,
+        "x": 814.03,
+        "y": 477.15,
+        "team": 1
+    },
+    {
+        "frameID": 9,
+        "playerID": 3,
+        "x": 596.83,
+        "y": 316.29,
+        "team": 1
+    },
+    {
+        "frameID": 9,
+        "playerID": 4,
+        "x": 654.3,
+        "y": 138.25,
+        "team": 1
+    },
+    {
+        "frameID": 9,
+        "playerID": 6,
+        "x": 662.07,
+        "y": 288.23,
+        "team": 0
+    },
+    {
+        "frameID": 9,
+        "playerID": 7,
+        "x": 811.01,
+        "y": 372.74,
+        "team": 0
+    },
+    {
+        "frameID": 9,
+        "playerID": 8,
+        "x": 737.37,
+        "y": 232.26,
+        "team": 0
+    },
+    {
+        "frameID": 9,
+        "playerID": 9,
+        "x": 686.44,
+        "y": 139.22,
+        "team": 0
+    },
+    {
+        "frameID": 9,
+        "playerID": 10,
+        "x": 737.17,
+        "y": 91.84,
+        "team": 0
+    },
+    {
+        "frameID": 10,
+        "playerID": 1,
+        "x": 684.62,
+        "y": 24.54,
+        "team": 1
+    },
+    {
+        "frameID": 10,
+        "playerID": 2,
+        "x": 817.04,
+        "y": 477.36,
+        "team": 1
+    },
+    {
+        "frameID": 10,
+        "playerID": 3,
+        "x": 599.7,
+        "y": 320.85,
+        "team": 1
+    },
+    {
+        "frameID": 10,
+        "playerID": 4,
+        "x": 652.98,
+        "y": 140.56,
+        "team": 1
+    },
+    {
+        "frameID": 10,
+        "playerID": 6,
+        "x": 664.1,
+        "y": 290.17,
+        "team": 0
+    },
+    {
+        "frameID": 10,
+        "playerID": 7,
+        "x": 813.4,
+        "y": 372.2,
+        "team": 0
+    },
+    {
+        "frameID": 10,
+        "playerID": 8,
+        "x": 738.13,
+        "y": 231.51,
+        "team": 0
+    },
+    {
+        "frameID": 10,
+        "playerID": 9,
+        "x": 685.56,
+        "y": 141.94,
+        "team": 0
+    },
+    {
+        "frameID": 10,
+        "playerID": 10,
+        "x": 735.58,
+        "y": 93.53,
+        "team": 0
+    },
+    {
+        "frameID": 11,
+        "playerID": 1,
+        "x": 684.76,
+        "y": 23.5,
+        "team": 1
+    },
+    {
+        "frameID": 11,
+        "playerID": 2,
+        "x": 819.81,
+        "y": 477.57,
+        "team": 1
+    },
+    {
+        "frameID": 11,
+        "playerID": 3,
+        "x": 602.46,
+        "y": 325.51,
+        "team": 1
+    },
+    {
+        "frameID": 11,
+        "playerID": 4,
+        "x": 651.71,
+        "y": 142.71,
+        "team": 1
+    },
+    {
+        "frameID": 11,
+        "playerID": 6,
+        "x": 666.27,
+        "y": 292.01,
+        "team": 0
+    },
+    {
+        "frameID": 11,
+        "playerID": 7,
+        "x": 815.76,
+        "y": 371.53,
+        "team": 0
+    },
+    {
+        "frameID": 11,
+        "playerID": 8,
+        "x": 738.91,
+        "y": 230.52,
+        "team": 0
+    },
+    {
+        "frameID": 11,
+        "playerID": 9,
+        "x": 684.78,
+        "y": 144.48,
+        "team": 0
+    },
+    {
+        "frameID": 11,
+        "playerID": 10,
+        "x": 734.02,
+        "y": 95.02,
+        "team": 0
+    },
+    {
+        "frameID": 12,
+        "playerID": 1,
+        "x": 684.88,
+        "y": 22.38,
+        "team": 1
+    },
+    {
+        "frameID": 12,
+        "playerID": 2,
+        "x": 822.36,
+        "y": 477.78,
+        "team": 1
+    },
+    {
+        "frameID": 12,
+        "playerID": 3,
+        "x": 605.1,
+        "y": 330.22,
+        "team": 1
+    },
+    {
+        "frameID": 12,
+        "playerID": 4,
+        "x": 650.48,
+        "y": 144.77,
+        "team": 1
+    },
+    {
+        "frameID": 12,
+        "playerID": 6,
+        "x": 668.54,
+        "y": 293.77,
+        "team": 0
+    },
+    {
+        "frameID": 12,
+        "playerID": 7,
+        "x": 818.09,
+        "y": 370.74,
+        "team": 0
+    },
+    {
+        "frameID": 12,
+        "playerID": 8,
+        "x": 739.67,
+        "y": 229.32,
+        "team": 0
+    },
+    {
+        "frameID": 12,
+        "playerID": 9,
+        "x": 684.08,
+        "y": 146.86,
+        "team": 0
+    },
+    {
+        "frameID": 12,
+        "playerID": 10,
+        "x": 732.54,
+        "y": 96.31,
+        "team": 0
+    },
+    {
+        "frameID": 13,
+        "playerID": 1,
+        "x": 685.0,
+        "y": 21.23,
+        "team": 1
+    },
+    {
+        "frameID": 13,
+        "playerID": 2,
+        "x": 824.7,
+        "y": 477.97,
+        "team": 1
+    },
+    {
+        "frameID": 13,
+        "playerID": 3,
+        "x": 607.63,
+        "y": 334.96,
+        "team": 1
+    },
+    {
+        "frameID": 13,
+        "playerID": 4,
+        "x": 649.31,
+        "y": 146.75,
+        "team": 1
+    },
+    {
+        "frameID": 13,
+        "playerID": 6,
+        "x": 670.89,
+        "y": 295.46,
+        "team": 0
+    },
+    {
+        "frameID": 13,
+        "playerID": 7,
+        "x": 820.37,
+        "y": 369.86,
+        "team": 0
+    },
+    {
+        "frameID": 13,
+        "playerID": 8,
+        "x": 740.38,
+        "y": 227.97,
+        "team": 0
+    },
+    {
+        "frameID": 13,
+        "playerID": 9,
+        "x": 683.45,
+        "y": 149.11,
+        "team": 0
+    },
+    {
+        "frameID": 13,
+        "playerID": 10,
+        "x": 731.19,
+        "y": 97.4,
+        "team": 0
+    },
+    {
+        "frameID": 14,
+        "playerID": 1,
+        "x": 685.18,
+        "y": 20.09,
+        "team": 1
+    },
+    {
+        "frameID": 14,
+        "playerID": 2,
+        "x": 826.85,
+        "y": 478.15,
+        "team": 1
+    },
+    {
+        "frameID": 14,
+        "playerID": 3,
+        "x": 610.05,
+        "y": 339.71,
+        "team": 1
+    },
+    {
+        "frameID": 14,
+        "playerID": 4,
+        "x": 648.18,
+        "y": 148.71,
+        "team": 1
+    },
+    {
+        "frameID": 14,
+        "playerID": 6,
+        "x": 673.28,
+        "y": 297.08,
+        "team": 0
+    },
+    {
+        "frameID": 14,
+        "playerID": 7,
+        "x": 822.6,
+        "y": 368.92,
+        "team": 0
+    },
+    {
+        "frameID": 14,
+        "playerID": 8,
+        "x": 741.03,
+        "y": 226.51,
+        "team": 0
+    },
+    {
+        "frameID": 14,
+        "playerID": 9,
+        "x": 682.88,
+        "y": 151.26,
+        "team": 0
+    },
+    {
+        "frameID": 14,
+        "playerID": 10,
+        "x": 730.0,
+        "y": 98.28,
+        "team": 0
+    },
+    {
+        "frameID": 15,
+        "playerID": 1,
+        "x": 685.44,
+        "y": 18.99,
+        "team": 1
+    },
+    {
+        "frameID": 15,
+        "playerID": 2,
+        "x": 828.83,
+        "y": 478.31,
+        "team": 1
+    },
+    {
+        "frameID": 15,
+        "playerID": 3,
+        "x": 612.39,
+        "y": 344.45,
+        "team": 1
+    },
+    {
+        "frameID": 15,
+        "playerID": 4,
+        "x": 647.1,
+        "y": 150.67,
+        "team": 1
+    },
+    {
+        "frameID": 15,
+        "playerID": 6,
+        "x": 675.7,
+        "y": 298.65,
+        "team": 0
+    },
+    {
+        "frameID": 15,
+        "playerID": 7,
+        "x": 824.77,
+        "y": 367.94,
+        "team": 0
+    },
+    {
+        "frameID": 15,
+        "playerID": 8,
+        "x": 741.6,
+        "y": 224.98,
+        "team": 0
+    },
+    {
+        "frameID": 15,
+        "playerID": 9,
+        "x": 682.36,
+        "y": 153.32,
+        "team": 0
+    },
+    {
+        "frameID": 15,
+        "playerID": 10,
+        "x": 729.0,
+        "y": 98.96,
+        "team": 0
+    },
+    {
+        "frameID": 16,
+        "playerID": 1,
+        "x": 685.8,
+        "y": 17.95,
+        "team": 1
+    },
+    {
+        "frameID": 16,
+        "playerID": 2,
+        "x": 830.63,
+        "y": 478.45,
+        "team": 1
+    },
+    {
+        "frameID": 16,
+        "playerID": 3,
+        "x": 614.64,
+        "y": 349.14,
+        "team": 1
+    },
+    {
+        "frameID": 16,
+        "playerID": 4,
+        "x": 646.07,
+        "y": 152.66,
+        "team": 1
+    },
+    {
+        "frameID": 16,
+        "playerID": 6,
+        "x": 678.11,
+        "y": 300.17,
+        "team": 0
+    },
+    {
+        "frameID": 16,
+        "playerID": 7,
+        "x": 826.87,
+        "y": 366.93,
+        "team": 0
+    },
+    {
+        "frameID": 16,
+        "playerID": 8,
+        "x": 742.06,
+        "y": 223.4,
+        "team": 0
+    },
+    {
+        "frameID": 16,
+        "playerID": 9,
+        "x": 681.87,
+        "y": 155.34,
+        "team": 0
+    },
+    {
+        "frameID": 16,
+        "playerID": 10,
+        "x": 728.21,
+        "y": 99.44,
+        "team": 0
+    },
+    {
+        "frameID": 17,
+        "playerID": 1,
+        "x": 686.29,
+        "y": 17.0,
+        "team": 1
+    },
+    {
+        "frameID": 17,
+        "playerID": 2,
+        "x": 832.28,
+        "y": 478.57,
+        "team": 1
+    },
+    {
+        "frameID": 17,
+        "playerID": 3,
+        "x": 616.81,
+        "y": 353.78,
+        "team": 1
+    },
+    {
+        "frameID": 17,
+        "playerID": 4,
+        "x": 645.09,
+        "y": 154.71,
+        "team": 1
+    },
+    {
+        "frameID": 17,
+        "playerID": 6,
+        "x": 680.51,
+        "y": 301.65,
+        "team": 0
+    },
+    {
+        "frameID": 17,
+        "playerID": 7,
+        "x": 828.89,
+        "y": 365.92,
+        "team": 0
+    },
+    {
+        "frameID": 17,
+        "playerID": 8,
+        "x": 742.4,
+        "y": 221.8,
+        "team": 0
+    },
+    {
+        "frameID": 17,
+        "playerID": 9,
+        "x": 681.41,
+        "y": 157.31,
+        "team": 0
+    },
+    {
+        "frameID": 17,
+        "playerID": 10,
+        "x": 727.65,
+        "y": 99.72,
+        "team": 0
+    },
+    {
+        "frameID": 18,
+        "playerID": 1,
+        "x": 686.91,
+        "y": 16.15,
+        "team": 1
+    },
+    {
+        "frameID": 18,
+        "playerID": 2,
+        "x": 833.79,
+        "y": 478.67,
+        "team": 1
+    },
+    {
+        "frameID": 18,
+        "playerID": 3,
+        "x": 618.9,
+        "y": 358.35,
+        "team": 1
+    },
+    {
+        "frameID": 18,
+        "playerID": 4,
+        "x": 644.15,
+        "y": 156.83,
+        "team": 1
+    },
+    {
+        "frameID": 18,
+        "playerID": 6,
+        "x": 682.87,
+        "y": 303.1,
+        "team": 0
+    },
+    {
+        "frameID": 18,
+        "playerID": 7,
+        "x": 830.84,
+        "y": 364.91,
+        "team": 0
+    },
+    {
+        "frameID": 18,
+        "playerID": 8,
+        "x": 742.61,
+        "y": 220.21,
+        "team": 0
+    },
+    {
+        "frameID": 18,
+        "playerID": 9,
+        "x": 680.96,
+        "y": 159.27,
+        "team": 0
+    },
+    {
+        "frameID": 18,
+        "playerID": 10,
+        "x": 727.33,
+        "y": 99.82,
+        "team": 0
+    },
+    {
+        "frameID": 19,
+        "playerID": 1,
+        "x": 687.67,
+        "y": 15.42,
+        "team": 1
+    },
+    {
+        "frameID": 19,
+        "playerID": 2,
+        "x": 835.16,
+        "y": 478.75,
+        "team": 1
+    },
+    {
+        "frameID": 19,
+        "playerID": 3,
+        "x": 620.92,
+        "y": 362.84,
+        "team": 1
+    },
+    {
+        "frameID": 19,
+        "playerID": 4,
+        "x": 643.26,
+        "y": 159.04,
+        "team": 1
+    },
+    {
+        "frameID": 19,
+        "playerID": 6,
+        "x": 685.18,
+        "y": 304.52,
+        "team": 0
+    },
+    {
+        "frameID": 19,
+        "playerID": 7,
+        "x": 832.7,
+        "y": 363.92,
+        "team": 0
+    },
+    {
+        "frameID": 19,
+        "playerID": 8,
+        "x": 742.68,
+        "y": 218.65,
+        "team": 0
+    },
+    {
+        "frameID": 19,
+        "playerID": 9,
+        "x": 680.53,
+        "y": 161.22,
+        "team": 0
+    },
+    {
+        "frameID": 19,
+        "playerID": 10,
+        "x": 727.25,
+        "y": 99.75,
+        "team": 0
+    },
+    {
+        "frameID": 20,
+        "playerID": 1,
+        "x": 688.58,
+        "y": 14.8,
+        "team": 1
+    },
+    {
+        "frameID": 20,
+        "playerID": 2,
+        "x": 836.41,
+        "y": 478.81,
+        "team": 1
+    },
+    {
+        "frameID": 20,
+        "playerID": 3,
+        "x": 622.89,
+        "y": 367.22,
+        "team": 1
+    },
+    {
+        "frameID": 20,
+        "playerID": 4,
+        "x": 642.42,
+        "y": 161.36,
+        "team": 1
+    },
+    {
+        "frameID": 20,
+        "playerID": 6,
+        "x": 687.44,
+        "y": 305.92,
+        "team": 0
+    },
+    {
+        "frameID": 20,
+        "playerID": 7,
+        "x": 834.47,
+        "y": 362.97,
+        "team": 0
+    },
+    {
+        "frameID": 20,
+        "playerID": 8,
+        "x": 742.61,
+        "y": 217.15,
+        "team": 0
+    },
+    {
+        "frameID": 20,
+        "playerID": 9,
+        "x": 680.09,
+        "y": 163.19,
+        "team": 0
+    },
+    {
+        "frameID": 20,
+        "playerID": 10,
+        "x": 727.42,
+        "y": 99.52,
+        "team": 0
+    },
+    {
+        "frameID": 21,
+        "playerID": 1,
+        "x": 689.63,
+        "y": 14.32,
+        "team": 1
+    },
+    {
+        "frameID": 21,
+        "playerID": 2,
+        "x": 837.55,
+        "y": 478.84,
+        "team": 1
+    },
+    {
+        "frameID": 21,
+        "playerID": 3,
+        "x": 624.79,
+        "y": 371.5,
+        "team": 1
+    },
+    {
+        "frameID": 21,
+        "playerID": 4,
+        "x": 641.61,
+        "y": 163.8,
+        "team": 1
+    },
+    {
+        "frameID": 21,
+        "playerID": 6,
+        "x": 689.61,
+        "y": 307.3,
+        "team": 0
+    },
+    {
+        "frameID": 21,
+        "playerID": 7,
+        "x": 836.16,
+        "y": 362.05,
+        "team": 0
+    },
+    {
+        "frameID": 21,
+        "playerID": 8,
+        "x": 742.39,
+        "y": 215.71,
+        "team": 0
+    },
+    {
+        "frameID": 21,
+        "playerID": 9,
+        "x": 679.66,
+        "y": 165.19,
+        "team": 0
+    },
+    {
+        "frameID": 21,
+        "playerID": 10,
+        "x": 727.83,
+        "y": 99.14,
+        "team": 0
+    },
+    {
+        "frameID": 22,
+        "playerID": 1,
+        "x": 690.81,
+        "y": 13.97,
+        "team": 1
+    },
+    {
+        "frameID": 22,
+        "playerID": 2,
+        "x": 838.59,
+        "y": 478.84,
+        "team": 1
+    },
+    {
+        "frameID": 22,
+        "playerID": 3,
+        "x": 626.64,
+        "y": 375.66,
+        "team": 1
+    },
+    {
+        "frameID": 22,
+        "playerID": 4,
+        "x": 640.84,
+        "y": 166.37,
+        "team": 1
+    },
+    {
+        "frameID": 22,
+        "playerID": 6,
+        "x": 691.7,
+        "y": 308.68,
+        "team": 0
+    },
+    {
+        "frameID": 22,
+        "playerID": 7,
+        "x": 837.75,
+        "y": 361.18,
+        "team": 0
+    },
+    {
+        "frameID": 22,
+        "playerID": 8,
+        "x": 742.02,
+        "y": 214.34,
+        "team": 0
+    },
+    {
+        "frameID": 22,
+        "playerID": 9,
+        "x": 679.21,
+        "y": 167.22,
+        "team": 0
+    },
+    {
+        "frameID": 22,
+        "playerID": 10,
+        "x": 728.47,
+        "y": 98.62,
+        "team": 0
+    },
+    {
+        "frameID": 23,
+        "playerID": 1,
+        "x": 692.13,
+        "y": 13.74,
+        "team": 1
+    },
+    {
+        "frameID": 23,
+        "playerID": 2,
+        "x": 839.53,
+        "y": 478.82,
+        "team": 1
+    },
+    {
+        "frameID": 23,
+        "playerID": 3,
+        "x": 628.45,
+        "y": 379.69,
+        "team": 1
+    },
+    {
+        "frameID": 23,
+        "playerID": 4,
+        "x": 640.1,
+        "y": 169.08,
+        "team": 1
+    },
+    {
+        "frameID": 23,
+        "playerID": 6,
+        "x": 693.71,
+        "y": 310.04,
+        "team": 0
+    },
+    {
+        "frameID": 23,
+        "playerID": 7,
+        "x": 839.25,
+        "y": 360.37,
+        "team": 0
+    },
+    {
+        "frameID": 23,
+        "playerID": 8,
+        "x": 741.49,
+        "y": 213.07,
+        "team": 0
+    },
+    {
+        "frameID": 23,
+        "playerID": 9,
+        "x": 678.76,
+        "y": 169.3,
+        "team": 0
+    },
+    {
+        "frameID": 23,
+        "playerID": 10,
+        "x": 729.32,
+        "y": 97.98,
+        "team": 0
+    },
+    {
+        "frameID": 24,
+        "playerID": 1,
+        "x": 693.56,
+        "y": 13.65,
+        "team": 1
+    },
+    {
+        "frameID": 24,
+        "playerID": 2,
+        "x": 840.39,
+        "y": 478.78,
+        "team": 1
+    },
+    {
+        "frameID": 24,
+        "playerID": 3,
+        "x": 630.21,
+        "y": 383.6,
+        "team": 1
+    },
+    {
+        "frameID": 24,
+        "playerID": 4,
+        "x": 639.4,
+        "y": 171.93,
+        "team": 1
+    },
+    {
+        "frameID": 24,
+        "playerID": 6,
+        "x": 695.61,
+        "y": 311.39,
+        "team": 0
+    },
+    {
+        "frameID": 24,
+        "playerID": 7,
+        "x": 840.65,
+        "y": 359.62,
+        "team": 0
+    },
+    {
+        "frameID": 24,
+        "playerID": 8,
+        "x": 740.8,
+        "y": 211.89,
+        "team": 0
+    },
+    {
+        "frameID": 24,
+        "playerID": 9,
+        "x": 678.28,
+        "y": 171.43,
+        "team": 0
+    },
+    {
+        "frameID": 24,
+        "playerID": 10,
+        "x": 730.38,
+        "y": 97.24,
+        "team": 0
+    },
+    {
+        "frameID": 25,
+        "playerID": 1,
+        "x": 695.09,
+        "y": 13.68,
+        "team": 1
+    },
+    {
+        "frameID": 25,
+        "playerID": 2,
+        "x": 841.17,
+        "y": 478.71,
+        "team": 1
+    },
+    {
+        "frameID": 25,
+        "playerID": 3,
+        "x": 631.93,
+        "y": 387.37,
+        "team": 1
+    },
+    {
+        "frameID": 25,
+        "playerID": 4,
+        "x": 638.71,
+        "y": 174.92,
+        "team": 1
+    },
+    {
+        "frameID": 25,
+        "playerID": 6,
+        "x": 697.42,
+        "y": 312.75,
+        "team": 0
+    },
+    {
+        "frameID": 25,
+        "playerID": 7,
+        "x": 841.96,
+        "y": 358.93,
+        "team": 0
+    },
+    {
+        "frameID": 25,
+        "playerID": 8,
+        "x": 739.97,
+        "y": 210.81,
+        "team": 0
+    },
+    {
+        "frameID": 25,
+        "playerID": 9,
+        "x": 677.79,
+        "y": 173.64,
+        "team": 0
+    },
+    {
+        "frameID": 25,
+        "playerID": 10,
+        "x": 731.63,
+        "y": 96.41,
+        "team": 0
+    },
+    {
+        "frameID": 26,
+        "playerID": 1,
+        "x": 696.71,
+        "y": 13.84,
+        "team": 1
+    },
+    {
+        "frameID": 26,
+        "playerID": 2,
+        "x": 841.89,
+        "y": 478.62,
+        "team": 1
+    },
+    {
+        "frameID": 26,
+        "playerID": 3,
+        "x": 633.62,
+        "y": 391.0,
+        "team": 1
+    },
+    {
+        "frameID": 26,
+        "playerID": 4,
+        "x": 638.06,
+        "y": 178.07,
+        "team": 1
+    },
+    {
+        "frameID": 26,
+        "playerID": 6,
+        "x": 699.12,
+        "y": 314.1,
+        "team": 0
+    },
+    {
+        "frameID": 26,
+        "playerID": 7,
+        "x": 843.18,
+        "y": 358.31,
+        "team": 0
+    },
+    {
+        "frameID": 26,
+        "playerID": 8,
+        "x": 738.98,
+        "y": 209.85,
+        "team": 0
+    },
+    {
+        "frameID": 26,
+        "playerID": 9,
+        "x": 677.27,
+        "y": 175.91,
+        "team": 0
+    },
+    {
+        "frameID": 26,
+        "playerID": 10,
+        "x": 733.05,
+        "y": 95.51,
+        "team": 0
+    },
+    {
+        "frameID": 27,
+        "playerID": 1,
+        "x": 698.4,
+        "y": 14.1,
+        "team": 1
+    },
+    {
+        "frameID": 27,
+        "playerID": 2,
+        "x": 842.55,
+        "y": 478.5,
+        "team": 1
+    },
+    {
+        "frameID": 27,
+        "playerID": 3,
+        "x": 635.28,
+        "y": 394.48,
+        "team": 1
+    },
+    {
+        "frameID": 27,
+        "playerID": 4,
+        "x": 637.42,
+        "y": 181.36,
+        "team": 1
+    },
+    {
+        "frameID": 27,
+        "playerID": 6,
+        "x": 700.71,
+        "y": 315.46,
+        "team": 0
+    },
+    {
+        "frameID": 27,
+        "playerID": 7,
+        "x": 844.31,
+        "y": 357.76,
+        "team": 0
+    },
+    {
+        "frameID": 27,
+        "playerID": 8,
+        "x": 737.85,
+        "y": 208.99,
+        "team": 0
+    },
+    {
+        "frameID": 27,
+        "playerID": 9,
+        "x": 676.73,
+        "y": 178.26,
+        "team": 0
+    },
+    {
+        "frameID": 27,
+        "playerID": 10,
+        "x": 734.62,
+        "y": 94.54,
+        "team": 0
+    },
+    {
+        "frameID": 28,
+        "playerID": 1,
+        "x": 700.15,
+        "y": 14.48,
+        "team": 1
+    },
+    {
+        "frameID": 28,
+        "playerID": 2,
+        "x": 843.16,
+        "y": 478.37,
+        "team": 1
+    },
+    {
+        "frameID": 28,
+        "playerID": 3,
+        "x": 636.91,
+        "y": 397.83,
+        "team": 1
+    },
+    {
+        "frameID": 28,
+        "playerID": 4,
+        "x": 636.8,
+        "y": 184.79,
+        "team": 1
+    },
+    {
+        "frameID": 28,
+        "playerID": 6,
+        "x": 702.19,
+        "y": 316.81,
+        "team": 0
+    },
+    {
+        "frameID": 28,
+        "playerID": 7,
+        "x": 845.34,
+        "y": 357.28,
+        "team": 0
+    },
+    {
+        "frameID": 28,
+        "playerID": 8,
+        "x": 736.58,
+        "y": 208.25,
+        "team": 0
+    },
+    {
+        "frameID": 28,
+        "playerID": 9,
+        "x": 676.16,
+        "y": 180.69,
+        "team": 0
+    },
+    {
+        "frameID": 28,
+        "playerID": 10,
+        "x": 736.32,
+        "y": 93.54,
+        "team": 0
+    },
+    {
+        "frameID": 29,
+        "playerID": 1,
+        "x": 701.93,
+        "y": 14.95,
+        "team": 1
+    },
+    {
+        "frameID": 29,
+        "playerID": 2,
+        "x": 843.72,
+        "y": 478.21,
+        "team": 1
+    },
+    {
+        "frameID": 29,
+        "playerID": 3,
+        "x": 638.52,
+        "y": 401.03,
+        "team": 1
+    },
+    {
+        "frameID": 29,
+        "playerID": 4,
+        "x": 636.19,
+        "y": 188.37,
+        "team": 1
+    },
+    {
+        "frameID": 29,
+        "playerID": 6,
+        "x": 703.57,
+        "y": 318.17,
+        "team": 0
+    },
+    {
+        "frameID": 29,
+        "playerID": 7,
+        "x": 846.28,
+        "y": 356.87,
+        "team": 0
+    },
+    {
+        "frameID": 29,
+        "playerID": 8,
+        "x": 735.18,
+        "y": 207.61,
+        "team": 0
+    },
+    {
+        "frameID": 29,
+        "playerID": 9,
+        "x": 675.57,
+        "y": 183.2,
+        "team": 0
+    },
+    {
+        "frameID": 29,
+        "playerID": 10,
+        "x": 738.12,
+        "y": 92.52,
+        "team": 0
+    },
+    {
+        "frameID": 30,
+        "playerID": 1,
+        "x": 703.72,
+        "y": 15.52,
+        "team": 1
+    },
+    {
+        "frameID": 30,
+        "playerID": 2,
+        "x": 844.24,
+        "y": 478.04,
+        "team": 1
+    },
+    {
+        "frameID": 30,
+        "playerID": 3,
+        "x": 640.11,
+        "y": 404.09,
+        "team": 1
+    },
+    {
+        "frameID": 30,
+        "playerID": 4,
+        "x": 635.59,
+        "y": 192.09,
+        "team": 1
+    },
+    {
+        "frameID": 30,
+        "playerID": 6,
+        "x": 704.84,
+        "y": 319.54,
+        "team": 0
+    },
+    {
+        "frameID": 30,
+        "playerID": 7,
+        "x": 847.13,
+        "y": 356.53,
+        "team": 0
+    },
+    {
+        "frameID": 30,
+        "playerID": 8,
+        "x": 733.66,
+        "y": 207.09,
+        "team": 0
+    },
+    {
+        "frameID": 30,
+        "playerID": 9,
+        "x": 674.94,
+        "y": 185.81,
+        "team": 0
+    },
+    {
+        "frameID": 30,
+        "playerID": 10,
+        "x": 740.01,
+        "y": 91.48,
+        "team": 0
+    },
+    {
+        "frameID": 31,
+        "playerID": 1,
+        "x": 705.51,
+        "y": 16.16,
+        "team": 1
+    },
+    {
+        "frameID": 31,
+        "playerID": 2,
+        "x": 844.73,
+        "y": 477.85,
+        "team": 1
+    },
+    {
+        "frameID": 31,
+        "playerID": 3,
+        "x": 641.69,
+        "y": 407.01,
+        "team": 1
+    },
+    {
+        "frameID": 31,
+        "playerID": 4,
+        "x": 634.99,
+        "y": 195.94,
+        "team": 1
+    },
+    {
+        "frameID": 31,
+        "playerID": 6,
+        "x": 706.0,
+        "y": 320.91,
+        "team": 0
+    },
+    {
+        "frameID": 31,
+        "playerID": 7,
+        "x": 847.9,
+        "y": 356.26,
+        "team": 0
+    },
+    {
+        "frameID": 31,
+        "playerID": 8,
+        "x": 732.02,
+        "y": 206.67,
+        "team": 0
+    },
+    {
+        "frameID": 31,
+        "playerID": 9,
+        "x": 674.29,
+        "y": 188.5,
+        "team": 0
+    },
+    {
+        "frameID": 31,
+        "playerID": 10,
+        "x": 741.95,
+        "y": 90.45,
+        "team": 0
+    },
+    {
+        "frameID": 32,
+        "playerID": 1,
+        "x": 707.27,
+        "y": 16.89,
+        "team": 1
+    },
+    {
+        "frameID": 32,
+        "playerID": 2,
+        "x": 845.2,
+        "y": 477.64,
+        "team": 1
+    },
+    {
+        "frameID": 32,
+        "playerID": 3,
+        "x": 643.25,
+        "y": 409.79,
+        "team": 1
+    },
+    {
+        "frameID": 32,
+        "playerID": 4,
+        "x": 634.4,
+        "y": 199.92,
+        "team": 1
+    },
+    {
+        "frameID": 32,
+        "playerID": 6,
+        "x": 707.06,
+        "y": 322.28,
+        "team": 0
+    },
+    {
+        "frameID": 32,
+        "playerID": 7,
+        "x": 848.58,
+        "y": 356.05,
+        "team": 0
+    },
+    {
+        "frameID": 32,
+        "playerID": 8,
+        "x": 730.27,
+        "y": 206.36,
+        "team": 0
+    },
+    {
+        "frameID": 32,
+        "playerID": 9,
+        "x": 673.61,
+        "y": 191.27,
+        "team": 0
+    },
+    {
+        "frameID": 32,
+        "playerID": 10,
+        "x": 743.94,
+        "y": 89.45,
+        "team": 0
+    },
+    {
+        "frameID": 33,
+        "playerID": 1,
+        "x": 708.98,
+        "y": 17.67,
+        "team": 1
+    },
+    {
+        "frameID": 33,
+        "playerID": 2,
+        "x": 845.65,
+        "y": 477.42,
+        "team": 1
+    },
+    {
+        "frameID": 33,
+        "playerID": 3,
+        "x": 644.8,
+        "y": 412.43,
+        "team": 1
+    },
+    {
+        "frameID": 33,
+        "playerID": 4,
+        "x": 633.8,
+        "y": 204.02,
+        "team": 1
+    },
+    {
+        "frameID": 33,
+        "playerID": 6,
+        "x": 708.03,
+        "y": 323.66,
+        "team": 0
+    },
+    {
+        "frameID": 33,
+        "playerID": 7,
+        "x": 849.18,
+        "y": 355.91,
+        "team": 0
+    },
+    {
+        "frameID": 33,
+        "playerID": 8,
+        "x": 728.42,
+        "y": 206.14,
+        "team": 0
+    },
+    {
+        "frameID": 33,
+        "playerID": 9,
+        "x": 672.9,
+        "y": 194.14,
+        "team": 0
+    },
+    {
+        "frameID": 33,
+        "playerID": 10,
+        "x": 745.93,
+        "y": 88.48,
+        "team": 0
+    },
+    {
+        "frameID": 34,
+        "playerID": 1,
+        "x": 710.63,
+        "y": 18.52,
+        "team": 1
+    },
+    {
+        "frameID": 34,
+        "playerID": 2,
+        "x": 846.08,
+        "y": 477.18,
+        "team": 1
+    },
+    {
+        "frameID": 34,
+        "playerID": 3,
+        "x": 646.35,
+        "y": 414.94,
+        "team": 1
+    },
+    {
+        "frameID": 34,
+        "playerID": 4,
+        "x": 633.21,
+        "y": 208.23,
+        "team": 1
+    },
+    {
+        "frameID": 34,
+        "playerID": 6,
+        "x": 708.89,
+        "y": 325.04,
+        "team": 0
+    },
+    {
+        "frameID": 34,
+        "playerID": 7,
+        "x": 849.71,
+        "y": 355.83,
+        "team": 0
+    },
+    {
+        "frameID": 34,
+        "playerID": 8,
+        "x": 726.48,
+        "y": 206.01,
+        "team": 0
+    },
+    {
+        "frameID": 34,
+        "playerID": 9,
+        "x": 672.17,
+        "y": 197.09,
+        "team": 0
+    },
+    {
+        "frameID": 34,
+        "playerID": 10,
+        "x": 747.92,
+        "y": 87.57,
+        "team": 0
+    },
+    {
+        "frameID": 35,
+        "playerID": 1,
+        "x": 712.19,
+        "y": 19.41,
+        "team": 1
+    },
+    {
+        "frameID": 35,
+        "playerID": 2,
+        "x": 846.5,
+        "y": 476.93,
+        "team": 1
+    },
+    {
+        "frameID": 35,
+        "playerID": 3,
+        "x": 647.89,
+        "y": 417.32,
+        "team": 1
+    },
+    {
+        "frameID": 35,
+        "playerID": 4,
+        "x": 632.6,
+        "y": 212.54,
+        "team": 1
+    },
+    {
+        "frameID": 35,
+        "playerID": 6,
+        "x": 709.66,
+        "y": 326.43,
+        "team": 0
+    },
+    {
+        "frameID": 35,
+        "playerID": 7,
+        "x": 850.15,
+        "y": 355.8,
+        "team": 0
+    },
+    {
+        "frameID": 35,
+        "playerID": 8,
+        "x": 724.47,
+        "y": 205.97,
+        "team": 0
+    },
+    {
+        "frameID": 35,
+        "playerID": 9,
+        "x": 671.41,
+        "y": 200.13,
+        "team": 0
+    },
+    {
+        "frameID": 35,
+        "playerID": 10,
+        "x": 749.87,
+        "y": 86.72,
+        "team": 0
+    },
+    {
+        "frameID": 36,
+        "playerID": 1,
+        "x": 713.65,
+        "y": 20.34,
+        "team": 1
+    },
+    {
+        "frameID": 36,
+        "playerID": 2,
+        "x": 846.92,
+        "y": 476.67,
+        "team": 1
+    },
+    {
+        "frameID": 36,
+        "playerID": 3,
+        "x": 649.42,
+        "y": 419.57,
+        "team": 1
+    },
+    {
+        "frameID": 36,
+        "playerID": 4,
+        "x": 631.99,
+        "y": 216.95,
+        "team": 1
+    },
+    {
+        "frameID": 36,
+        "playerID": 6,
+        "x": 710.35,
+        "y": 327.82,
+        "team": 0
+    },
+    {
+        "frameID": 36,
+        "playerID": 7,
+        "x": 850.53,
+        "y": 355.83,
+        "team": 0
+    },
+    {
+        "frameID": 36,
+        "playerID": 8,
+        "x": 722.38,
+        "y": 206.01,
+        "team": 0
+    },
+    {
+        "frameID": 36,
+        "playerID": 9,
+        "x": 670.63,
+        "y": 203.26,
+        "team": 0
+    },
+    {
+        "frameID": 36,
+        "playerID": 10,
+        "x": 751.78,
+        "y": 85.95,
+        "team": 0
+    },
+    {
+        "frameID": 37,
+        "playerID": 1,
+        "x": 714.99,
+        "y": 21.31,
+        "team": 1
+    },
+    {
+        "frameID": 37,
+        "playerID": 2,
+        "x": 847.33,
+        "y": 476.41,
+        "team": 1
+    },
+    {
+        "frameID": 37,
+        "playerID": 3,
+        "x": 650.95,
+        "y": 421.71,
+        "team": 1
+    },
+    {
+        "frameID": 37,
+        "playerID": 4,
+        "x": 631.37,
+        "y": 221.45,
+        "team": 1
+    },
+    {
+        "frameID": 37,
+        "playerID": 6,
+        "x": 710.96,
+        "y": 329.21,
+        "team": 0
+    },
+    {
+        "frameID": 37,
+        "playerID": 7,
+        "x": 850.84,
+        "y": 355.91,
+        "team": 0
+    },
+    {
+        "frameID": 37,
+        "playerID": 8,
+        "x": 720.24,
+        "y": 206.12,
+        "team": 0
+    },
+    {
+        "frameID": 37,
+        "playerID": 9,
+        "x": 669.82,
+        "y": 206.46,
+        "team": 0
+    },
+    {
+        "frameID": 37,
+        "playerID": 10,
+        "x": 753.6,
+        "y": 85.27,
+        "team": 0
+    },
+    {
+        "frameID": 38,
+        "playerID": 1,
+        "x": 716.18,
+        "y": 22.31,
+        "team": 1
+    },
+    {
+        "frameID": 38,
+        "playerID": 2,
+        "x": 847.75,
+        "y": 476.13,
+        "team": 1
+    },
+    {
+        "frameID": 38,
+        "playerID": 3,
+        "x": 652.49,
+        "y": 423.72,
+        "team": 1
+    },
+    {
+        "frameID": 38,
+        "playerID": 4,
+        "x": 630.74,
+        "y": 226.02,
+        "team": 1
+    },
+    {
+        "frameID": 38,
+        "playerID": 6,
+        "x": 711.48,
+        "y": 330.61,
+        "team": 0
+    },
+    {
+        "frameID": 38,
+        "playerID": 7,
+        "x": 851.09,
+        "y": 356.03,
+        "team": 0
+    },
+    {
+        "frameID": 38,
+        "playerID": 8,
+        "x": 718.06,
+        "y": 206.29,
+        "team": 0
+    },
+    {
+        "frameID": 38,
+        "playerID": 9,
+        "x": 669.0,
+        "y": 209.74,
+        "team": 0
+    },
+    {
+        "frameID": 38,
+        "playerID": 10,
+        "x": 755.34,
+        "y": 84.68,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 1,
+        "x": 717.23,
+        "y": 23.33,
+        "team": 1
+    },
+    {
+        "frameID": 39,
+        "playerID": 2,
+        "x": 848.18,
+        "y": 475.85,
+        "team": 1
+    },
+    {
+        "frameID": 39,
+        "playerID": 3,
+        "x": 654.02,
+        "y": 425.63,
+        "team": 1
+    },
+    {
+        "frameID": 39,
+        "playerID": 4,
+        "x": 630.09,
+        "y": 230.65,
+        "team": 1
+    },
+    {
+        "frameID": 39,
+        "playerID": 6,
+        "x": 711.94,
+        "y": 332.0,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 7,
+        "x": 851.27,
+        "y": 356.19,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 8,
+        "x": 715.84,
+        "y": 206.52,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 9,
+        "x": 668.15,
+        "y": 213.1,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 10,
+        "x": 756.96,
+        "y": 84.21,
+        "team": 0
+    },
+    {
+        "frameID": 39,
+        "playerID": 5,
+        "x": 533.77,
+        "y": 161.47,
+        "team": 1
+    },
+    {
+        "frameID": 40,
+        "playerID": 1,
+        "x": 718.1,
+        "y": 24.37,
+        "team": 1
+    },
+    {
+        "frameID": 40,
+        "playerID": 2,
+        "x": 848.61,
+        "y": 475.57,
+        "team": 1
+    },
+    {
+        "frameID": 40,
+        "playerID": 3,
+        "x": 655.56,
+        "y": 427.42,
+        "team": 1
+    },
+    {
+        "frameID": 40,
+        "playerID": 4,
+        "x": 629.43,
+        "y": 235.34,
+        "team": 1
+    },
+    {
+        "frameID": 40,
+        "playerID": 6,
+        "x": 712.34,
+        "y": 333.4,
+        "team": 0
+    },
+    {
+        "frameID": 40,
+        "playerID": 7,
+        "x": 851.4,
+        "y": 356.39,
+        "team": 0
+    },
+    {
+        "frameID": 40,
+        "playerID": 8,
+        "x": 713.59,
+        "y": 206.8,
+        "team": 0
+    },
+    {
+        "frameID": 40,
+        "playerID": 9,
+        "x": 667.29,
+        "y": 216.53,
+        "team": 0
+    },
+    {
+        "frameID": 40,
+        "playerID": 10,
+        "x": 758.45,
+        "y": 83.86,
+        "team": 0
+    },
+    {
+        "frameID": 40,
+        "playerID": 5,
+        "x": 540.11,
+        "y": 169.42,
+        "team": 1
+    },
+    {
+        "frameID": 41,
+        "playerID": 1,
+        "x": 718.8,
+        "y": 25.42,
+        "team": 1
+    },
+    {
+        "frameID": 41,
+        "playerID": 2,
+        "x": 849.06,
+        "y": 475.29,
+        "team": 1
+    },
+    {
+        "frameID": 41,
+        "playerID": 3,
+        "x": 657.11,
+        "y": 429.12,
+        "team": 1
+    },
+    {
+        "frameID": 41,
+        "playerID": 4,
+        "x": 628.75,
+        "y": 240.08,
+        "team": 1
+    },
+    {
+        "frameID": 41,
+        "playerID": 6,
+        "x": 712.67,
+        "y": 334.79,
+        "team": 0
+    },
+    {
+        "frameID": 41,
+        "playerID": 7,
+        "x": 851.47,
+        "y": 356.61,
+        "team": 0
+    },
+    {
+        "frameID": 41,
+        "playerID": 8,
+        "x": 711.34,
+        "y": 207.11,
+        "team": 0
+    },
+    {
+        "frameID": 41,
+        "playerID": 9,
+        "x": 666.42,
+        "y": 220.02,
+        "team": 0
+    },
+    {
+        "frameID": 41,
+        "playerID": 10,
+        "x": 759.8,
+        "y": 83.64,
+        "team": 0
+    },
+    {
+        "frameID": 41,
+        "playerID": 5,
+        "x": 545.26,
+        "y": 176.81,
+        "team": 1
+    },
+    {
+        "frameID": 42,
+        "playerID": 1,
+        "x": 719.3,
+        "y": 26.49,
+        "team": 1
+    },
+    {
+        "frameID": 42,
+        "playerID": 2,
+        "x": 849.52,
+        "y": 475.0,
+        "team": 1
+    },
+    {
+        "frameID": 42,
+        "playerID": 3,
+        "x": 658.66,
+        "y": 430.72,
+        "team": 1
+    },
+    {
+        "frameID": 42,
+        "playerID": 4,
+        "x": 628.05,
+        "y": 244.85,
+        "team": 1
+    },
+    {
+        "frameID": 42,
+        "playerID": 6,
+        "x": 712.96,
+        "y": 336.18,
+        "team": 0
+    },
+    {
+        "frameID": 42,
+        "playerID": 7,
+        "x": 851.5,
+        "y": 356.86,
+        "team": 0
+    },
+    {
+        "frameID": 42,
+        "playerID": 8,
+        "x": 709.08,
+        "y": 207.46,
+        "team": 0
+    },
+    {
+        "frameID": 42,
+        "playerID": 9,
+        "x": 665.53,
+        "y": 223.57,
+        "team": 0
+    },
+    {
+        "frameID": 42,
+        "playerID": 10,
+        "x": 760.98,
+        "y": 83.55,
+        "team": 0
+    },
+    {
+        "frameID": 42,
+        "playerID": 5,
+        "x": 549.42,
+        "y": 183.59,
+        "team": 1
+    },
+    {
+        "frameID": 43,
+        "playerID": 1,
+        "x": 719.6,
+        "y": 27.56,
+        "team": 1
+    },
+    {
+        "frameID": 43,
+        "playerID": 2,
+        "x": 850.0,
+        "y": 474.72,
+        "team": 1
+    },
+    {
+        "frameID": 43,
+        "playerID": 3,
+        "x": 660.21,
+        "y": 432.23,
+        "team": 1
+    },
+    {
+        "frameID": 43,
+        "playerID": 4,
+        "x": 627.34,
+        "y": 249.64,
+        "team": 1
+    },
+    {
+        "frameID": 43,
+        "playerID": 6,
+        "x": 713.19,
+        "y": 337.56,
+        "team": 0
+    },
+    {
+        "frameID": 43,
+        "playerID": 7,
+        "x": 851.48,
+        "y": 357.13,
+        "team": 0
+    },
+    {
+        "frameID": 43,
+        "playerID": 8,
+        "x": 706.83,
+        "y": 207.83,
+        "team": 0
+    },
+    {
+        "frameID": 43,
+        "playerID": 9,
+        "x": 664.64,
+        "y": 227.18,
+        "team": 0
+    },
+    {
+        "frameID": 43,
+        "playerID": 10,
+        "x": 762.0,
+        "y": 83.61,
+        "team": 0
+    },
+    {
+        "frameID": 43,
+        "playerID": 5,
+        "x": 552.78,
+        "y": 189.73,
+        "team": 1
+    },
+    {
+        "frameID": 44,
+        "playerID": 1,
+        "x": 719.68,
+        "y": 28.64,
+        "team": 1
+    },
+    {
+        "frameID": 44,
+        "playerID": 2,
+        "x": 850.5,
+        "y": 474.44,
+        "team": 1
+    },
+    {
+        "frameID": 44,
+        "playerID": 3,
+        "x": 661.77,
+        "y": 433.65,
+        "team": 1
+    },
+    {
+        "frameID": 44,
+        "playerID": 4,
+        "x": 626.61,
+        "y": 254.45,
+        "team": 1
+    },
+    {
+        "frameID": 44,
+        "playerID": 6,
+        "x": 713.39,
+        "y": 338.94,
+        "team": 0
+    },
+    {
+        "frameID": 44,
+        "playerID": 7,
+        "x": 851.42,
+        "y": 357.42,
+        "team": 0
+    },
+    {
+        "frameID": 44,
+        "playerID": 8,
+        "x": 704.6,
+        "y": 208.21,
+        "team": 0
+    },
+    {
+        "frameID": 44,
+        "playerID": 9,
+        "x": 663.74,
+        "y": 230.84,
+        "team": 0
+    },
+    {
+        "frameID": 44,
+        "playerID": 10,
+        "x": 762.84,
+        "y": 83.81,
+        "team": 0
+    },
+    {
+        "frameID": 44,
+        "playerID": 5,
+        "x": 555.51,
+        "y": 195.23,
+        "team": 1
+    },
+    {
+        "frameID": 45,
+        "playerID": 1,
+        "x": 719.55,
+        "y": 29.73,
+        "team": 1
+    },
+    {
+        "frameID": 45,
+        "playerID": 2,
+        "x": 851.02,
+        "y": 474.16,
+        "team": 1
+    },
+    {
+        "frameID": 45,
+        "playerID": 3,
+        "x": 663.35,
+        "y": 435.0,
+        "team": 1
+    },
+    {
+        "frameID": 45,
+        "playerID": 4,
+        "x": 625.86,
+        "y": 259.26,
+        "team": 1
+    },
+    {
+        "frameID": 45,
+        "playerID": 6,
+        "x": 713.56,
+        "y": 340.31,
+        "team": 0
+    },
+    {
+        "frameID": 45,
+        "playerID": 7,
+        "x": 851.32,
+        "y": 357.71,
+        "team": 0
+    },
+    {
+        "frameID": 45,
+        "playerID": 8,
+        "x": 702.4,
+        "y": 208.61,
+        "team": 0
+    },
+    {
+        "frameID": 45,
+        "playerID": 9,
+        "x": 662.83,
+        "y": 234.54,
+        "team": 0
+    },
+    {
+        "frameID": 45,
+        "playerID": 10,
+        "x": 763.48,
+        "y": 84.16,
+        "team": 0
+    },
+    {
+        "frameID": 45,
+        "playerID": 5,
+        "x": 557.74,
+        "y": 200.07,
+        "team": 1
+    },
+    {
+        "frameID": 46,
+        "playerID": 1,
+        "x": 719.2,
+        "y": 30.82,
+        "team": 1
+    },
+    {
+        "frameID": 46,
+        "playerID": 2,
+        "x": 851.57,
+        "y": 473.89,
+        "team": 1
+    },
+    {
+        "frameID": 46,
+        "playerID": 3,
+        "x": 664.92,
+        "y": 436.27,
+        "team": 1
+    },
+    {
+        "frameID": 46,
+        "playerID": 4,
+        "x": 625.09,
+        "y": 264.07,
+        "team": 1
+    },
+    {
+        "frameID": 46,
+        "playerID": 6,
+        "x": 713.7,
+        "y": 341.66,
+        "team": 0
+    },
+    {
+        "frameID": 46,
+        "playerID": 7,
+        "x": 851.18,
+        "y": 358.01,
+        "team": 0
+    },
+    {
+        "frameID": 46,
+        "playerID": 8,
+        "x": 700.24,
+        "y": 209.0,
+        "team": 0
+    },
+    {
+        "frameID": 46,
+        "playerID": 9,
+        "x": 661.93,
+        "y": 238.28,
+        "team": 0
+    },
+    {
+        "frameID": 46,
+        "playerID": 10,
+        "x": 763.92,
+        "y": 84.66,
+        "team": 0
+    },
+    {
+        "frameID": 46,
+        "playerID": 5,
+        "x": 559.61,
+        "y": 204.25,
+        "team": 1
+    },
+    {
+        "frameID": 47,
+        "playerID": 1,
+        "x": 718.62,
+        "y": 31.93,
+        "team": 1
+    },
+    {
+        "frameID": 47,
+        "playerID": 2,
+        "x": 852.14,
+        "y": 473.63,
+        "team": 1
+    },
+    {
+        "frameID": 47,
+        "playerID": 3,
+        "x": 666.51,
+        "y": 437.47,
+        "team": 1
+    },
+    {
+        "frameID": 47,
+        "playerID": 4,
+        "x": 624.31,
+        "y": 268.86,
+        "team": 1
+    },
+    {
+        "frameID": 47,
+        "playerID": 6,
+        "x": 713.82,
+        "y": 343.01,
+        "team": 0
+    },
+    {
+        "frameID": 47,
+        "playerID": 7,
+        "x": 851.02,
+        "y": 358.31,
+        "team": 0
+    },
+    {
+        "frameID": 47,
+        "playerID": 8,
+        "x": 698.13,
+        "y": 209.38,
+        "team": 0
+    },
+    {
+        "frameID": 47,
+        "playerID": 9,
+        "x": 661.03,
+        "y": 242.05,
+        "team": 0
+    },
+    {
+        "frameID": 47,
+        "playerID": 10,
+        "x": 764.16,
+        "y": 85.31,
+        "team": 0
+    },
+    {
+        "frameID": 47,
+        "playerID": 5,
+        "x": 561.22,
+        "y": 207.8,
+        "team": 1
+    },
+    {
+        "frameID": 48,
+        "playerID": 1,
+        "x": 717.81,
+        "y": 33.04,
+        "team": 1
+    },
+    {
+        "frameID": 48,
+        "playerID": 2,
+        "x": 852.73,
+        "y": 473.37,
+        "team": 1
+    },
+    {
+        "frameID": 48,
+        "playerID": 3,
+        "x": 668.11,
+        "y": 438.61,
+        "team": 1
+    },
+    {
+        "frameID": 48,
+        "playerID": 4,
+        "x": 623.51,
+        "y": 273.62,
+        "team": 1
+    },
+    {
+        "frameID": 48,
+        "playerID": 6,
+        "x": 713.92,
+        "y": 344.34,
+        "team": 0
+    },
+    {
+        "frameID": 48,
+        "playerID": 7,
+        "x": 850.83,
+        "y": 358.6,
+        "team": 0
+    },
+    {
+        "frameID": 48,
+        "playerID": 8,
+        "x": 696.07,
+        "y": 209.74,
+        "team": 0
+    },
+    {
+        "frameID": 48,
+        "playerID": 9,
+        "x": 660.13,
+        "y": 245.85,
+        "team": 0
+    },
+    {
+        "frameID": 48,
+        "playerID": 10,
+        "x": 764.19,
+        "y": 86.13,
+        "team": 0
+    },
+    {
+        "frameID": 48,
+        "playerID": 5,
+        "x": 562.66,
+        "y": 210.71,
+        "team": 1
+    },
+    {
+        "frameID": 49,
+        "playerID": 1,
+        "x": 716.77,
+        "y": 34.17,
+        "team": 1
+    },
+    {
+        "frameID": 49,
+        "playerID": 2,
+        "x": 853.35,
+        "y": 473.13,
+        "team": 1
+    },
+    {
+        "frameID": 49,
+        "playerID": 3,
+        "x": 669.71,
+        "y": 439.69,
+        "team": 1
+    },
+    {
+        "frameID": 49,
+        "playerID": 4,
+        "x": 622.7,
+        "y": 278.34,
+        "team": 1
+    },
+    {
+        "frameID": 49,
+        "playerID": 6,
+        "x": 714.02,
+        "y": 345.66,
+        "team": 0
+    },
+    {
+        "frameID": 49,
+        "playerID": 7,
+        "x": 850.61,
+        "y": 358.88,
+        "team": 0
+    },
+    {
+        "frameID": 49,
+        "playerID": 8,
+        "x": 694.09,
+        "y": 210.09,
+        "team": 0
+    },
+    {
+        "frameID": 49,
+        "playerID": 9,
+        "x": 659.25,
+        "y": 249.67,
+        "team": 0
+    },
+    {
+        "frameID": 49,
+        "playerID": 10,
+        "x": 764.0,
+        "y": 87.09,
+        "team": 0
+    },
+    {
+        "frameID": 49,
+        "playerID": 5,
+        "x": 564.01,
+        "y": 213.02,
+        "team": 1
+    },
+    {
+        "frameID": 50,
+        "playerID": 1,
+        "x": 715.5,
+        "y": 35.31,
+        "team": 1
+    },
+    {
+        "frameID": 50,
+        "playerID": 2,
+        "x": 854.0,
+        "y": 472.89,
+        "team": 1
+    },
+    {
+        "frameID": 50,
+        "playerID": 3,
+        "x": 671.33,
+        "y": 440.72,
+        "team": 1
+    },
+    {
+        "frameID": 50,
+        "playerID": 4,
+        "x": 621.87,
+        "y": 283.03,
+        "team": 1
+    },
+    {
+        "frameID": 50,
+        "playerID": 6,
+        "x": 714.12,
+        "y": 346.96,
+        "team": 0
+    },
+    {
+        "frameID": 50,
+        "playerID": 7,
+        "x": 850.37,
+        "y": 359.15,
+        "team": 0
+    },
+    {
+        "frameID": 50,
+        "playerID": 8,
+        "x": 692.17,
+        "y": 210.4,
+        "team": 0
+    },
+    {
+        "frameID": 50,
+        "playerID": 9,
+        "x": 658.37,
+        "y": 253.5,
+        "team": 0
+    },
+    {
+        "frameID": 50,
+        "playerID": 10,
+        "x": 763.61,
+        "y": 88.21,
+        "team": 0
+    },
+    {
+        "frameID": 50,
+        "playerID": 5,
+        "x": 565.34,
+        "y": 214.76,
+        "team": 1
+    },
+    {
+        "frameID": 51,
+        "playerID": 1,
+        "x": 714.01,
+        "y": 36.47,
+        "team": 1
+    },
+    {
+        "frameID": 51,
+        "playerID": 2,
+        "x": 854.67,
+        "y": 472.67,
+        "team": 1
+    },
+    {
+        "frameID": 51,
+        "playerID": 3,
+        "x": 672.95,
+        "y": 441.7,
+        "team": 1
+    },
+    {
+        "frameID": 51,
+        "playerID": 4,
+        "x": 621.03,
+        "y": 287.66,
+        "team": 1
+    },
+    {
+        "frameID": 51,
+        "playerID": 6,
+        "x": 714.21,
+        "y": 348.25,
+        "team": 0
+    },
+    {
+        "frameID": 51,
+        "playerID": 7,
+        "x": 850.12,
+        "y": 359.4,
+        "team": 0
+    },
+    {
+        "frameID": 51,
+        "playerID": 8,
+        "x": 690.35,
+        "y": 210.68,
+        "team": 0
+    },
+    {
+        "frameID": 51,
+        "playerID": 9,
+        "x": 657.51,
+        "y": 257.34,
+        "team": 0
+    },
+    {
+        "frameID": 51,
+        "playerID": 10,
+        "x": 763.0,
+        "y": 89.48,
+        "team": 0
+    },
+    {
+        "frameID": 51,
+        "playerID": 5,
+        "x": 566.7,
+        "y": 215.95,
+        "team": 1
+    },
+    {
+        "frameID": 52,
+        "playerID": 1,
+        "x": 712.29,
+        "y": 37.65,
+        "team": 1
+    },
+    {
+        "frameID": 52,
+        "playerID": 2,
+        "x": 855.37,
+        "y": 472.46,
+        "team": 1
+    },
+    {
+        "frameID": 52,
+        "playerID": 3,
+        "x": 674.58,
+        "y": 442.63,
+        "team": 1
+    },
+    {
+        "frameID": 52,
+        "playerID": 4,
+        "x": 620.18,
+        "y": 292.23,
+        "team": 1
+    },
+    {
+        "frameID": 52,
+        "playerID": 6,
+        "x": 714.32,
+        "y": 349.51,
+        "team": 0
+    },
+    {
+        "frameID": 52,
+        "playerID": 7,
+        "x": 849.85,
+        "y": 359.63,
+        "team": 0
+    },
+    {
+        "frameID": 52,
+        "playerID": 8,
+        "x": 688.61,
+        "y": 210.92,
+        "team": 0
+    },
+    {
+        "frameID": 52,
+        "playerID": 9,
+        "x": 656.66,
+        "y": 261.18,
+        "team": 0
+    },
+    {
+        "frameID": 52,
+        "playerID": 10,
+        "x": 762.18,
+        "y": 90.9,
+        "team": 0
+    },
+    {
+        "frameID": 52,
+        "playerID": 5,
+        "x": 568.13,
+        "y": 216.63,
+        "team": 1
+    },
+    {
+        "frameID": 53,
+        "playerID": 1,
+        "x": 710.36,
+        "y": 38.86,
+        "team": 1
+    },
+    {
+        "frameID": 53,
+        "playerID": 2,
+        "x": 856.09,
+        "y": 472.26,
+        "team": 1
+    },
+    {
+        "frameID": 53,
+        "playerID": 3,
+        "x": 676.22,
+        "y": 443.53,
+        "team": 1
+    },
+    {
+        "frameID": 53,
+        "playerID": 4,
+        "x": 619.33,
+        "y": 296.73,
+        "team": 1
+    },
+    {
+        "frameID": 53,
+        "playerID": 6,
+        "x": 714.44,
+        "y": 350.76,
+        "team": 0
+    },
+    {
+        "frameID": 53,
+        "playerID": 7,
+        "x": 849.58,
+        "y": 359.83,
+        "team": 0
+    },
+    {
+        "frameID": 53,
+        "playerID": 8,
+        "x": 686.97,
+        "y": 211.11,
+        "team": 0
+    },
+    {
+        "frameID": 53,
+        "playerID": 9,
+        "x": 655.83,
+        "y": 265.02,
+        "team": 0
+    },
+    {
+        "frameID": 53,
+        "playerID": 10,
+        "x": 761.15,
+        "y": 92.46,
+        "team": 0
+    },
+    {
+        "frameID": 53,
+        "playerID": 5,
+        "x": 569.67,
+        "y": 216.84,
+        "team": 1
+    },
+    {
+        "frameID": 54,
+        "playerID": 1,
+        "x": 708.22,
+        "y": 40.11,
+        "team": 1
+    },
+    {
+        "frameID": 54,
+        "playerID": 2,
+        "x": 856.84,
+        "y": 472.08,
+        "team": 1
+    },
+    {
+        "frameID": 54,
+        "playerID": 3,
+        "x": 677.86,
+        "y": 444.39,
+        "team": 1
+    },
+    {
+        "frameID": 54,
+        "playerID": 4,
+        "x": 618.46,
+        "y": 301.15,
+        "team": 1
+    },
+    {
+        "frameID": 54,
+        "playerID": 6,
+        "x": 714.58,
+        "y": 351.98,
+        "team": 0
+    },
+    {
+        "frameID": 54,
+        "playerID": 7,
+        "x": 849.29,
+        "y": 359.99,
+        "team": 0
+    },
+    {
+        "frameID": 54,
+        "playerID": 8,
+        "x": 685.43,
+        "y": 211.26,
+        "team": 0
+    },
+    {
+        "frameID": 54,
+        "playerID": 9,
+        "x": 655.03,
+        "y": 268.84,
+        "team": 0
+    },
+    {
+        "frameID": 54,
+        "playerID": 10,
+        "x": 759.92,
+        "y": 94.16,
+        "team": 0
+    },
+    {
+        "frameID": 54,
+        "playerID": 5,
+        "x": 571.33,
+        "y": 216.62,
+        "team": 1
+    },
+    {
+        "frameID": 55,
+        "playerID": 1,
+        "x": 705.89,
+        "y": 41.39,
+        "team": 1
+    },
+    {
+        "frameID": 55,
+        "playerID": 2,
+        "x": 857.62,
+        "y": 471.91,
+        "team": 1
+    },
+    {
+        "frameID": 55,
+        "playerID": 3,
+        "x": 679.51,
+        "y": 445.22,
+        "team": 1
+    },
+    {
+        "frameID": 55,
+        "playerID": 4,
+        "x": 617.6,
+        "y": 305.49,
+        "team": 1
+    },
+    {
+        "frameID": 55,
+        "playerID": 6,
+        "x": 714.75,
+        "y": 353.18,
+        "team": 0
+    },
+    {
+        "frameID": 55,
+        "playerID": 7,
+        "x": 849.0,
+        "y": 360.13,
+        "team": 0
+    },
+    {
+        "frameID": 55,
+        "playerID": 8,
+        "x": 684.0,
+        "y": 211.35,
+        "team": 0
+    },
+    {
+        "frameID": 55,
+        "playerID": 9,
+        "x": 654.25,
+        "y": 272.65,
+        "team": 0
+    },
+    {
+        "frameID": 55,
+        "playerID": 10,
+        "x": 758.5,
+        "y": 95.99,
+        "team": 0
+    },
+    {
+        "frameID": 55,
+        "playerID": 5,
+        "x": 573.15,
+        "y": 216.0,
+        "team": 1
+    },
+    {
+        "frameID": 56,
+        "playerID": 1,
+        "x": 703.36,
+        "y": 42.72,
+        "team": 1
+    },
+    {
+        "frameID": 56,
+        "playerID": 2,
+        "x": 858.42,
+        "y": 471.76,
+        "team": 1
+    },
+    {
+        "frameID": 56,
+        "playerID": 3,
+        "x": 681.17,
+        "y": 446.02,
+        "team": 1
+    },
+    {
+        "frameID": 56,
+        "playerID": 4,
+        "x": 616.73,
+        "y": 309.74,
+        "team": 1
+    },
+    {
+        "frameID": 56,
+        "playerID": 6,
+        "x": 714.94,
+        "y": 354.35,
+        "team": 0
+    },
+    {
+        "frameID": 56,
+        "playerID": 7,
+        "x": 848.71,
+        "y": 360.23,
+        "team": 0
+    },
+    {
+        "frameID": 56,
+        "playerID": 8,
+        "x": 682.69,
+        "y": 211.38,
+        "team": 0
+    },
+    {
+        "frameID": 56,
+        "playerID": 9,
+        "x": 653.5,
+        "y": 276.43,
+        "team": 0
+    },
+    {
+        "frameID": 56,
+        "playerID": 10,
+        "x": 756.89,
+        "y": 97.95,
+        "team": 0
+    },
+    {
+        "frameID": 56,
+        "playerID": 5,
+        "x": 575.12,
+        "y": 215.04,
+        "team": 1
+    },
+    {
+        "frameID": 57,
+        "playerID": 1,
+        "x": 700.66,
+        "y": 44.1,
+        "team": 1
+    },
+    {
+        "frameID": 57,
+        "playerID": 2,
+        "x": 859.25,
+        "y": 471.62,
+        "team": 1
+    },
+    {
+        "frameID": 57,
+        "playerID": 3,
+        "x": 682.83,
+        "y": 446.8,
+        "team": 1
+    },
+    {
+        "frameID": 57,
+        "playerID": 4,
+        "x": 615.86,
+        "y": 313.9,
+        "team": 1
+    },
+    {
+        "frameID": 57,
+        "playerID": 6,
+        "x": 715.16,
+        "y": 355.49,
+        "team": 0
+    },
+    {
+        "frameID": 57,
+        "playerID": 7,
+        "x": 848.42,
+        "y": 360.29,
+        "team": 0
+    },
+    {
+        "frameID": 57,
+        "playerID": 8,
+        "x": 681.5,
+        "y": 211.35,
+        "team": 0
+    },
+    {
+        "frameID": 57,
+        "playerID": 9,
+        "x": 652.77,
+        "y": 280.18,
+        "team": 0
+    },
+    {
+        "frameID": 57,
+        "playerID": 10,
+        "x": 755.11,
+        "y": 100.02,
+        "team": 0
+    },
+    {
+        "frameID": 57,
+        "playerID": 5,
+        "x": 577.25,
+        "y": 213.77,
+        "team": 1
+    },
+    {
+        "frameID": 58,
+        "playerID": 1,
+        "x": 697.79,
+        "y": 45.53,
+        "team": 1
+    },
+    {
+        "frameID": 58,
+        "playerID": 2,
+        "x": 860.09,
+        "y": 471.5,
+        "team": 1
+    },
+    {
+        "frameID": 58,
+        "playerID": 3,
+        "x": 684.49,
+        "y": 447.56,
+        "team": 1
+    },
+    {
+        "frameID": 58,
+        "playerID": 4,
+        "x": 615.0,
+        "y": 317.95,
+        "team": 1
+    },
+    {
+        "frameID": 58,
+        "playerID": 6,
+        "x": 715.41,
+        "y": 356.61,
+        "team": 0
+    },
+    {
+        "frameID": 58,
+        "playerID": 7,
+        "x": 848.13,
+        "y": 360.3,
+        "team": 0
+    },
+    {
+        "frameID": 58,
+        "playerID": 8,
+        "x": 680.43,
+        "y": 211.25,
+        "team": 0
+    },
+    {
+        "frameID": 58,
+        "playerID": 9,
+        "x": 652.08,
+        "y": 283.9,
+        "team": 0
+    },
+    {
+        "frameID": 58,
+        "playerID": 10,
+        "x": 753.16,
+        "y": 102.2,
+        "team": 0
+    },
+    {
+        "frameID": 58,
+        "playerID": 5,
+        "x": 579.55,
+        "y": 212.23,
+        "team": 1
+    },
+    {
+        "frameID": 59,
+        "playerID": 1,
+        "x": 694.77,
+        "y": 47.03,
+        "team": 1
+    },
+    {
+        "frameID": 59,
+        "playerID": 2,
+        "x": 860.96,
+        "y": 471.4,
+        "team": 1
+    },
+    {
+        "frameID": 59,
+        "playerID": 3,
+        "x": 686.16,
+        "y": 448.29,
+        "team": 1
+    },
+    {
+        "frameID": 59,
+        "playerID": 4,
+        "x": 614.15,
+        "y": 321.9,
+        "team": 1
+    },
+    {
+        "frameID": 59,
+        "playerID": 6,
+        "x": 715.71,
+        "y": 357.7,
+        "team": 0
+    },
+    {
+        "frameID": 59,
+        "playerID": 7,
+        "x": 847.84,
+        "y": 360.27,
+        "team": 0
+    },
+    {
+        "frameID": 59,
+        "playerID": 8,
+        "x": 679.49,
+        "y": 211.09,
+        "team": 0
+    },
+    {
+        "frameID": 59,
+        "playerID": 9,
+        "x": 651.42,
+        "y": 287.57,
+        "team": 0
+    },
+    {
+        "frameID": 59,
+        "playerID": 10,
+        "x": 751.05,
+        "y": 104.47,
+        "team": 0
+    },
+    {
+        "frameID": 59,
+        "playerID": 5,
+        "x": 582.01,
+        "y": 210.48,
+        "team": 1
+    },
+    {
+        "frameID": 60,
+        "playerID": 1,
+        "x": 691.61,
+        "y": 48.59,
+        "team": 1
+    },
+    {
+        "frameID": 60,
+        "playerID": 2,
+        "x": 861.85,
+        "y": 471.31,
+        "team": 1
+    },
+    {
+        "frameID": 60,
+        "playerID": 3,
+        "x": 687.82,
+        "y": 449.01,
+        "team": 1
+    },
+    {
+        "frameID": 60,
+        "playerID": 4,
+        "x": 613.3,
+        "y": 325.74,
+        "team": 1
+    },
+    {
+        "frameID": 60,
+        "playerID": 6,
+        "x": 716.04,
+        "y": 358.76,
+        "team": 0
+    },
+    {
+        "frameID": 60,
+        "playerID": 7,
+        "x": 847.57,
+        "y": 360.2,
+        "team": 0
+    },
+    {
+        "frameID": 60,
+        "playerID": 8,
+        "x": 678.68,
+        "y": 210.87,
+        "team": 0
+    },
+    {
+        "frameID": 60,
+        "playerID": 9,
+        "x": 650.8,
+        "y": 291.2,
+        "team": 0
+    },
+    {
+        "frameID": 60,
+        "playerID": 10,
+        "x": 748.8,
+        "y": 106.84,
+        "team": 0
+    },
+    {
+        "frameID": 60,
+        "playerID": 5,
+        "x": 584.61,
+        "y": 208.54,
+        "team": 1
+    },
+    {
+        "frameID": 61,
+        "playerID": 1,
+        "x": 688.33,
+        "y": 50.23,
+        "team": 1
+    },
+    {
+        "frameID": 61,
+        "playerID": 2,
+        "x": 862.76,
+        "y": 471.25,
+        "team": 1
+    },
+    {
+        "frameID": 61,
+        "playerID": 3,
+        "x": 689.49,
+        "y": 449.72,
+        "team": 1
+    },
+    {
+        "frameID": 61,
+        "playerID": 4,
+        "x": 612.47,
+        "y": 329.46,
+        "team": 1
+    },
+    {
+        "frameID": 61,
+        "playerID": 6,
+        "x": 716.42,
+        "y": 359.79,
+        "team": 0
+    },
+    {
+        "frameID": 61,
+        "playerID": 7,
+        "x": 847.3,
+        "y": 360.08,
+        "team": 0
+    },
+    {
+        "frameID": 61,
+        "playerID": 8,
+        "x": 678.0,
+        "y": 210.58,
+        "team": 0
+    },
+    {
+        "frameID": 61,
+        "playerID": 9,
+        "x": 650.21,
+        "y": 294.78,
+        "team": 0
+    },
+    {
+        "frameID": 61,
+        "playerID": 10,
+        "x": 746.42,
+        "y": 109.29,
+        "team": 0
+    },
+    {
+        "frameID": 61,
+        "playerID": 5,
+        "x": 587.36,
+        "y": 206.47,
+        "team": 1
+    },
+    {
+        "frameID": 62,
+        "playerID": 1,
+        "x": 684.94,
+        "y": 51.94,
+        "team": 1
+    },
+    {
+        "frameID": 62,
+        "playerID": 2,
+        "x": 863.68,
+        "y": 471.19,
+        "team": 1
+    },
+    {
+        "frameID": 62,
+        "playerID": 3,
+        "x": 691.15,
+        "y": 450.42,
+        "team": 1
+    },
+    {
+        "frameID": 62,
+        "playerID": 4,
+        "x": 611.65,
+        "y": 333.07,
+        "team": 1
+    },
+    {
+        "frameID": 62,
+        "playerID": 6,
+        "x": 716.85,
+        "y": 360.79,
+        "team": 0
+    },
+    {
+        "frameID": 62,
+        "playerID": 7,
+        "x": 847.04,
+        "y": 359.91,
+        "team": 0
+    },
+    {
+        "frameID": 62,
+        "playerID": 8,
+        "x": 677.45,
+        "y": 210.22,
+        "team": 0
+    },
+    {
+        "frameID": 62,
+        "playerID": 9,
+        "x": 649.67,
+        "y": 298.3,
+        "team": 0
+    },
+    {
+        "frameID": 62,
+        "playerID": 10,
+        "x": 743.93,
+        "y": 111.8,
+        "team": 0
+    },
+    {
+        "frameID": 62,
+        "playerID": 5,
+        "x": 590.23,
+        "y": 204.3,
+        "team": 1
+    },
+    {
+        "frameID": 63,
+        "playerID": 1,
+        "x": 681.47,
+        "y": 53.74,
+        "team": 1
+    },
+    {
+        "frameID": 63,
+        "playerID": 2,
+        "x": 864.62,
+        "y": 471.16,
+        "team": 1
+    },
+    {
+        "frameID": 63,
+        "playerID": 3,
+        "x": 692.82,
+        "y": 451.1,
+        "team": 1
+    },
+    {
+        "frameID": 63,
+        "playerID": 4,
+        "x": 610.85,
+        "y": 336.55,
+        "team": 1
+    },
+    {
+        "frameID": 63,
+        "playerID": 6,
+        "x": 717.32,
+        "y": 361.75,
+        "team": 0
+    },
+    {
+        "frameID": 63,
+        "playerID": 7,
+        "x": 846.79,
+        "y": 359.68,
+        "team": 0
+    },
+    {
+        "frameID": 63,
+        "playerID": 8,
+        "x": 677.04,
+        "y": 209.79,
+        "team": 0
+    },
+    {
+        "frameID": 63,
+        "playerID": 9,
+        "x": 649.16,
+        "y": 301.75,
+        "team": 0
+    },
+    {
+        "frameID": 63,
+        "playerID": 10,
+        "x": 741.34,
+        "y": 114.37,
+        "team": 0
+    },
+    {
+        "frameID": 63,
+        "playerID": 5,
+        "x": 593.21,
+        "y": 202.07,
+        "team": 1
+    },
+    {
+        "frameID": 64,
+        "playerID": 1,
+        "x": 677.92,
+        "y": 55.62,
+        "team": 1
+    },
+    {
+        "frameID": 64,
+        "playerID": 2,
+        "x": 865.57,
+        "y": 471.15,
+        "team": 1
+    },
+    {
+        "frameID": 64,
+        "playerID": 3,
+        "x": 694.47,
+        "y": 451.78,
+        "team": 1
+    },
+    {
+        "frameID": 64,
+        "playerID": 4,
+        "x": 610.08,
+        "y": 339.91,
+        "team": 1
+    },
+    {
+        "frameID": 64,
+        "playerID": 6,
+        "x": 717.84,
+        "y": 362.68,
+        "team": 0
+    },
+    {
+        "frameID": 64,
+        "playerID": 7,
+        "x": 846.55,
+        "y": 359.41,
+        "team": 0
+    },
+    {
+        "frameID": 64,
+        "playerID": 8,
+        "x": 676.76,
+        "y": 209.3,
+        "team": 0
+    },
+    {
+        "frameID": 64,
+        "playerID": 9,
+        "x": 648.7,
+        "y": 305.14,
+        "team": 0
+    },
+    {
+        "frameID": 64,
+        "playerID": 10,
+        "x": 738.66,
+        "y": 116.98,
+        "team": 0
+    },
+    {
+        "frameID": 64,
+        "playerID": 5,
+        "x": 596.29,
+        "y": 199.8,
+        "team": 1
+    },
+    {
+        "frameID": 65,
+        "playerID": 1,
+        "x": 674.32,
+        "y": 57.6,
+        "team": 1
+    },
+    {
+        "frameID": 65,
+        "playerID": 2,
+        "x": 866.53,
+        "y": 471.15,
+        "team": 1
+    },
+    {
+        "frameID": 65,
+        "playerID": 3,
+        "x": 696.12,
+        "y": 452.44,
+        "team": 1
+    },
+    {
+        "frameID": 65,
+        "playerID": 4,
+        "x": 609.33,
+        "y": 343.15,
+        "team": 1
+    },
+    {
+        "frameID": 65,
+        "playerID": 6,
+        "x": 718.41,
+        "y": 363.58,
+        "team": 0
+    },
+    {
+        "frameID": 65,
+        "playerID": 7,
+        "x": 846.33,
+        "y": 359.08,
+        "team": 0
+    },
+    {
+        "frameID": 65,
+        "playerID": 8,
+        "x": 676.63,
+        "y": 208.75,
+        "team": 0
+    },
+    {
+        "frameID": 65,
+        "playerID": 9,
+        "x": 648.28,
+        "y": 308.46,
+        "team": 0
+    },
+    {
+        "frameID": 65,
+        "playerID": 10,
+        "x": 735.91,
+        "y": 119.63,
+        "team": 0
+    },
+    {
+        "frameID": 65,
+        "playerID": 5,
+        "x": 599.44,
+        "y": 197.55,
+        "team": 1
+    },
+    {
+        "frameID": 66,
+        "playerID": 1,
+        "x": 670.68,
+        "y": 59.66,
+        "team": 1
+    },
+    {
+        "frameID": 66,
+        "playerID": 2,
+        "x": 867.49,
+        "y": 471.16,
+        "team": 1
+    },
+    {
+        "frameID": 66,
+        "playerID": 3,
+        "x": 697.76,
+        "y": 453.1,
+        "team": 1
+    },
+    {
+        "frameID": 66,
+        "playerID": 4,
+        "x": 608.6,
+        "y": 346.25,
+        "team": 1
+    },
+    {
+        "frameID": 66,
+        "playerID": 6,
+        "x": 719.04,
+        "y": 364.44,
+        "team": 0
+    },
+    {
+        "frameID": 66,
+        "playerID": 7,
+        "x": 846.13,
+        "y": 358.71,
+        "team": 0
+    },
+    {
+        "frameID": 66,
+        "playerID": 8,
+        "x": 676.62,
+        "y": 208.13,
+        "team": 0
+    },
+    {
+        "frameID": 66,
+        "playerID": 9,
+        "x": 647.91,
+        "y": 311.7,
+        "team": 0
+    },
+    {
+        "frameID": 66,
+        "playerID": 10,
+        "x": 733.11,
+        "y": 122.29,
+        "team": 0
+    },
+    {
+        "frameID": 66,
+        "playerID": 5,
+        "x": 602.66,
+        "y": 195.33,
+        "team": 1
+    },
+    {
+        "frameID": 67,
+        "playerID": 1,
+        "x": 667.02,
+        "y": 61.83,
+        "team": 1
+    },
+    {
+        "frameID": 67,
+        "playerID": 2,
+        "x": 868.47,
+        "y": 471.2,
+        "team": 1
+    },
+    {
+        "frameID": 67,
+        "playerID": 3,
+        "x": 699.4,
+        "y": 453.76,
+        "team": 1
+    },
+    {
+        "frameID": 67,
+        "playerID": 4,
+        "x": 607.91,
+        "y": 349.23,
+        "team": 1
+    },
+    {
+        "frameID": 67,
+        "playerID": 6,
+        "x": 719.71,
+        "y": 365.27,
+        "team": 0
+    },
+    {
+        "frameID": 67,
+        "playerID": 7,
+        "x": 845.94,
+        "y": 358.28,
+        "team": 0
+    },
+    {
+        "frameID": 67,
+        "playerID": 8,
+        "x": 676.75,
+        "y": 207.45,
+        "team": 0
+    },
+    {
+        "frameID": 67,
+        "playerID": 9,
+        "x": 647.58,
+        "y": 314.86,
+        "team": 0
+    },
+    {
+        "frameID": 67,
+        "playerID": 10,
+        "x": 730.27,
+        "y": 124.96,
+        "team": 0
+    },
+    {
+        "frameID": 67,
+        "playerID": 5,
+        "x": 605.91,
+        "y": 193.18,
+        "team": 1
+    },
+    {
+        "frameID": 68,
+        "playerID": 1,
+        "x": 663.37,
+        "y": 64.09,
+        "team": 1
+    },
+    {
+        "frameID": 68,
+        "playerID": 2,
+        "x": 869.44,
+        "y": 471.25,
+        "team": 1
+    },
+    {
+        "frameID": 68,
+        "playerID": 3,
+        "x": 701.02,
+        "y": 454.4,
+        "team": 1
+    },
+    {
+        "frameID": 68,
+        "playerID": 4,
+        "x": 607.25,
+        "y": 352.07,
+        "team": 1
+    },
+    {
+        "frameID": 68,
+        "playerID": 6,
+        "x": 720.44,
+        "y": 366.06,
+        "team": 0
+    },
+    {
+        "frameID": 68,
+        "playerID": 7,
+        "x": 845.77,
+        "y": 357.8,
+        "team": 0
+    },
+    {
+        "frameID": 68,
+        "playerID": 8,
+        "x": 677.02,
+        "y": 206.71,
+        "team": 0
+    },
+    {
+        "frameID": 68,
+        "playerID": 9,
+        "x": 647.29,
+        "y": 317.93,
+        "team": 0
+    },
+    {
+        "frameID": 68,
+        "playerID": 10,
+        "x": 727.41,
+        "y": 127.63,
+        "team": 0
+    },
+    {
+        "frameID": 68,
+        "playerID": 5,
+        "x": 609.2,
+        "y": 191.12,
+        "team": 1
+    },
+    {
+        "frameID": 69,
+        "playerID": 1,
+        "x": 659.74,
+        "y": 66.45,
+        "team": 1
+    },
+    {
+        "frameID": 69,
+        "playerID": 2,
+        "x": 870.42,
+        "y": 471.31,
+        "team": 1
+    },
+    {
+        "frameID": 69,
+        "playerID": 3,
+        "x": 702.63,
+        "y": 455.04,
+        "team": 1
+    },
+    {
+        "frameID": 69,
+        "playerID": 4,
+        "x": 606.62,
+        "y": 354.79,
+        "team": 1
+    },
+    {
+        "frameID": 69,
+        "playerID": 6,
+        "x": 721.21,
+        "y": 366.81,
+        "team": 0
+    },
+    {
+        "frameID": 69,
+        "playerID": 7,
+        "x": 845.61,
+        "y": 357.27,
+        "team": 0
+    },
+    {
+        "frameID": 69,
+        "playerID": 8,
+        "x": 677.41,
+        "y": 205.93,
+        "team": 0
+    },
+    {
+        "frameID": 69,
+        "playerID": 9,
+        "x": 647.06,
+        "y": 320.92,
+        "team": 0
+    },
+    {
+        "frameID": 69,
+        "playerID": 10,
+        "x": 724.55,
+        "y": 130.27,
+        "team": 0
+    },
+    {
+        "frameID": 69,
+        "playerID": 5,
+        "x": 612.49,
+        "y": 189.18,
+        "team": 1
+    },
+    {
+        "frameID": 70,
+        "playerID": 1,
+        "x": 656.14,
+        "y": 68.9,
+        "team": 1
+    },
+    {
+        "frameID": 70,
+        "playerID": 2,
+        "x": 871.39,
+        "y": 471.39,
+        "team": 1
+    },
+    {
+        "frameID": 70,
+        "playerID": 3,
+        "x": 704.22,
+        "y": 455.67,
+        "team": 1
+    },
+    {
+        "frameID": 70,
+        "playerID": 4,
+        "x": 606.04,
+        "y": 357.37,
+        "team": 1
+    },
+    {
+        "frameID": 70,
+        "playerID": 6,
+        "x": 722.04,
+        "y": 367.53,
+        "team": 0
+    },
+    {
+        "frameID": 70,
+        "playerID": 7,
+        "x": 845.48,
+        "y": 356.69,
+        "team": 0
+    },
+    {
+        "frameID": 70,
+        "playerID": 8,
+        "x": 677.94,
+        "y": 205.09,
+        "team": 0
+    },
+    {
+        "frameID": 70,
+        "playerID": 9,
+        "x": 646.87,
+        "y": 323.82,
+        "team": 0
+    },
+    {
+        "frameID": 70,
+        "playerID": 10,
+        "x": 721.7,
+        "y": 132.88,
+        "team": 0
+    },
+    {
+        "frameID": 70,
+        "playerID": 5,
+        "x": 615.77,
+        "y": 187.37,
+        "team": 1
+    },
+    {
+        "frameID": 71,
+        "playerID": 1,
+        "x": 652.6,
+        "y": 71.45,
+        "team": 1
+    },
+    {
+        "frameID": 71,
+        "playerID": 2,
+        "x": 872.36,
+        "y": 471.48,
+        "team": 1
+    },
+    {
+        "frameID": 71,
+        "playerID": 3,
+        "x": 705.8,
+        "y": 456.3,
+        "team": 1
+    },
+    {
+        "frameID": 71,
+        "playerID": 4,
+        "x": 605.49,
+        "y": 359.83,
+        "team": 1
+    },
+    {
+        "frameID": 71,
+        "playerID": 6,
+        "x": 722.91,
+        "y": 368.22,
+        "team": 0
+    },
+    {
+        "frameID": 71,
+        "playerID": 7,
+        "x": 845.36,
+        "y": 356.06,
+        "team": 0
+    },
+    {
+        "frameID": 71,
+        "playerID": 8,
+        "x": 678.59,
+        "y": 204.2,
+        "team": 0
+    },
+    {
+        "frameID": 71,
+        "playerID": 9,
+        "x": 646.74,
+        "y": 326.62,
+        "team": 0
+    },
+    {
+        "frameID": 71,
+        "playerID": 10,
+        "x": 718.88,
+        "y": 135.45,
+        "team": 0
+    },
+    {
+        "frameID": 71,
+        "playerID": 5,
+        "x": 619.03,
+        "y": 185.72,
+        "team": 1
+    },
+    {
+        "frameID": 72,
+        "playerID": 1,
+        "x": 649.14,
+        "y": 74.1,
+        "team": 1
+    },
+    {
+        "frameID": 72,
+        "playerID": 2,
+        "x": 873.32,
+        "y": 471.59,
+        "team": 1
+    },
+    {
+        "frameID": 72,
+        "playerID": 3,
+        "x": 707.36,
+        "y": 456.91,
+        "team": 1
+    },
+    {
+        "frameID": 72,
+        "playerID": 4,
+        "x": 604.99,
+        "y": 362.15,
+        "team": 1
+    },
+    {
+        "frameID": 72,
+        "playerID": 6,
+        "x": 723.84,
+        "y": 368.87,
+        "team": 0
+    },
+    {
+        "frameID": 72,
+        "playerID": 7,
+        "x": 845.26,
+        "y": 355.39,
+        "team": 0
+    },
+    {
+        "frameID": 72,
+        "playerID": 8,
+        "x": 679.36,
+        "y": 203.28,
+        "team": 0
+    },
+    {
+        "frameID": 72,
+        "playerID": 9,
+        "x": 646.65,
+        "y": 329.33,
+        "team": 0
+    },
+    {
+        "frameID": 72,
+        "playerID": 10,
+        "x": 716.1,
+        "y": 137.96,
+        "team": 0
+    },
+    {
+        "frameID": 72,
+        "playerID": 5,
+        "x": 622.25,
+        "y": 184.23,
+        "team": 1
+    },
+    {
+        "frameID": 73,
+        "playerID": 1,
+        "x": 645.76,
+        "y": 76.83,
+        "team": 1
+    },
+    {
+        "frameID": 73,
+        "playerID": 2,
+        "x": 874.27,
+        "y": 471.71,
+        "team": 1
+    },
+    {
+        "frameID": 73,
+        "playerID": 3,
+        "x": 708.9,
+        "y": 457.52,
+        "team": 1
+    },
+    {
+        "frameID": 73,
+        "playerID": 4,
+        "x": 604.53,
+        "y": 364.34,
+        "team": 1
+    },
+    {
+        "frameID": 73,
+        "playerID": 6,
+        "x": 724.81,
+        "y": 369.48,
+        "team": 0
+    },
+    {
+        "frameID": 73,
+        "playerID": 7,
+        "x": 845.18,
+        "y": 354.67,
+        "team": 0
+    },
+    {
+        "frameID": 73,
+        "playerID": 8,
+        "x": 680.25,
+        "y": 202.31,
+        "team": 0
+    },
+    {
+        "frameID": 73,
+        "playerID": 9,
+        "x": 646.6,
+        "y": 331.93,
+        "team": 0
+    },
+    {
+        "frameID": 73,
+        "playerID": 10,
+        "x": 713.38,
+        "y": 140.4,
+        "team": 0
+    },
+    {
+        "frameID": 73,
+        "playerID": 5,
+        "x": 625.42,
+        "y": 182.93,
+        "team": 1
+    },
+    {
+        "frameID": 74,
+        "playerID": 1,
+        "x": 642.49,
+        "y": 79.65,
+        "team": 1
+    },
+    {
+        "frameID": 74,
+        "playerID": 2,
+        "x": 875.2,
+        "y": 471.84,
+        "team": 1
+    },
+    {
+        "frameID": 74,
+        "playerID": 3,
+        "x": 710.41,
+        "y": 458.11,
+        "team": 1
+    },
+    {
+        "frameID": 74,
+        "playerID": 4,
+        "x": 604.12,
+        "y": 366.41,
+        "team": 1
+    },
+    {
+        "frameID": 74,
+        "playerID": 6,
+        "x": 725.83,
+        "y": 370.05,
+        "team": 0
+    },
+    {
+        "frameID": 74,
+        "playerID": 7,
+        "x": 845.11,
+        "y": 353.9,
+        "team": 0
+    },
+    {
+        "frameID": 74,
+        "playerID": 8,
+        "x": 681.26,
+        "y": 201.32,
+        "team": 0
+    },
+    {
+        "frameID": 74,
+        "playerID": 9,
+        "x": 646.61,
+        "y": 334.44,
+        "team": 0
+    },
+    {
+        "frameID": 74,
+        "playerID": 10,
+        "x": 710.73,
+        "y": 142.76,
+        "team": 0
+    },
+    {
+        "frameID": 74,
+        "playerID": 5,
+        "x": 628.53,
+        "y": 181.82,
+        "team": 1
+    },
+    {
+        "frameID": 75,
+        "playerID": 1,
+        "x": 639.35,
+        "y": 82.55,
+        "team": 1
+    },
+    {
+        "frameID": 75,
+        "playerID": 2,
+        "x": 876.12,
+        "y": 471.98,
+        "team": 1
+    },
+    {
+        "frameID": 75,
+        "playerID": 3,
+        "x": 711.9,
+        "y": 458.69,
+        "team": 1
+    },
+    {
+        "frameID": 75,
+        "playerID": 4,
+        "x": 603.75,
+        "y": 368.35,
+        "team": 1
+    },
+    {
+        "frameID": 75,
+        "playerID": 6,
+        "x": 726.89,
+        "y": 370.59,
+        "team": 0
+    },
+    {
+        "frameID": 75,
+        "playerID": 7,
+        "x": 845.07,
+        "y": 353.1,
+        "team": 0
+    },
+    {
+        "frameID": 75,
+        "playerID": 8,
+        "x": 682.37,
+        "y": 200.3,
+        "team": 0
+    },
+    {
+        "frameID": 75,
+        "playerID": 9,
+        "x": 646.67,
+        "y": 336.84,
+        "team": 0
+    },
+    {
+        "frameID": 75,
+        "playerID": 10,
+        "x": 708.17,
+        "y": 145.03,
+        "team": 0
+    },
+    {
+        "frameID": 75,
+        "playerID": 5,
+        "x": 631.57,
+        "y": 180.9,
+        "team": 1
+    },
+    {
+        "frameID": 76,
+        "playerID": 1,
+        "x": 636.35,
+        "y": 85.52,
+        "team": 1
+    },
+    {
+        "frameID": 76,
+        "playerID": 2,
+        "x": 877.02,
+        "y": 472.13,
+        "team": 1
+    },
+    {
+        "frameID": 76,
+        "playerID": 3,
+        "x": 713.37,
+        "y": 459.26,
+        "team": 1
+    },
+    {
+        "frameID": 76,
+        "playerID": 4,
+        "x": 603.44,
+        "y": 370.16,
+        "team": 1
+    },
+    {
+        "frameID": 76,
+        "playerID": 6,
+        "x": 727.99,
+        "y": 371.1,
+        "team": 0
+    },
+    {
+        "frameID": 76,
+        "playerID": 7,
+        "x": 845.04,
+        "y": 352.25,
+        "team": 0
+    },
+    {
+        "frameID": 76,
+        "playerID": 8,
+        "x": 683.59,
+        "y": 199.27,
+        "team": 0
+    },
+    {
+        "frameID": 76,
+        "playerID": 9,
+        "x": 646.77,
+        "y": 339.14,
+        "team": 0
+    },
+    {
+        "frameID": 76,
+        "playerID": 10,
+        "x": 705.71,
+        "y": 147.19,
+        "team": 0
+    },
+    {
+        "frameID": 76,
+        "playerID": 5,
+        "x": 634.53,
+        "y": 180.19,
+        "team": 1
+    },
+    {
+        "frameID": 77,
+        "playerID": 1,
+        "x": 633.49,
+        "y": 88.55,
+        "team": 1
+    },
+    {
+        "frameID": 77,
+        "playerID": 2,
+        "x": 877.9,
+        "y": 472.28,
+        "team": 1
+    },
+    {
+        "frameID": 77,
+        "playerID": 3,
+        "x": 714.8,
+        "y": 459.81,
+        "team": 1
+    },
+    {
+        "frameID": 77,
+        "playerID": 4,
+        "x": 603.18,
+        "y": 371.85,
+        "team": 1
+    },
+    {
+        "frameID": 77,
+        "playerID": 6,
+        "x": 729.12,
+        "y": 371.56,
+        "team": 0
+    },
+    {
+        "frameID": 77,
+        "playerID": 7,
+        "x": 845.03,
+        "y": 351.37,
+        "team": 0
+    },
+    {
+        "frameID": 77,
+        "playerID": 8,
+        "x": 684.91,
+        "y": 198.22,
+        "team": 0
+    },
+    {
+        "frameID": 77,
+        "playerID": 9,
+        "x": 646.92,
+        "y": 341.33,
+        "team": 0
+    },
+    {
+        "frameID": 77,
+        "playerID": 10,
+        "x": 703.35,
+        "y": 149.23,
+        "team": 0
+    },
+    {
+        "frameID": 77,
+        "playerID": 5,
+        "x": 637.4,
+        "y": 179.68,
+        "team": 1
+    },
+    {
+        "frameID": 78,
+        "playerID": 1,
+        "x": 630.81,
+        "y": 91.63,
+        "team": 1
+    },
+    {
+        "frameID": 78,
+        "playerID": 2,
+        "x": 878.76,
+        "y": 472.45,
+        "team": 1
+    },
+    {
+        "frameID": 78,
+        "playerID": 3,
+        "x": 716.21,
+        "y": 460.34,
+        "team": 1
+    },
+    {
+        "frameID": 78,
+        "playerID": 4,
+        "x": 602.96,
+        "y": 373.42,
+        "team": 1
+    },
+    {
+        "frameID": 78,
+        "playerID": 6,
+        "x": 730.3,
+        "y": 372.0,
+        "team": 0
+    },
+    {
+        "frameID": 78,
+        "playerID": 7,
+        "x": 845.03,
+        "y": 350.46,
+        "team": 0
+    },
+    {
+        "frameID": 78,
+        "playerID": 8,
+        "x": 686.33,
+        "y": 197.16,
+        "team": 0
+    },
+    {
+        "frameID": 78,
+        "playerID": 9,
+        "x": 647.12,
+        "y": 343.41,
+        "team": 0
+    },
+    {
+        "frameID": 78,
+        "playerID": 10,
+        "x": 701.12,
+        "y": 151.15,
+        "team": 0
+    },
+    {
+        "frameID": 78,
+        "playerID": 5,
+        "x": 640.18,
+        "y": 179.37,
+        "team": 1
+    },
+    {
+        "frameID": 79,
+        "playerID": 1,
+        "x": 628.3,
+        "y": 94.76,
+        "team": 1
+    },
+    {
+        "frameID": 79,
+        "playerID": 2,
+        "x": 879.58,
+        "y": 472.62,
+        "team": 1
+    },
+    {
+        "frameID": 79,
+        "playerID": 3,
+        "x": 717.58,
+        "y": 460.85,
+        "team": 1
+    },
+    {
+        "frameID": 79,
+        "playerID": 4,
+        "x": 602.8,
+        "y": 374.87,
+        "team": 1
+    },
+    {
+        "frameID": 79,
+        "playerID": 6,
+        "x": 731.5,
+        "y": 372.4,
+        "team": 0
+    },
+    {
+        "frameID": 79,
+        "playerID": 7,
+        "x": 845.05,
+        "y": 349.51,
+        "team": 0
+    },
+    {
+        "frameID": 79,
+        "playerID": 8,
+        "x": 687.83,
+        "y": 196.11,
+        "team": 0
+    },
+    {
+        "frameID": 79,
+        "playerID": 9,
+        "x": 647.36,
+        "y": 345.38,
+        "team": 0
+    },
+    {
+        "frameID": 79,
+        "playerID": 10,
+        "x": 699.02,
+        "y": 152.92,
+        "team": 0
+    },
+    {
+        "frameID": 79,
+        "playerID": 5,
+        "x": 642.86,
+        "y": 179.27,
+        "team": 1
+    },
+    {
+        "frameID": 80,
+        "playerID": 1,
+        "x": 625.99,
+        "y": 97.91,
+        "team": 1
+    },
+    {
+        "frameID": 80,
+        "playerID": 2,
+        "x": 880.37,
+        "y": 472.79,
+        "team": 1
+    },
+    {
+        "frameID": 80,
+        "playerID": 3,
+        "x": 718.92,
+        "y": 461.34,
+        "team": 1
+    },
+    {
+        "frameID": 80,
+        "playerID": 4,
+        "x": 602.7,
+        "y": 376.2,
+        "team": 1
+    },
+    {
+        "frameID": 80,
+        "playerID": 6,
+        "x": 732.73,
+        "y": 372.76,
+        "team": 0
+    },
+    {
+        "frameID": 80,
+        "playerID": 7,
+        "x": 845.09,
+        "y": 348.53,
+        "team": 0
+    },
+    {
+        "frameID": 80,
+        "playerID": 8,
+        "x": 689.41,
+        "y": 195.05,
+        "team": 0
+    },
+    {
+        "frameID": 80,
+        "playerID": 9,
+        "x": 647.65,
+        "y": 347.25,
+        "team": 0
+    },
+    {
+        "frameID": 80,
+        "playerID": 10,
+        "x": 697.06,
+        "y": 154.56,
+        "team": 0
+    },
+    {
+        "frameID": 80,
+        "playerID": 5,
+        "x": 645.45,
+        "y": 179.36,
+        "team": 1
+    },
+    {
+        "frameID": 81,
+        "playerID": 1,
+        "x": 623.87,
+        "y": 101.09,
+        "team": 1
+    },
+    {
+        "frameID": 81,
+        "playerID": 2,
+        "x": 881.13,
+        "y": 472.97,
+        "team": 1
+    },
+    {
+        "frameID": 81,
+        "playerID": 3,
+        "x": 720.22,
+        "y": 461.81,
+        "team": 1
+    },
+    {
+        "frameID": 81,
+        "playerID": 4,
+        "x": 602.64,
+        "y": 377.42,
+        "team": 1
+    },
+    {
+        "frameID": 81,
+        "playerID": 6,
+        "x": 733.99,
+        "y": 373.09,
+        "team": 0
+    },
+    {
+        "frameID": 81,
+        "playerID": 7,
+        "x": 845.14,
+        "y": 347.53,
+        "team": 0
+    },
+    {
+        "frameID": 81,
+        "playerID": 8,
+        "x": 691.08,
+        "y": 194.02,
+        "team": 0
+    },
+    {
+        "frameID": 81,
+        "playerID": 9,
+        "x": 647.98,
+        "y": 349.01,
+        "team": 0
+    },
+    {
+        "frameID": 81,
+        "playerID": 10,
+        "x": 695.24,
+        "y": 156.04,
+        "team": 0
+    },
+    {
+        "frameID": 81,
+        "playerID": 5,
+        "x": 647.93,
+        "y": 179.64,
+        "team": 1
+    },
+    {
+        "frameID": 82,
+        "playerID": 1,
+        "x": 621.96,
+        "y": 104.26,
+        "team": 1
+    },
+    {
+        "frameID": 82,
+        "playerID": 2,
+        "x": 881.86,
+        "y": 473.14,
+        "team": 1
+    },
+    {
+        "frameID": 82,
+        "playerID": 3,
+        "x": 721.48,
+        "y": 462.25,
+        "team": 1
+    },
+    {
+        "frameID": 82,
+        "playerID": 4,
+        "x": 602.64,
+        "y": 378.52,
+        "team": 1
+    },
+    {
+        "frameID": 82,
+        "playerID": 6,
+        "x": 735.27,
+        "y": 373.39,
+        "team": 0
+    },
+    {
+        "frameID": 82,
+        "playerID": 7,
+        "x": 845.2,
+        "y": 346.51,
+        "team": 0
+    },
+    {
+        "frameID": 82,
+        "playerID": 8,
+        "x": 692.81,
+        "y": 193.0,
+        "team": 0
+    },
+    {
+        "frameID": 82,
+        "playerID": 9,
+        "x": 648.35,
+        "y": 350.66,
+        "team": 0
+    },
+    {
+        "frameID": 82,
+        "playerID": 10,
+        "x": 693.58,
+        "y": 157.36,
+        "team": 0
+    },
+    {
+        "frameID": 82,
+        "playerID": 5,
+        "x": 650.32,
+        "y": 180.1,
+        "team": 1
+    },
+    {
+        "frameID": 83,
+        "playerID": 1,
+        "x": 620.26,
+        "y": 107.42,
+        "team": 1
+    },
+    {
+        "frameID": 83,
+        "playerID": 2,
+        "x": 882.54,
+        "y": 473.32,
+        "team": 1
+    },
+    {
+        "frameID": 83,
+        "playerID": 3,
+        "x": 722.71,
+        "y": 462.66,
+        "team": 1
+    },
+    {
+        "frameID": 83,
+        "playerID": 4,
+        "x": 602.68,
+        "y": 379.52,
+        "team": 1
+    },
+    {
+        "frameID": 83,
+        "playerID": 6,
+        "x": 736.57,
+        "y": 373.65,
+        "team": 0
+    },
+    {
+        "frameID": 83,
+        "playerID": 7,
+        "x": 845.28,
+        "y": 345.46,
+        "team": 0
+    },
+    {
+        "frameID": 83,
+        "playerID": 8,
+        "x": 694.6,
+        "y": 192.01,
+        "team": 0
+    },
+    {
+        "frameID": 83,
+        "playerID": 9,
+        "x": 648.77,
+        "y": 352.2,
+        "team": 0
+    },
+    {
+        "frameID": 83,
+        "playerID": 10,
+        "x": 692.07,
+        "y": 158.51,
+        "team": 0
+    },
+    {
+        "frameID": 83,
+        "playerID": 5,
+        "x": 652.61,
+        "y": 180.73,
+        "team": 1
+    },
+    {
+        "frameID": 84,
+        "playerID": 1,
+        "x": 618.78,
+        "y": 110.55,
+        "team": 1
+    },
+    {
+        "frameID": 84,
+        "playerID": 2,
+        "x": 883.18,
+        "y": 473.5,
+        "team": 1
+    },
+    {
+        "frameID": 84,
+        "playerID": 3,
+        "x": 723.89,
+        "y": 463.03,
+        "team": 1
+    },
+    {
+        "frameID": 84,
+        "playerID": 4,
+        "x": 602.78,
+        "y": 380.41,
+        "team": 1
+    },
+    {
+        "frameID": 84,
+        "playerID": 6,
+        "x": 737.88,
+        "y": 373.89,
+        "team": 0
+    },
+    {
+        "frameID": 84,
+        "playerID": 7,
+        "x": 845.37,
+        "y": 344.4,
+        "team": 0
+    },
+    {
+        "frameID": 84,
+        "playerID": 8,
+        "x": 696.46,
+        "y": 191.05,
+        "team": 0
+    },
+    {
+        "frameID": 84,
+        "playerID": 9,
+        "x": 649.22,
+        "y": 353.63,
+        "team": 0
+    },
+    {
+        "frameID": 84,
+        "playerID": 10,
+        "x": 690.72,
+        "y": 159.48,
+        "team": 0
+    },
+    {
+        "frameID": 84,
+        "playerID": 5,
+        "x": 654.81,
+        "y": 181.52,
+        "team": 1
+    },
+    {
+        "frameID": 85,
+        "playerID": 1,
+        "x": 617.53,
+        "y": 113.63,
+        "team": 1
+    },
+    {
+        "frameID": 85,
+        "playerID": 2,
+        "x": 883.77,
+        "y": 473.67,
+        "team": 1
+    },
+    {
+        "frameID": 85,
+        "playerID": 3,
+        "x": 725.02,
+        "y": 463.38,
+        "team": 1
+    },
+    {
+        "frameID": 85,
+        "playerID": 4,
+        "x": 602.93,
+        "y": 381.2,
+        "team": 1
+    },
+    {
+        "frameID": 85,
+        "playerID": 6,
+        "x": 739.2,
+        "y": 374.09,
+        "team": 0
+    },
+    {
+        "frameID": 85,
+        "playerID": 7,
+        "x": 845.46,
+        "y": 343.33,
+        "team": 0
+    },
+    {
+        "frameID": 85,
+        "playerID": 8,
+        "x": 698.36,
+        "y": 190.13,
+        "team": 0
+    },
+    {
+        "frameID": 85,
+        "playerID": 9,
+        "x": 649.71,
+        "y": 354.96,
+        "team": 0
+    },
+    {
+        "frameID": 85,
+        "playerID": 10,
+        "x": 689.52,
+        "y": 160.28,
+        "team": 0
+    },
+    {
+        "frameID": 85,
+        "playerID": 5,
+        "x": 656.91,
+        "y": 182.45,
+        "team": 1
+    },
+    {
+        "frameID": 86,
+        "playerID": 1,
+        "x": 616.5,
+        "y": 116.65,
+        "team": 1
+    },
+    {
+        "frameID": 86,
+        "playerID": 2,
+        "x": 884.32,
+        "y": 473.84,
+        "team": 1
+    },
+    {
+        "frameID": 86,
+        "playerID": 3,
+        "x": 726.11,
+        "y": 463.68,
+        "team": 1
+    },
+    {
+        "frameID": 86,
+        "playerID": 4,
+        "x": 603.12,
+        "y": 381.88,
+        "team": 1
+    },
+    {
+        "frameID": 86,
+        "playerID": 6,
+        "x": 740.53,
+        "y": 374.26,
+        "team": 0
+    },
+    {
+        "frameID": 86,
+        "playerID": 7,
+        "x": 845.57,
+        "y": 342.24,
+        "team": 0
+    },
+    {
+        "frameID": 86,
+        "playerID": 8,
+        "x": 700.31,
+        "y": 189.26,
+        "team": 0
+    },
+    {
+        "frameID": 86,
+        "playerID": 9,
+        "x": 650.23,
+        "y": 356.18,
+        "team": 0
+    },
+    {
+        "frameID": 86,
+        "playerID": 10,
+        "x": 688.49,
+        "y": 160.9,
+        "team": 0
+    },
+    {
+        "frameID": 86,
+        "playerID": 5,
+        "x": 658.93,
+        "y": 183.52,
+        "team": 1
+    },
+    {
+        "frameID": 87,
+        "playerID": 1,
+        "x": 615.7,
+        "y": 119.58,
+        "team": 1
+    },
+    {
+        "frameID": 87,
+        "playerID": 2,
+        "x": 884.81,
+        "y": 474.01,
+        "team": 1
+    },
+    {
+        "frameID": 87,
+        "playerID": 3,
+        "x": 727.15,
+        "y": 463.95,
+        "team": 1
+    },
+    {
+        "frameID": 87,
+        "playerID": 4,
+        "x": 603.36,
+        "y": 382.46,
+        "team": 1
+    },
+    {
+        "frameID": 87,
+        "playerID": 6,
+        "x": 741.86,
+        "y": 374.4,
+        "team": 0
+    },
+    {
+        "frameID": 87,
+        "playerID": 7,
+        "x": 845.68,
+        "y": 341.15,
+        "team": 0
+    },
+    {
+        "frameID": 87,
+        "playerID": 8,
+        "x": 702.29,
+        "y": 188.44,
+        "team": 0
+    },
+    {
+        "frameID": 87,
+        "playerID": 9,
+        "x": 650.79,
+        "y": 357.29,
+        "team": 0
+    },
+    {
+        "frameID": 87,
+        "playerID": 10,
+        "x": 687.62,
+        "y": 161.33,
+        "team": 0
+    },
+    {
+        "frameID": 87,
+        "playerID": 5,
+        "x": 660.88,
+        "y": 184.7,
+        "team": 1
+    },
+    {
+        "frameID": 88,
+        "playerID": 1,
+        "x": 615.12,
+        "y": 122.4,
+        "team": 1
+    },
+    {
+        "frameID": 88,
+        "playerID": 2,
+        "x": 885.25,
+        "y": 474.17,
+        "team": 1
+    },
+    {
+        "frameID": 88,
+        "playerID": 3,
+        "x": 728.14,
+        "y": 464.17,
+        "team": 1
+    },
+    {
+        "frameID": 88,
+        "playerID": 4,
+        "x": 603.64,
+        "y": 382.95,
+        "team": 1
+    },
+    {
+        "frameID": 88,
+        "playerID": 6,
+        "x": 743.18,
+        "y": 374.51,
+        "team": 0
+    },
+    {
+        "frameID": 88,
+        "playerID": 7,
+        "x": 845.8,
+        "y": 340.06,
+        "team": 0
+    },
+    {
+        "frameID": 88,
+        "playerID": 8,
+        "x": 704.31,
+        "y": 187.68,
+        "team": 0
+    },
+    {
+        "frameID": 88,
+        "playerID": 9,
+        "x": 651.38,
+        "y": 358.31,
+        "team": 0
+    },
+    {
+        "frameID": 88,
+        "playerID": 10,
+        "x": 686.9,
+        "y": 161.57,
+        "team": 0
+    },
+    {
+        "frameID": 88,
+        "playerID": 5,
+        "x": 662.74,
+        "y": 185.97,
+        "team": 1
+    },
+    {
+        "frameID": 89,
+        "playerID": 1,
+        "x": 614.77,
+        "y": 125.11,
+        "team": 1
+    },
+    {
+        "frameID": 89,
+        "playerID": 2,
+        "x": 885.64,
+        "y": 474.32,
+        "team": 1
+    },
+    {
+        "frameID": 89,
+        "playerID": 3,
+        "x": 729.08,
+        "y": 464.35,
+        "team": 1
+    },
+    {
+        "frameID": 89,
+        "playerID": 4,
+        "x": 603.97,
+        "y": 383.35,
+        "team": 1
+    },
+    {
+        "frameID": 89,
+        "playerID": 6,
+        "x": 744.5,
+        "y": 374.6,
+        "team": 0
+    },
+    {
+        "frameID": 89,
+        "playerID": 7,
+        "x": 845.92,
+        "y": 338.96,
+        "team": 0
+    },
+    {
+        "frameID": 89,
+        "playerID": 8,
+        "x": 706.34,
+        "y": 186.98,
+        "team": 0
+    },
+    {
+        "frameID": 89,
+        "playerID": 9,
+        "x": 652.0,
+        "y": 359.22,
+        "team": 0
+    },
+    {
+        "frameID": 89,
+        "playerID": 10,
+        "x": 686.33,
+        "y": 161.62,
+        "team": 0
+    },
+    {
+        "frameID": 89,
+        "playerID": 5,
+        "x": 664.54,
+        "y": 187.33,
+        "team": 1
+    },
+    {
+        "frameID": 90,
+        "playerID": 1,
+        "x": 614.63,
+        "y": 127.66,
+        "team": 1
+    },
+    {
+        "frameID": 90,
+        "playerID": 2,
+        "x": 885.96,
+        "y": 474.46,
+        "team": 1
+    },
+    {
+        "frameID": 90,
+        "playerID": 3,
+        "x": 729.97,
+        "y": 464.48,
+        "team": 1
+    },
+    {
+        "frameID": 90,
+        "playerID": 4,
+        "x": 604.33,
+        "y": 383.65,
+        "team": 1
+    },
+    {
+        "frameID": 90,
+        "playerID": 6,
+        "x": 745.81,
+        "y": 374.65,
+        "team": 0
+    },
+    {
+        "frameID": 90,
+        "playerID": 7,
+        "x": 846.04,
+        "y": 337.87,
+        "team": 0
+    },
+    {
+        "frameID": 90,
+        "playerID": 8,
+        "x": 708.4,
+        "y": 186.36,
+        "team": 0
+    },
+    {
+        "frameID": 90,
+        "playerID": 9,
+        "x": 652.65,
+        "y": 360.03,
+        "team": 0
+    },
+    {
+        "frameID": 90,
+        "playerID": 10,
+        "x": 685.9,
+        "y": 161.49,
+        "team": 0
+    },
+    {
+        "frameID": 90,
+        "playerID": 5,
+        "x": 666.29,
+        "y": 188.76,
+        "team": 1
+    },
+    {
+        "frameID": 91,
+        "playerID": 1,
+        "x": 614.7,
+        "y": 130.05,
+        "team": 1
+    },
+    {
+        "frameID": 91,
+        "playerID": 2,
+        "x": 886.22,
+        "y": 474.59,
+        "team": 1
+    },
+    {
+        "frameID": 91,
+        "playerID": 3,
+        "x": 730.8,
+        "y": 464.57,
+        "team": 1
+    },
+    {
+        "frameID": 91,
+        "playerID": 4,
+        "x": 604.73,
+        "y": 383.87,
+        "team": 1
+    },
+    {
+        "frameID": 91,
+        "playerID": 6,
+        "x": 747.11,
+        "y": 374.68,
+        "team": 0
+    },
+    {
+        "frameID": 91,
+        "playerID": 7,
+        "x": 846.17,
+        "y": 336.79,
+        "team": 0
+    },
+    {
+        "frameID": 91,
+        "playerID": 8,
+        "x": 710.46,
+        "y": 185.81,
+        "team": 0
+    },
+    {
+        "frameID": 91,
+        "playerID": 9,
+        "x": 653.32,
+        "y": 360.75,
+        "team": 0
+    },
+    {
+        "frameID": 91,
+        "playerID": 10,
+        "x": 685.6,
+        "y": 161.17,
+        "team": 0
+    },
+    {
+        "frameID": 91,
+        "playerID": 5,
+        "x": 667.98,
+        "y": 190.23,
+        "team": 1
+    },
+    {
+        "frameID": 92,
+        "playerID": 1,
+        "x": 614.98,
+        "y": 132.26,
+        "team": 1
+    },
+    {
+        "frameID": 92,
+        "playerID": 2,
+        "x": 886.42,
+        "y": 474.7,
+        "team": 1
+    },
+    {
+        "frameID": 92,
+        "playerID": 3,
+        "x": 731.57,
+        "y": 464.6,
+        "team": 1
+    },
+    {
+        "frameID": 92,
+        "playerID": 4,
+        "x": 605.15,
+        "y": 383.99,
+        "team": 1
+    },
+    {
+        "frameID": 92,
+        "playerID": 6,
+        "x": 748.38,
+        "y": 374.68,
+        "team": 0
+    },
+    {
+        "frameID": 92,
+        "playerID": 7,
+        "x": 846.3,
+        "y": 335.71,
+        "team": 0
+    },
+    {
+        "frameID": 92,
+        "playerID": 8,
+        "x": 712.53,
+        "y": 185.34,
+        "team": 0
+    },
+    {
+        "frameID": 92,
+        "playerID": 9,
+        "x": 654.02,
+        "y": 361.38,
+        "team": 0
+    },
+    {
+        "frameID": 92,
+        "playerID": 10,
+        "x": 685.43,
+        "y": 160.67,
+        "team": 0
+    },
+    {
+        "frameID": 92,
+        "playerID": 5,
+        "x": 669.62,
+        "y": 191.74,
+        "team": 1
+    },
+    {
+        "frameID": 93,
+        "playerID": 1,
+        "x": 615.45,
+        "y": 134.26,
+        "team": 1
+    },
+    {
+        "frameID": 93,
+        "playerID": 2,
+        "x": 886.55,
+        "y": 474.81,
+        "team": 1
+    },
+    {
+        "frameID": 93,
+        "playerID": 3,
+        "x": 732.28,
+        "y": 464.58,
+        "team": 1
+    },
+    {
+        "frameID": 93,
+        "playerID": 4,
+        "x": 605.61,
+        "y": 384.03,
+        "team": 1
+    },
+    {
+        "frameID": 93,
+        "playerID": 6,
+        "x": 749.63,
+        "y": 374.66,
+        "team": 0
+    },
+    {
+        "frameID": 93,
+        "playerID": 7,
+        "x": 846.43,
+        "y": 334.64,
+        "team": 0
+    },
+    {
+        "frameID": 93,
+        "playerID": 8,
+        "x": 714.59,
+        "y": 184.96,
+        "team": 0
+    },
+    {
+        "frameID": 93,
+        "playerID": 9,
+        "x": 654.73,
+        "y": 361.91,
+        "team": 0
+    },
+    {
+        "frameID": 93,
+        "playerID": 10,
+        "x": 685.37,
+        "y": 159.99,
+        "team": 0
+    },
+    {
+        "frameID": 93,
+        "playerID": 5,
+        "x": 671.23,
+        "y": 193.26,
+        "team": 1
+    },
+    {
+        "frameID": 94,
+        "playerID": 1,
+        "x": 616.1,
+        "y": 136.04,
+        "team": 1
+    },
+    {
+        "frameID": 94,
+        "playerID": 2,
+        "x": 886.61,
+        "y": 474.89,
+        "team": 1
+    },
+    {
+        "frameID": 94,
+        "playerID": 3,
+        "x": 732.94,
+        "y": 464.5,
+        "team": 1
+    },
+    {
+        "frameID": 94,
+        "playerID": 4,
+        "x": 606.09,
+        "y": 383.99,
+        "team": 1
+    },
+    {
+        "frameID": 94,
+        "playerID": 6,
+        "x": 750.86,
+        "y": 374.61,
+        "team": 0
+    },
+    {
+        "frameID": 94,
+        "playerID": 7,
+        "x": 846.56,
+        "y": 333.59,
+        "team": 0
+    },
+    {
+        "frameID": 94,
+        "playerID": 8,
+        "x": 716.65,
+        "y": 184.67,
+        "team": 0
+    },
+    {
+        "frameID": 94,
+        "playerID": 9,
+        "x": 655.47,
+        "y": 362.36,
+        "team": 0
+    },
+    {
+        "frameID": 94,
+        "playerID": 10,
+        "x": 685.4,
+        "y": 159.15,
+        "team": 0
+    },
+    {
+        "frameID": 94,
+        "playerID": 5,
+        "x": 672.8,
+        "y": 194.78,
+        "team": 1
+    },
+    {
+        "frameID": 95,
+        "playerID": 1,
+        "x": 616.92,
+        "y": 137.58,
+        "team": 1
+    },
+    {
+        "frameID": 95,
+        "playerID": 2,
+        "x": 886.6,
+        "y": 474.97,
+        "team": 1
+    },
+    {
+        "frameID": 95,
+        "playerID": 3,
+        "x": 733.53,
+        "y": 464.37,
+        "team": 1
+    },
+    {
+        "frameID": 95,
+        "playerID": 4,
+        "x": 606.59,
+        "y": 383.87,
+        "team": 1
+    },
+    {
+        "frameID": 95,
+        "playerID": 6,
+        "x": 752.05,
+        "y": 374.54,
+        "team": 0
+    },
+    {
+        "frameID": 95,
+        "playerID": 7,
+        "x": 846.68,
+        "y": 332.56,
+        "team": 0
+    },
+    {
+        "frameID": 95,
+        "playerID": 8,
+        "x": 718.69,
+        "y": 184.48,
+        "team": 0
+    },
+    {
+        "frameID": 95,
+        "playerID": 9,
+        "x": 656.21,
+        "y": 362.71,
+        "team": 0
+    },
+    {
+        "frameID": 95,
+        "playerID": 10,
+        "x": 685.53,
+        "y": 158.13,
+        "team": 0
+    },
+    {
+        "frameID": 95,
+        "playerID": 5,
+        "x": 674.35,
+        "y": 196.28,
+        "team": 1
+    },
+    {
+        "frameID": 96,
+        "playerID": 1,
+        "x": 617.9,
+        "y": 138.85,
+        "team": 1
+    },
+    {
+        "frameID": 96,
+        "playerID": 2,
+        "x": 886.52,
+        "y": 475.02,
+        "team": 1
+    },
+    {
+        "frameID": 96,
+        "playerID": 3,
+        "x": 734.05,
+        "y": 464.18,
+        "team": 1
+    },
+    {
+        "frameID": 96,
+        "playerID": 4,
+        "x": 607.11,
+        "y": 383.66,
+        "team": 1
+    },
+    {
+        "frameID": 96,
+        "playerID": 6,
+        "x": 753.21,
+        "y": 374.44,
+        "team": 0
+    },
+    {
+        "frameID": 96,
+        "playerID": 7,
+        "x": 846.8,
+        "y": 331.54,
+        "team": 0
+    },
+    {
+        "frameID": 96,
+        "playerID": 8,
+        "x": 720.71,
+        "y": 184.38,
+        "team": 0
+    },
+    {
+        "frameID": 96,
+        "playerID": 9,
+        "x": 656.97,
+        "y": 362.99,
+        "team": 0
+    },
+    {
+        "frameID": 96,
+        "playerID": 10,
+        "x": 685.72,
+        "y": 156.96,
+        "team": 0
+    },
+    {
+        "frameID": 96,
+        "playerID": 5,
+        "x": 675.88,
+        "y": 197.75,
+        "team": 1
+    },
+    {
+        "frameID": 97,
+        "playerID": 1,
+        "x": 619.01,
+        "y": 139.86,
+        "team": 1
+    },
+    {
+        "frameID": 97,
+        "playerID": 2,
+        "x": 886.36,
+        "y": 475.05,
+        "team": 1
+    },
+    {
+        "frameID": 97,
+        "playerID": 3,
+        "x": 734.52,
+        "y": 463.93,
+        "team": 1
+    },
+    {
+        "frameID": 97,
+        "playerID": 4,
+        "x": 607.63,
+        "y": 383.38,
+        "team": 1
+    },
+    {
+        "frameID": 97,
+        "playerID": 6,
+        "x": 754.33,
+        "y": 374.32,
+        "team": 0
+    },
+    {
+        "frameID": 97,
+        "playerID": 7,
+        "x": 846.91,
+        "y": 330.55,
+        "team": 0
+    },
+    {
+        "frameID": 97,
+        "playerID": 8,
+        "x": 722.71,
+        "y": 184.39,
+        "team": 0
+    },
+    {
+        "frameID": 97,
+        "playerID": 9,
+        "x": 657.74,
+        "y": 363.19,
+        "team": 0
+    },
+    {
+        "frameID": 97,
+        "playerID": 10,
+        "x": 685.97,
+        "y": 155.64,
+        "team": 0
+    },
+    {
+        "frameID": 97,
+        "playerID": 5,
+        "x": 677.39,
+        "y": 199.17,
+        "team": 1
+    },
+    {
+        "frameID": 98,
+        "playerID": 1,
+        "x": 620.25,
+        "y": 140.58,
+        "team": 1
+    },
+    {
+        "frameID": 98,
+        "playerID": 2,
+        "x": 886.12,
+        "y": 475.07,
+        "team": 1
+    },
+    {
+        "frameID": 98,
+        "playerID": 3,
+        "x": 734.91,
+        "y": 463.61,
+        "team": 1
+    },
+    {
+        "frameID": 98,
+        "playerID": 4,
+        "x": 608.17,
+        "y": 383.02,
+        "team": 1
+    },
+    {
+        "frameID": 98,
+        "playerID": 6,
+        "x": 755.41,
+        "y": 374.18,
+        "team": 0
+    },
+    {
+        "frameID": 98,
+        "playerID": 7,
+        "x": 847.02,
+        "y": 329.58,
+        "team": 0
+    },
+    {
+        "frameID": 98,
+        "playerID": 8,
+        "x": 724.68,
+        "y": 184.5,
+        "team": 0
+    },
+    {
+        "frameID": 98,
+        "playerID": 9,
+        "x": 658.51,
+        "y": 363.32,
+        "team": 0
+    },
+    {
+        "frameID": 98,
+        "playerID": 10,
+        "x": 686.25,
+        "y": 154.18,
+        "team": 0
+    },
+    {
+        "frameID": 98,
+        "playerID": 5,
+        "x": 678.89,
+        "y": 200.54,
+        "team": 1
+    },
+    {
+        "frameID": 99,
+        "playerID": 1,
+        "x": 621.59,
+        "y": 140.99,
+        "team": 1
+    },
+    {
+        "frameID": 99,
+        "playerID": 2,
+        "x": 885.81,
+        "y": 475.06,
+        "team": 1
+    },
+    {
+        "frameID": 99,
+        "playerID": 3,
+        "x": 735.24,
+        "y": 463.24,
+        "team": 1
+    },
+    {
+        "frameID": 99,
+        "playerID": 4,
+        "x": 608.7,
+        "y": 382.58,
+        "team": 1
+    },
+    {
+        "frameID": 99,
+        "playerID": 6,
+        "x": 756.44,
+        "y": 374.02,
+        "team": 0
+    },
+    {
+        "frameID": 99,
+        "playerID": 7,
+        "x": 847.11,
+        "y": 328.64,
+        "team": 0
+    },
+    {
+        "frameID": 99,
+        "playerID": 8,
+        "x": 726.61,
+        "y": 184.72,
+        "team": 0
+    },
+    {
+        "frameID": 99,
+        "playerID": 9,
+        "x": 659.29,
+        "y": 363.37,
+        "team": 0
+    },
+    {
+        "frameID": 99,
+        "playerID": 10,
+        "x": 686.54,
+        "y": 152.6,
+        "team": 0
+    },
+    {
+        "frameID": 99,
+        "playerID": 5,
+        "x": 680.39,
+        "y": 201.83,
+        "team": 1
+    },
+    {
+        "frameID": 100,
+        "playerID": 1,
+        "x": 623.02,
+        "y": 141.11,
+        "team": 1
+    },
+    {
+        "frameID": 100,
+        "playerID": 2,
+        "x": 885.41,
+        "y": 475.03,
+        "team": 1
+    },
+    {
+        "frameID": 100,
+        "playerID": 3,
+        "x": 735.49,
+        "y": 462.8,
+        "team": 1
+    },
+    {
+        "frameID": 100,
+        "playerID": 4,
+        "x": 609.23,
+        "y": 382.06,
+        "team": 1
+    },
+    {
+        "frameID": 100,
+        "playerID": 6,
+        "x": 757.42,
+        "y": 373.83,
+        "team": 0
+    },
+    {
+        "frameID": 100,
+        "playerID": 7,
+        "x": 847.2,
+        "y": 327.72,
+        "team": 0
+    },
+    {
+        "frameID": 100,
+        "playerID": 8,
+        "x": 728.5,
+        "y": 185.04,
+        "team": 0
+    },
+    {
+        "frameID": 100,
+        "playerID": 9,
+        "x": 660.07,
+        "y": 363.36,
+        "team": 0
+    },
+    {
+        "frameID": 100,
+        "playerID": 10,
+        "x": 686.84,
+        "y": 150.9,
+        "team": 0
+    },
+    {
+        "frameID": 100,
+        "playerID": 5,
+        "x": 681.87,
+        "y": 203.05,
+        "team": 1
+    },
+    {
+        "frameID": 101,
+        "playerID": 1,
+        "x": 624.5,
+        "y": 140.91,
+        "team": 1
+    },
+    {
+        "frameID": 101,
+        "playerID": 2,
+        "x": 884.94,
+        "y": 474.98,
+        "team": 1
+    },
+    {
+        "frameID": 101,
+        "playerID": 3,
+        "x": 735.68,
+        "y": 462.3,
+        "team": 1
+    },
+    {
+        "frameID": 101,
+        "playerID": 4,
+        "x": 609.76,
+        "y": 381.46,
+        "team": 1
+    },
+    {
+        "frameID": 101,
+        "playerID": 6,
+        "x": 758.35,
+        "y": 373.62,
+        "team": 0
+    },
+    {
+        "frameID": 101,
+        "playerID": 7,
+        "x": 847.28,
+        "y": 326.83,
+        "team": 0
+    },
+    {
+        "frameID": 101,
+        "playerID": 8,
+        "x": 730.35,
+        "y": 185.48,
+        "team": 0
+    },
+    {
+        "frameID": 101,
+        "playerID": 9,
+        "x": 660.85,
+        "y": 363.28,
+        "team": 0
+    },
+    {
+        "frameID": 101,
+        "playerID": 10,
+        "x": 687.11,
+        "y": 149.11,
+        "team": 0
+    },
+    {
+        "frameID": 101,
+        "playerID": 5,
+        "x": 683.35,
+        "y": 204.17,
+        "team": 1
+    },
+    {
+        "frameID": 102,
+        "playerID": 1,
+        "x": 626.03,
+        "y": 140.39,
+        "team": 1
+    },
+    {
+        "frameID": 102,
+        "playerID": 2,
+        "x": 884.38,
+        "y": 474.9,
+        "team": 1
+    },
+    {
+        "frameID": 102,
+        "playerID": 3,
+        "x": 735.8,
+        "y": 461.73,
+        "team": 1
+    },
+    {
+        "frameID": 102,
+        "playerID": 4,
+        "x": 610.26,
+        "y": 380.79,
+        "team": 1
+    },
+    {
+        "frameID": 102,
+        "playerID": 6,
+        "x": 759.23,
+        "y": 373.4,
+        "team": 0
+    },
+    {
+        "frameID": 102,
+        "playerID": 7,
+        "x": 847.35,
+        "y": 325.98,
+        "team": 0
+    },
+    {
+        "frameID": 102,
+        "playerID": 8,
+        "x": 732.15,
+        "y": 186.02,
+        "team": 0
+    },
+    {
+        "frameID": 102,
+        "playerID": 9,
+        "x": 661.62,
+        "y": 363.14,
+        "team": 0
+    },
+    {
+        "frameID": 102,
+        "playerID": 10,
+        "x": 687.33,
+        "y": 147.24,
+        "team": 0
+    },
+    {
+        "frameID": 102,
+        "playerID": 5,
+        "x": 684.82,
+        "y": 205.2,
+        "team": 1
+    },
+    {
+        "frameID": 103,
+        "playerID": 1,
+        "x": 627.58,
+        "y": 139.57,
+        "team": 1
+    },
+    {
+        "frameID": 103,
+        "playerID": 2,
+        "x": 883.73,
+        "y": 474.8,
+        "team": 1
+    },
+    {
+        "frameID": 103,
+        "playerID": 3,
+        "x": 735.84,
+        "y": 461.1,
+        "team": 1
+    },
+    {
+        "frameID": 103,
+        "playerID": 4,
+        "x": 610.75,
+        "y": 380.04,
+        "team": 1
+    },
+    {
+        "frameID": 103,
+        "playerID": 6,
+        "x": 760.05,
+        "y": 373.15,
+        "team": 0
+    },
+    {
+        "frameID": 103,
+        "playerID": 7,
+        "x": 847.41,
+        "y": 325.15,
+        "team": 0
+    },
+    {
+        "frameID": 103,
+        "playerID": 8,
+        "x": 733.9,
+        "y": 186.67,
+        "team": 0
+    },
+    {
+        "frameID": 103,
+        "playerID": 9,
+        "x": 662.38,
+        "y": 362.95,
+        "team": 0
+    },
+    {
+        "frameID": 103,
+        "playerID": 10,
+        "x": 687.49,
+        "y": 145.3,
+        "team": 0
+    },
+    {
+        "frameID": 103,
+        "playerID": 5,
+        "x": 686.28,
+        "y": 206.13,
+        "team": 1
+    },
+    {
+        "frameID": 104,
+        "playerID": 1,
+        "x": 629.12,
+        "y": 138.43,
+        "team": 1
+    },
+    {
+        "frameID": 104,
+        "playerID": 2,
+        "x": 883.0,
+        "y": 474.67,
+        "team": 1
+    },
+    {
+        "frameID": 104,
+        "playerID": 3,
+        "x": 735.81,
+        "y": 460.41,
+        "team": 1
+    },
+    {
+        "frameID": 104,
+        "playerID": 4,
+        "x": 611.22,
+        "y": 379.21,
+        "team": 1
+    },
+    {
+        "frameID": 104,
+        "playerID": 6,
+        "x": 760.81,
+        "y": 372.88,
+        "team": 0
+    },
+    {
+        "frameID": 104,
+        "playerID": 7,
+        "x": 847.45,
+        "y": 324.36,
+        "team": 0
+    },
+    {
+        "frameID": 104,
+        "playerID": 8,
+        "x": 735.6,
+        "y": 187.43,
+        "team": 0
+    },
+    {
+        "frameID": 104,
+        "playerID": 9,
+        "x": 663.13,
+        "y": 362.71,
+        "team": 0
+    },
+    {
+        "frameID": 104,
+        "playerID": 10,
+        "x": 687.57,
+        "y": 143.32,
+        "team": 0
+    },
+    {
+        "frameID": 104,
+        "playerID": 5,
+        "x": 687.72,
+        "y": 206.95,
+        "team": 1
+    },
+    {
+        "frameID": 105,
+        "playerID": 1,
+        "x": 630.64,
+        "y": 137.01,
+        "team": 1
+    },
+    {
+        "frameID": 105,
+        "playerID": 2,
+        "x": 882.18,
+        "y": 474.51,
+        "team": 1
+    },
+    {
+        "frameID": 105,
+        "playerID": 3,
+        "x": 735.7,
+        "y": 459.66,
+        "team": 1
+    },
+    {
+        "frameID": 105,
+        "playerID": 4,
+        "x": 611.66,
+        "y": 378.31,
+        "team": 1
+    },
+    {
+        "frameID": 105,
+        "playerID": 6,
+        "x": 761.51,
+        "y": 372.59,
+        "team": 0
+    },
+    {
+        "frameID": 105,
+        "playerID": 7,
+        "x": 847.48,
+        "y": 323.6,
+        "team": 0
+    },
+    {
+        "frameID": 105,
+        "playerID": 8,
+        "x": 737.24,
+        "y": 188.3,
+        "team": 0
+    },
+    {
+        "frameID": 105,
+        "playerID": 9,
+        "x": 663.87,
+        "y": 362.42,
+        "team": 0
+    },
+    {
+        "frameID": 105,
+        "playerID": 10,
+        "x": 687.54,
+        "y": 141.31,
+        "team": 0
+    },
+    {
+        "frameID": 105,
+        "playerID": 5,
+        "x": 689.14,
+        "y": 207.66,
+        "team": 1
+    },
+    {
+        "frameID": 106,
+        "playerID": 1,
+        "x": 632.11,
+        "y": 135.3,
+        "team": 1
+    },
+    {
+        "frameID": 106,
+        "playerID": 2,
+        "x": 881.27,
+        "y": 474.33,
+        "team": 1
+    },
+    {
+        "frameID": 106,
+        "playerID": 3,
+        "x": 735.51,
+        "y": 458.84,
+        "team": 1
+    },
+    {
+        "frameID": 106,
+        "playerID": 4,
+        "x": 612.07,
+        "y": 377.32,
+        "team": 1
+    },
+    {
+        "frameID": 106,
+        "playerID": 6,
+        "x": 762.14,
+        "y": 372.28,
+        "team": 0
+    },
+    {
+        "frameID": 106,
+        "playerID": 7,
+        "x": 847.49,
+        "y": 322.87,
+        "team": 0
+    },
+    {
+        "frameID": 106,
+        "playerID": 8,
+        "x": 738.82,
+        "y": 189.27,
+        "team": 0
+    },
+    {
+        "frameID": 106,
+        "playerID": 9,
+        "x": 664.59,
+        "y": 362.09,
+        "team": 0
+    },
+    {
+        "frameID": 106,
+        "playerID": 10,
+        "x": 687.38,
+        "y": 139.29,
+        "team": 0
+    },
+    {
+        "frameID": 106,
+        "playerID": 5,
+        "x": 690.53,
+        "y": 208.27,
+        "team": 1
+    },
+    {
+        "frameID": 107,
+        "playerID": 1,
+        "x": 633.51,
+        "y": 133.34,
+        "team": 1
+    },
+    {
+        "frameID": 107,
+        "playerID": 2,
+        "x": 880.27,
+        "y": 474.12,
+        "team": 1
+    },
+    {
+        "frameID": 107,
+        "playerID": 3,
+        "x": 735.25,
+        "y": 457.96,
+        "team": 1
+    },
+    {
+        "frameID": 107,
+        "playerID": 4,
+        "x": 612.43,
+        "y": 376.26,
+        "team": 1
+    },
+    {
+        "frameID": 107,
+        "playerID": 6,
+        "x": 762.71,
+        "y": 371.96,
+        "team": 0
+    },
+    {
+        "frameID": 107,
+        "playerID": 7,
+        "x": 847.49,
+        "y": 322.17,
+        "team": 0
+    },
+    {
+        "frameID": 107,
+        "playerID": 8,
+        "x": 740.35,
+        "y": 190.34,
+        "team": 0
+    },
+    {
+        "frameID": 107,
+        "playerID": 9,
+        "x": 665.29,
+        "y": 361.71,
+        "team": 0
+    },
+    {
+        "frameID": 107,
+        "playerID": 10,
+        "x": 687.08,
+        "y": 137.28,
+        "team": 0
+    },
+    {
+        "frameID": 107,
+        "playerID": 5,
+        "x": 691.89,
+        "y": 208.77,
+        "team": 1
+    },
+    {
+        "frameID": 108,
+        "playerID": 1,
+        "x": 634.81,
+        "y": 131.15,
+        "team": 1
+    },
+    {
+        "frameID": 108,
+        "playerID": 2,
+        "x": 879.19,
+        "y": 473.88,
+        "team": 1
+    },
+    {
+        "frameID": 108,
+        "playerID": 3,
+        "x": 734.91,
+        "y": 457.02,
+        "team": 1
+    },
+    {
+        "frameID": 108,
+        "playerID": 4,
+        "x": 612.76,
+        "y": 375.11,
+        "team": 1
+    },
+    {
+        "frameID": 108,
+        "playerID": 6,
+        "x": 763.21,
+        "y": 371.61,
+        "team": 0
+    },
+    {
+        "frameID": 108,
+        "playerID": 7,
+        "x": 847.48,
+        "y": 321.51,
+        "team": 0
+    },
+    {
+        "frameID": 108,
+        "playerID": 8,
+        "x": 741.81,
+        "y": 191.51,
+        "team": 0
+    },
+    {
+        "frameID": 108,
+        "playerID": 9,
+        "x": 665.97,
+        "y": 361.31,
+        "team": 0
+    },
+    {
+        "frameID": 108,
+        "playerID": 10,
+        "x": 686.62,
+        "y": 135.31,
+        "team": 0
+    },
+    {
+        "frameID": 108,
+        "playerID": 5,
+        "x": 693.2,
+        "y": 209.18,
+        "team": 1
+    },
+    {
+        "frameID": 109,
+        "playerID": 1,
+        "x": 635.99,
+        "y": 128.78,
+        "team": 1
+    },
+    {
+        "frameID": 109,
+        "playerID": 2,
+        "x": 878.01,
+        "y": 473.61,
+        "team": 1
+    },
+    {
+        "frameID": 109,
+        "playerID": 3,
+        "x": 734.5,
+        "y": 456.03,
+        "team": 1
+    },
+    {
+        "frameID": 109,
+        "playerID": 4,
+        "x": 613.04,
+        "y": 373.88,
+        "team": 1
+    },
+    {
+        "frameID": 109,
+        "playerID": 6,
+        "x": 763.65,
+        "y": 371.24,
+        "team": 0
+    },
+    {
+        "frameID": 109,
+        "playerID": 7,
+        "x": 847.44,
+        "y": 320.87,
+        "team": 0
+    },
+    {
+        "frameID": 109,
+        "playerID": 8,
+        "x": 743.21,
+        "y": 192.78,
+        "team": 0
+    },
+    {
+        "frameID": 109,
+        "playerID": 9,
+        "x": 666.62,
+        "y": 360.87,
+        "team": 0
+    },
+    {
+        "frameID": 109,
+        "playerID": 10,
+        "x": 685.98,
+        "y": 133.4,
+        "team": 0
+    },
+    {
+        "frameID": 109,
+        "playerID": 5,
+        "x": 694.44,
+        "y": 209.48,
+        "team": 1
+    },
+    {
+        "frameID": 110,
+        "playerID": 1,
+        "x": 637.04,
+        "y": 126.26,
+        "team": 1
+    },
+    {
+        "frameID": 110,
+        "playerID": 2,
+        "x": 876.74,
+        "y": 473.31,
+        "team": 1
+    },
+    {
+        "frameID": 110,
+        "playerID": 3,
+        "x": 734.0,
+        "y": 454.98,
+        "team": 1
+    },
+    {
+        "frameID": 110,
+        "playerID": 4,
+        "x": 613.28,
+        "y": 372.57,
+        "team": 1
+    },
+    {
+        "frameID": 110,
+        "playerID": 6,
+        "x": 764.02,
+        "y": 370.85,
+        "team": 0
+    },
+    {
+        "frameID": 110,
+        "playerID": 7,
+        "x": 847.4,
+        "y": 320.27,
+        "team": 0
+    },
+    {
+        "frameID": 110,
+        "playerID": 8,
+        "x": 744.56,
+        "y": 194.13,
+        "team": 0
+    },
+    {
+        "frameID": 110,
+        "playerID": 9,
+        "x": 667.25,
+        "y": 360.41,
+        "team": 0
+    },
+    {
+        "frameID": 110,
+        "playerID": 10,
+        "x": 685.14,
+        "y": 131.57,
+        "team": 0
+    },
+    {
+        "frameID": 110,
+        "playerID": 5,
+        "x": 695.61,
+        "y": 209.7,
+        "team": 1
+    },
+    {
+        "frameID": 111,
+        "playerID": 1,
+        "x": 637.93,
+        "y": 123.65,
+        "team": 1
+    },
+    {
+        "frameID": 111,
+        "playerID": 2,
+        "x": 875.38,
+        "y": 472.98,
+        "team": 1
+    },
+    {
+        "frameID": 111,
+        "playerID": 3,
+        "x": 733.42,
+        "y": 453.88,
+        "team": 1
+    },
+    {
+        "frameID": 111,
+        "playerID": 4,
+        "x": 613.46,
+        "y": 371.17,
+        "team": 1
+    },
+    {
+        "frameID": 111,
+        "playerID": 6,
+        "x": 764.32,
+        "y": 370.44,
+        "team": 0
+    },
+    {
+        "frameID": 111,
+        "playerID": 7,
+        "x": 847.33,
+        "y": 319.7,
+        "team": 0
+    },
+    {
+        "frameID": 111,
+        "playerID": 8,
+        "x": 745.84,
+        "y": 195.56,
+        "team": 0
+    },
+    {
+        "frameID": 111,
+        "playerID": 9,
+        "x": 667.84,
+        "y": 359.93,
+        "team": 0
+    },
+    {
+        "frameID": 111,
+        "playerID": 10,
+        "x": 684.11,
+        "y": 129.85,
+        "team": 0
+    },
+    {
+        "frameID": 111,
+        "playerID": 5,
+        "x": 696.7,
+        "y": 209.84,
+        "team": 1
+    },
+    {
+        "frameID": 112,
+        "playerID": 1,
+        "x": 638.64,
+        "y": 121.01,
+        "team": 1
+    },
+    {
+        "frameID": 112,
+        "playerID": 2,
+        "x": 873.93,
+        "y": 472.63,
+        "team": 1
+    },
+    {
+        "frameID": 112,
+        "playerID": 3,
+        "x": 732.77,
+        "y": 452.72,
+        "team": 1
+    },
+    {
+        "frameID": 112,
+        "playerID": 4,
+        "x": 613.59,
+        "y": 369.68,
+        "team": 1
+    },
+    {
+        "frameID": 112,
+        "playerID": 6,
+        "x": 764.56,
+        "y": 370.01,
+        "team": 0
+    },
+    {
+        "frameID": 112,
+        "playerID": 7,
+        "x": 847.25,
+        "y": 319.16,
+        "team": 0
+    },
+    {
+        "frameID": 112,
+        "playerID": 8,
+        "x": 747.06,
+        "y": 197.07,
+        "team": 0
+    },
+    {
+        "frameID": 112,
+        "playerID": 9,
+        "x": 668.39,
+        "y": 359.43,
+        "team": 0
+    },
+    {
+        "frameID": 112,
+        "playerID": 10,
+        "x": 682.85,
+        "y": 128.26,
+        "team": 0
+    },
+    {
+        "frameID": 112,
+        "playerID": 5,
+        "x": 697.68,
+        "y": 209.92,
+        "team": 1
+    },
+    {
+        "frameID": 113,
+        "playerID": 1,
+        "x": 639.16,
+        "y": 118.42,
+        "team": 1
+    },
+    {
+        "frameID": 113,
+        "playerID": 2,
+        "x": 872.39,
+        "y": 472.24,
+        "team": 1
+    },
+    {
+        "frameID": 113,
+        "playerID": 3,
+        "x": 732.03,
+        "y": 451.52,
+        "team": 1
+    },
+    {
+        "frameID": 113,
+        "playerID": 4,
+        "x": 613.66,
+        "y": 368.11,
+        "team": 1
+    },
+    {
+        "frameID": 113,
+        "playerID": 6,
+        "x": 764.73,
+        "y": 369.56,
+        "team": 0
+    },
+    {
+        "frameID": 113,
+        "playerID": 7,
+        "x": 847.16,
+        "y": 318.64,
+        "team": 0
+    },
+    {
+        "frameID": 113,
+        "playerID": 8,
+        "x": 748.23,
+        "y": 198.65,
+        "team": 0
+    },
+    {
+        "frameID": 113,
+        "playerID": 9,
+        "x": 668.91,
+        "y": 358.92,
+        "team": 0
+    },
+    {
+        "frameID": 113,
+        "playerID": 10,
+        "x": 681.37,
+        "y": 126.82,
+        "team": 0
+    },
+    {
+        "frameID": 113,
+        "playerID": 5,
+        "x": 698.53,
+        "y": 209.93,
+        "team": 1
+    },
+    {
+        "frameID": 114,
+        "playerID": 1,
+        "x": 639.48,
+        "y": 115.96,
+        "team": 1
+    },
+    {
+        "frameID": 114,
+        "playerID": 2,
+        "x": 870.75,
+        "y": 471.82,
+        "team": 1
+    },
+    {
+        "frameID": 114,
+        "playerID": 3,
+        "x": 731.21,
+        "y": 450.28,
+        "team": 1
+    },
+    {
+        "frameID": 114,
+        "playerID": 4,
+        "x": 613.67,
+        "y": 366.45,
+        "team": 1
+    },
+    {
+        "frameID": 114,
+        "playerID": 6,
+        "x": 764.83,
+        "y": 369.09,
+        "team": 0
+    },
+    {
+        "frameID": 114,
+        "playerID": 7,
+        "x": 847.04,
+        "y": 318.14,
+        "team": 0
+    },
+    {
+        "frameID": 114,
+        "playerID": 8,
+        "x": 749.34,
+        "y": 200.29,
+        "team": 0
+    },
+    {
+        "frameID": 114,
+        "playerID": 9,
+        "x": 669.39,
+        "y": 358.41,
+        "team": 0
+    },
+    {
+        "frameID": 114,
+        "playerID": 10,
+        "x": 679.67,
+        "y": 125.57,
+        "team": 0
+    },
+    {
+        "frameID": 114,
+        "playerID": 5,
+        "x": 699.25,
+        "y": 209.91,
+        "team": 1
+    },
+    {
+        "frameID": 115,
+        "playerID": 1,
+        "x": 639.59,
+        "y": 113.72,
+        "team": 1
+    },
+    {
+        "frameID": 115,
+        "playerID": 2,
+        "x": 869.03,
+        "y": 471.37,
+        "team": 1
+    },
+    {
+        "frameID": 115,
+        "playerID": 3,
+        "x": 730.31,
+        "y": 448.99,
+        "team": 1
+    },
+    {
+        "frameID": 115,
+        "playerID": 4,
+        "x": 613.64,
+        "y": 364.69,
+        "team": 1
+    },
+    {
+        "frameID": 115,
+        "playerID": 6,
+        "x": 764.86,
+        "y": 368.59,
+        "team": 0
+    },
+    {
+        "frameID": 115,
+        "playerID": 7,
+        "x": 846.91,
+        "y": 317.67,
+        "team": 0
+    },
+    {
+        "frameID": 115,
+        "playerID": 8,
+        "x": 750.4,
+        "y": 201.98,
+        "team": 0
+    },
+    {
+        "frameID": 115,
+        "playerID": 9,
+        "x": 669.83,
+        "y": 357.88,
+        "team": 0
+    },
+    {
+        "frameID": 115,
+        "playerID": 10,
+        "x": 677.75,
+        "y": 124.52,
+        "team": 0
+    },
+    {
+        "frameID": 115,
+        "playerID": 5,
+        "x": 699.82,
+        "y": 209.85,
+        "team": 1
+    },
+    {
+        "frameID": 116,
+        "playerID": 1,
+        "x": 639.48,
+        "y": 111.82,
+        "team": 1
+    },
+    {
+        "frameID": 116,
+        "playerID": 2,
+        "x": 867.21,
+        "y": 470.9,
+        "team": 1
+    },
+    {
+        "frameID": 116,
+        "playerID": 3,
+        "x": 729.33,
+        "y": 447.67,
+        "team": 1
+    },
+    {
+        "frameID": 116,
+        "playerID": 4,
+        "x": 613.54,
+        "y": 362.84,
+        "team": 1
+    },
+    {
+        "frameID": 116,
+        "playerID": 6,
+        "x": 764.83,
+        "y": 368.07,
+        "team": 0
+    },
+    {
+        "frameID": 116,
+        "playerID": 7,
+        "x": 846.77,
+        "y": 317.21,
+        "team": 0
+    },
+    {
+        "frameID": 116,
+        "playerID": 8,
+        "x": 751.4,
+        "y": 203.71,
+        "team": 0
+    },
+    {
+        "frameID": 116,
+        "playerID": 9,
+        "x": 670.23,
+        "y": 357.36,
+        "team": 0
+    },
+    {
+        "frameID": 116,
+        "playerID": 10,
+        "x": 675.61,
+        "y": 123.7,
+        "team": 0
+    },
+    {
+        "frameID": 116,
+        "playerID": 5,
+        "x": 700.2,
+        "y": 209.79,
+        "team": 1
+    },
+    {
+        "frameID": 117,
+        "playerID": 1,
+        "x": 639.14,
+        "y": 110.37,
+        "team": 1
+    },
+    {
+        "frameID": 117,
+        "playerID": 2,
+        "x": 865.3,
+        "y": 470.39,
+        "team": 1
+    },
+    {
+        "frameID": 117,
+        "playerID": 3,
+        "x": 728.27,
+        "y": 446.31,
+        "team": 1
+    },
+    {
+        "frameID": 117,
+        "playerID": 4,
+        "x": 613.39,
+        "y": 360.9,
+        "team": 1
+    },
+    {
+        "frameID": 117,
+        "playerID": 6,
+        "x": 764.74,
+        "y": 367.52,
+        "team": 0
+    },
+    {
+        "frameID": 117,
+        "playerID": 7,
+        "x": 846.61,
+        "y": 316.78,
+        "team": 0
+    },
+    {
+        "frameID": 117,
+        "playerID": 8,
+        "x": 752.36,
+        "y": 205.48,
+        "team": 0
+    },
+    {
+        "frameID": 117,
+        "playerID": 9,
+        "x": 670.57,
+        "y": 356.84,
+        "team": 0
+    },
+    {
+        "frameID": 117,
+        "playerID": 10,
+        "x": 673.26,
+        "y": 123.15,
+        "team": 0
+    },
+    {
+        "frameID": 117,
+        "playerID": 5,
+        "x": 700.4,
+        "y": 209.73,
+        "team": 1
+    },
+    {
+        "frameID": 118,
+        "playerID": 1,
+        "x": 638.58,
+        "y": 109.52,
+        "team": 1
+    },
+    {
+        "frameID": 118,
+        "playerID": 2,
+        "x": 863.31,
+        "y": 469.86,
+        "team": 1
+    },
+    {
+        "frameID": 118,
+        "playerID": 3,
+        "x": 727.12,
+        "y": 444.93,
+        "team": 1
+    },
+    {
+        "frameID": 118,
+        "playerID": 4,
+        "x": 613.19,
+        "y": 358.86,
+        "team": 1
+    },
+    {
+        "frameID": 118,
+        "playerID": 6,
+        "x": 764.59,
+        "y": 366.95,
+        "team": 0
+    },
+    {
+        "frameID": 118,
+        "playerID": 7,
+        "x": 846.43,
+        "y": 316.35,
+        "team": 0
+    },
+    {
+        "frameID": 118,
+        "playerID": 8,
+        "x": 753.28,
+        "y": 207.27,
+        "team": 0
+    },
+    {
+        "frameID": 118,
+        "playerID": 9,
+        "x": 670.87,
+        "y": 356.32,
+        "team": 0
+    },
+    {
+        "frameID": 118,
+        "playerID": 10,
+        "x": 670.72,
+        "y": 122.88,
+        "team": 0
+    },
+    {
+        "frameID": 118,
+        "playerID": 5,
+        "x": 700.38,
+        "y": 209.68,
+        "team": 1
+    },
+    {
+        "frameID": 119,
+        "playerID": 1,
+        "x": 637.8,
+        "y": 109.41,
+        "team": 1
+    },
+    {
+        "frameID": 119,
+        "playerID": 2,
+        "x": 861.22,
+        "y": 469.29,
+        "team": 1
+    },
+    {
+        "frameID": 119,
+        "playerID": 3,
+        "x": 725.89,
+        "y": 443.53,
+        "team": 1
+    },
+    {
+        "frameID": 119,
+        "playerID": 4,
+        "x": 612.95,
+        "y": 356.73,
+        "team": 1
+    },
+    {
+        "frameID": 119,
+        "playerID": 6,
+        "x": 764.38,
+        "y": 366.35,
+        "team": 0
+    },
+    {
+        "frameID": 119,
+        "playerID": 7,
+        "x": 846.24,
+        "y": 315.93,
+        "team": 0
+    },
+    {
+        "frameID": 119,
+        "playerID": 8,
+        "x": 754.16,
+        "y": 209.07,
+        "team": 0
+    },
+    {
+        "frameID": 119,
+        "playerID": 9,
+        "x": 671.11,
+        "y": 355.82,
+        "team": 0
+    },
+    {
+        "frameID": 119,
+        "playerID": 10,
+        "x": 668.01,
+        "y": 122.91,
+        "team": 0
+    },
+    {
+        "frameID": 119,
+        "playerID": 5,
+        "x": 700.13,
+        "y": 209.68,
+        "team": 1
+    },
+    {
+        "frameID": 120,
+        "playerID": 1,
+        "x": 636.81,
+        "y": 110.21,
+        "team": 1
+    },
+    {
+        "frameID": 120,
+        "playerID": 2,
+        "x": 859.05,
+        "y": 468.7,
+        "team": 1
+    },
+    {
+        "frameID": 120,
+        "playerID": 3,
+        "x": 724.58,
+        "y": 442.1,
+        "team": 1
+    },
+    {
+        "frameID": 120,
+        "playerID": 4,
+        "x": 612.66,
+        "y": 354.5,
+        "team": 1
+    },
+    {
+        "frameID": 120,
+        "playerID": 6,
+        "x": 764.12,
+        "y": 365.73,
+        "team": 0
+    },
+    {
+        "frameID": 120,
+        "playerID": 7,
+        "x": 846.03,
+        "y": 315.52,
+        "team": 0
+    },
+    {
+        "frameID": 120,
+        "playerID": 8,
+        "x": 755.01,
+        "y": 210.87,
+        "team": 0
+    },
+    {
+        "frameID": 120,
+        "playerID": 9,
+        "x": 671.3,
+        "y": 355.34,
+        "team": 0
+    },
+    {
+        "frameID": 120,
+        "playerID": 10,
+        "x": 665.16,
+        "y": 123.28,
+        "team": 0
+    },
+    {
+        "frameID": 120,
+        "playerID": 5,
+        "x": 699.64,
+        "y": 209.72,
+        "team": 1
+    },
+    {
+        "frameID": 121,
+        "playerID": 1,
+        "x": 635.63,
+        "y": 112.11,
+        "team": 1
+    },
+    {
+        "frameID": 121,
+        "playerID": 2,
+        "x": 856.78,
+        "y": 468.09,
+        "team": 1
+    },
+    {
+        "frameID": 121,
+        "playerID": 3,
+        "x": 723.19,
+        "y": 440.67,
+        "team": 1
+    },
+    {
+        "frameID": 121,
+        "playerID": 4,
+        "x": 612.34,
+        "y": 352.18,
+        "team": 1
+    },
+    {
+        "frameID": 121,
+        "playerID": 6,
+        "x": 763.8,
+        "y": 365.08,
+        "team": 0
+    },
+    {
+        "frameID": 121,
+        "playerID": 7,
+        "x": 845.81,
+        "y": 315.11,
+        "team": 0
+    },
+    {
+        "frameID": 121,
+        "playerID": 8,
+        "x": 755.82,
+        "y": 212.66,
+        "team": 0
+    },
+    {
+        "frameID": 121,
+        "playerID": 9,
+        "x": 671.43,
+        "y": 354.87,
+        "team": 0
+    },
+    {
+        "frameID": 121,
+        "playerID": 10,
+        "x": 662.22,
+        "y": 124.01,
+        "team": 0
+    },
+    {
+        "frameID": 121,
+        "playerID": 5,
+        "x": 698.89,
+        "y": 209.83,
+        "team": 1
+    },
+    {
+        "frameID": 122,
+        "playerID": 1,
+        "x": 634.29,
+        "y": 115.32,
+        "team": 1
+    },
+    {
+        "frameID": 122,
+        "playerID": 2,
+        "x": 854.43,
+        "y": 467.45,
+        "team": 1
+    },
+    {
+        "frameID": 122,
+        "playerID": 3,
+        "x": 721.71,
+        "y": 439.22,
+        "team": 1
+    },
+    {
+        "frameID": 122,
+        "playerID": 4,
+        "x": 612.0,
+        "y": 349.76,
+        "team": 1
+    },
+    {
+        "frameID": 122,
+        "playerID": 6,
+        "x": 763.44,
+        "y": 364.39,
+        "team": 0
+    },
+    {
+        "frameID": 122,
+        "playerID": 7,
+        "x": 845.58,
+        "y": 314.7,
+        "team": 0
+    },
+    {
+        "frameID": 122,
+        "playerID": 8,
+        "x": 756.62,
+        "y": 214.42,
+        "team": 0
+    },
+    {
+        "frameID": 122,
+        "playerID": 9,
+        "x": 671.51,
+        "y": 354.42,
+        "team": 0
+    },
+    {
+        "frameID": 122,
+        "playerID": 10,
+        "x": 659.21,
+        "y": 125.12,
+        "team": 0
+    },
+    {
+        "frameID": 122,
+        "playerID": 5,
+        "x": 697.87,
+        "y": 210.02,
+        "team": 1
+    },
+    {
+        "frameID": 123,
+        "playerID": 1,
+        "x": 632.81,
+        "y": 120.05,
+        "team": 1
+    },
+    {
+        "frameID": 123,
+        "playerID": 2,
+        "x": 852.0,
+        "y": 466.78,
+        "team": 1
+    },
+    {
+        "frameID": 123,
+        "playerID": 3,
+        "x": 720.16,
+        "y": 437.78,
+        "team": 1
+    },
+    {
+        "frameID": 123,
+        "playerID": 4,
+        "x": 611.64,
+        "y": 347.26,
+        "team": 1
+    },
+    {
+        "frameID": 123,
+        "playerID": 6,
+        "x": 763.03,
+        "y": 363.68,
+        "team": 0
+    },
+    {
+        "frameID": 123,
+        "playerID": 7,
+        "x": 845.33,
+        "y": 314.28,
+        "team": 0
+    },
+    {
+        "frameID": 123,
+        "playerID": 8,
+        "x": 757.39,
+        "y": 216.14,
+        "team": 0
+    },
+    {
+        "frameID": 123,
+        "playerID": 9,
+        "x": 671.52,
+        "y": 353.99,
+        "team": 0
+    },
+    {
+        "frameID": 123,
+        "playerID": 10,
+        "x": 656.2,
+        "y": 126.62,
+        "team": 0
+    },
+    {
+        "frameID": 123,
+        "playerID": 5,
+        "x": 696.58,
+        "y": 210.3,
+        "team": 1
+    },
+    {
+        "frameID": 124,
+        "playerID": 1,
+        "x": 631.23,
+        "y": 126.55,
+        "team": 1
+    },
+    {
+        "frameID": 124,
+        "playerID": 2,
+        "x": 849.48,
+        "y": 466.09,
+        "team": 1
+    },
+    {
+        "frameID": 124,
+        "playerID": 3,
+        "x": 718.52,
+        "y": 436.34,
+        "team": 1
+    },
+    {
+        "frameID": 124,
+        "playerID": 4,
+        "x": 611.27,
+        "y": 344.66,
+        "team": 1
+    },
+    {
+        "frameID": 124,
+        "playerID": 6,
+        "x": 762.58,
+        "y": 362.93,
+        "team": 0
+    },
+    {
+        "frameID": 124,
+        "playerID": 7,
+        "x": 845.07,
+        "y": 313.84,
+        "team": 0
+    },
+    {
+        "frameID": 124,
+        "playerID": 8,
+        "x": 758.16,
+        "y": 217.81,
+        "team": 0
+    },
+    {
+        "frameID": 124,
+        "playerID": 9,
+        "x": 671.47,
+        "y": 353.59,
+        "team": 0
+    },
+    {
+        "frameID": 124,
+        "playerID": 10,
+        "x": 653.25,
+        "y": 128.54,
+        "team": 0
+    },
+    {
+        "frameID": 124,
+        "playerID": 5,
+        "x": 695.0,
+        "y": 210.67,
+        "team": 1
+    },
+    {
+        "frameID": 125,
+        "playerID": 1,
+        "x": 629.6,
+        "y": 135.1,
+        "team": 1
+    },
+    {
+        "frameID": 125,
+        "playerID": 2,
+        "x": 846.87,
+        "y": 465.38,
+        "team": 1
+    },
+    {
+        "frameID": 125,
+        "playerID": 3,
+        "x": 716.8,
+        "y": 434.9,
+        "team": 1
+    },
+    {
+        "frameID": 125,
+        "playerID": 4,
+        "x": 610.92,
+        "y": 341.97,
+        "team": 1
+    },
+    {
+        "frameID": 125,
+        "playerID": 6,
+        "x": 762.09,
+        "y": 362.14,
+        "team": 0
+    },
+    {
+        "frameID": 125,
+        "playerID": 7,
+        "x": 844.81,
+        "y": 313.39,
+        "team": 0
+    },
+    {
+        "frameID": 125,
+        "playerID": 8,
+        "x": 758.92,
+        "y": 219.42,
+        "team": 0
+    },
+    {
+        "frameID": 125,
+        "playerID": 9,
+        "x": 671.35,
+        "y": 353.23,
+        "team": 0
+    },
+    {
+        "frameID": 125,
+        "playerID": 10,
+        "x": 650.43,
+        "y": 130.91,
+        "team": 0
+    },
+    {
+        "frameID": 125,
+        "playerID": 5,
+        "x": 693.14,
+        "y": 211.16,
+        "team": 1
+    },
+    {
+        "frameID": 126,
+        "playerID": 1,
+        "x": 627.97,
+        "y": 145.97,
+        "team": 1
+    },
+    {
+        "frameID": 126,
+        "playerID": 2,
+        "x": 844.19,
+        "y": 464.64,
+        "team": 1
+    },
+    {
+        "frameID": 126,
+        "playerID": 3,
+        "x": 715.0,
+        "y": 433.49,
+        "team": 1
+    },
+    {
+        "frameID": 126,
+        "playerID": 4,
+        "x": 610.6,
+        "y": 339.2,
+        "team": 1
+    },
+    {
+        "frameID": 126,
+        "playerID": 6,
+        "x": 761.56,
+        "y": 361.32,
+        "team": 0
+    },
+    {
+        "frameID": 126,
+        "playerID": 7,
+        "x": 844.53,
+        "y": 312.92,
+        "team": 0
+    },
+    {
+        "frameID": 126,
+        "playerID": 8,
+        "x": 759.69,
+        "y": 220.94,
+        "team": 0
+    },
+    {
+        "frameID": 126,
+        "playerID": 9,
+        "x": 671.17,
+        "y": 352.89,
+        "team": 0
+    },
+    {
+        "frameID": 126,
+        "playerID": 10,
+        "x": 647.83,
+        "y": 133.72,
+        "team": 0
+    },
+    {
+        "frameID": 126,
+        "playerID": 5,
+        "x": 690.99,
+        "y": 211.75,
+        "team": 1
+    },
+    {
+        "frameID": 127,
+        "playerID": 1,
+        "x": 626.41,
+        "y": 159.49,
+        "team": 1
+    },
+    {
+        "frameID": 127,
+        "playerID": 2,
+        "x": 841.42,
+        "y": 463.89,
+        "team": 1
+    },
+    {
+        "frameID": 127,
+        "playerID": 3,
+        "x": 713.12,
+        "y": 432.09,
+        "team": 1
+    },
+    {
+        "frameID": 127,
+        "playerID": 4,
+        "x": 610.32,
+        "y": 336.34,
+        "team": 1
+    },
+    {
+        "frameID": 127,
+        "playerID": 6,
+        "x": 761.01,
+        "y": 360.46,
+        "team": 0
+    },
+    {
+        "frameID": 127,
+        "playerID": 7,
+        "x": 844.24,
+        "y": 312.43,
+        "team": 0
+    },
+    {
+        "frameID": 127,
+        "playerID": 8,
+        "x": 760.47,
+        "y": 222.37,
+        "team": 0
+    },
+    {
+        "frameID": 127,
+        "playerID": 9,
+        "x": 670.93,
+        "y": 352.59,
+        "team": 0
+    },
+    {
+        "frameID": 127,
+        "playerID": 10,
+        "x": 645.55,
+        "y": 137.0,
+        "team": 0
+    },
+    {
+        "frameID": 127,
+        "playerID": 5,
+        "x": 688.58,
+        "y": 212.44,
+        "team": 1
+    },
+    {
+        "frameID": 128,
+        "playerID": 1,
+        "x": 625.0,
+        "y": 176.0,
+        "team": 1
+    },
+    {
+        "frameID": 128,
+        "playerID": 2,
+        "x": 838.57,
+        "y": 463.12,
+        "team": 1
+    },
+    {
+        "frameID": 128,
+        "playerID": 3,
+        "x": 711.16,
+        "y": 430.72,
+        "team": 1
+    },
+    {
+        "frameID": 128,
+        "playerID": 4,
+        "x": 610.11,
+        "y": 333.42,
+        "team": 1
+    },
+    {
+        "frameID": 128,
+        "playerID": 6,
+        "x": 760.44,
+        "y": 359.56,
+        "team": 0
+    },
+    {
+        "frameID": 128,
+        "playerID": 7,
+        "x": 843.95,
+        "y": 311.9,
+        "team": 0
+    },
+    {
+        "frameID": 128,
+        "playerID": 8,
+        "x": 761.26,
+        "y": 223.69,
+        "team": 0
+    },
+    {
+        "frameID": 128,
+        "playerID": 9,
+        "x": 670.61,
+        "y": 352.32,
+        "team": 0
+    },
+    {
+        "frameID": 128,
+        "playerID": 10,
+        "x": 643.7,
+        "y": 140.77,
+        "team": 0
+    },
+    {
+        "frameID": 128,
+        "playerID": 5,
+        "x": 685.91,
+        "y": 213.24,
+        "team": 1
+    },
+    {
+        "frameID": 129,
+        "playerID": 2,
+        "x": 835.65,
+        "y": 462.33,
+        "team": 1
+    },
+    {
+        "frameID": 129,
+        "playerID": 3,
+        "x": 709.11,
+        "y": 429.39,
+        "team": 1
+    },
+    {
+        "frameID": 129,
+        "playerID": 4,
+        "x": 610.0,
+        "y": 330.43,
+        "team": 1
+    },
+    {
+        "frameID": 129,
+        "playerID": 6,
+        "x": 759.84,
+        "y": 358.62,
+        "team": 0
+    },
+    {
+        "frameID": 129,
+        "playerID": 7,
+        "x": 843.64,
+        "y": 311.33,
+        "team": 0
+    },
+    {
+        "frameID": 129,
+        "playerID": 8,
+        "x": 762.08,
+        "y": 224.89,
+        "team": 0
+    },
+    {
+        "frameID": 129,
+        "playerID": 9,
+        "x": 670.22,
+        "y": 352.09,
+        "team": 0
+    },
+    {
+        "frameID": 129,
+        "playerID": 10,
+        "x": 642.39,
+        "y": 145.02,
+        "team": 0
+    },
+    {
+        "frameID": 129,
+        "playerID": 5,
+        "x": 683.02,
+        "y": 214.11,
+        "team": 1
+    },
+    {
+        "frameID": 130,
+        "playerID": 2,
+        "x": 832.65,
+        "y": 461.52,
+        "team": 1
+    },
+    {
+        "frameID": 130,
+        "playerID": 3,
+        "x": 706.99,
+        "y": 428.1,
+        "team": 1
+    },
+    {
+        "frameID": 130,
+        "playerID": 4,
+        "x": 609.99,
+        "y": 327.38,
+        "team": 1
+    },
+    {
+        "frameID": 130,
+        "playerID": 6,
+        "x": 759.23,
+        "y": 357.64,
+        "team": 0
+    },
+    {
+        "frameID": 130,
+        "playerID": 7,
+        "x": 843.33,
+        "y": 310.73,
+        "team": 0
+    },
+    {
+        "frameID": 130,
+        "playerID": 8,
+        "x": 762.93,
+        "y": 225.95,
+        "team": 0
+    },
+    {
+        "frameID": 130,
+        "playerID": 9,
+        "x": 669.76,
+        "y": 351.9,
+        "team": 0
+    },
+    {
+        "frameID": 130,
+        "playerID": 10,
+        "x": 641.78,
+        "y": 149.76,
+        "team": 0
+    },
+    {
+        "frameID": 130,
+        "playerID": 5,
+        "x": 679.92,
+        "y": 215.06,
+        "team": 1
+    },
+    {
+        "frameID": 131,
+        "playerID": 2,
+        "x": 829.57,
+        "y": 460.7,
+        "team": 1
+    },
+    {
+        "frameID": 131,
+        "playerID": 3,
+        "x": 704.79,
+        "y": 426.85,
+        "team": 1
+    },
+    {
+        "frameID": 131,
+        "playerID": 4,
+        "x": 610.14,
+        "y": 324.29,
+        "team": 1
+    },
+    {
+        "frameID": 131,
+        "playerID": 6,
+        "x": 758.62,
+        "y": 356.61,
+        "team": 0
+    },
+    {
+        "frameID": 131,
+        "playerID": 7,
+        "x": 843.02,
+        "y": 310.07,
+        "team": 0
+    },
+    {
+        "frameID": 131,
+        "playerID": 8,
+        "x": 763.82,
+        "y": 226.85,
+        "team": 0
+    },
+    {
+        "frameID": 131,
+        "playerID": 9,
+        "x": 669.23,
+        "y": 351.75,
+        "team": 0
+    },
+    {
+        "frameID": 131,
+        "playerID": 10,
+        "x": 642.0,
+        "y": 155.0,
+        "team": 0
+    },
+    {
+        "frameID": 131,
+        "playerID": 5,
+        "x": 676.67,
+        "y": 216.04,
+        "team": 1
+    },
+    {
+        "frameID": 132,
+        "playerID": 2,
+        "x": 826.43,
+        "y": 459.87,
+        "team": 1
+    },
+    {
+        "frameID": 132,
+        "playerID": 3,
+        "x": 702.52,
+        "y": 425.66,
+        "team": 1
+    },
+    {
+        "frameID": 132,
+        "playerID": 4,
+        "x": 610.46,
+        "y": 321.15,
+        "team": 1
+    },
+    {
+        "frameID": 132,
+        "playerID": 6,
+        "x": 757.99,
+        "y": 355.53,
+        "team": 0
+    },
+    {
+        "frameID": 132,
+        "playerID": 7,
+        "x": 842.7,
+        "y": 309.37,
+        "team": 0
+    },
+    {
+        "frameID": 132,
+        "playerID": 8,
+        "x": 764.76,
+        "y": 227.59,
+        "team": 0
+    },
+    {
+        "frameID": 132,
+        "playerID": 9,
+        "x": 668.62,
+        "y": 351.64,
+        "team": 0
+    },
+    {
+        "frameID": 132,
+        "playerID": 5,
+        "x": 673.32,
+        "y": 217.03,
+        "team": 1
+    },
+    {
+        "frameID": 133,
+        "playerID": 2,
+        "x": 823.21,
+        "y": 459.03,
+        "team": 1
+    },
+    {
+        "frameID": 133,
+        "playerID": 3,
+        "x": 700.16,
+        "y": 424.52,
+        "team": 1
+    },
+    {
+        "frameID": 133,
+        "playerID": 4,
+        "x": 611.0,
+        "y": 318.0,
+        "team": 1
+    },
+    {
+        "frameID": 133,
+        "playerID": 6,
+        "x": 757.38,
+        "y": 354.4,
+        "team": 0
+    },
+    {
+        "frameID": 133,
+        "playerID": 7,
+        "x": 842.37,
+        "y": 308.61,
+        "team": 0
+    },
+    {
+        "frameID": 133,
+        "playerID": 8,
+        "x": 765.76,
+        "y": 228.14,
+        "team": 0
+    },
+    {
+        "frameID": 133,
+        "playerID": 9,
+        "x": 667.94,
+        "y": 351.58,
+        "team": 0
+    },
+    {
+        "frameID": 133,
+        "playerID": 5,
+        "x": 669.94,
+        "y": 217.97,
+        "team": 1
+    },
+    {
+        "frameID": 134,
+        "playerID": 2,
+        "x": 819.92,
+        "y": 458.18,
+        "team": 1
+    },
+    {
+        "frameID": 134,
+        "playerID": 3,
+        "x": 697.73,
+        "y": 423.44,
+        "team": 1
+    },
+    {
+        "frameID": 134,
+        "playerID": 6,
+        "x": 756.76,
+        "y": 353.22,
+        "team": 0
+    },
+    {
+        "frameID": 134,
+        "playerID": 7,
+        "x": 842.04,
+        "y": 307.79,
+        "team": 0
+    },
+    {
+        "frameID": 134,
+        "playerID": 8,
+        "x": 766.81,
+        "y": 228.5,
+        "team": 0
+    },
+    {
+        "frameID": 134,
+        "playerID": 9,
+        "x": 667.18,
+        "y": 351.55,
+        "team": 0
+    },
+    {
+        "frameID": 134,
+        "playerID": 5,
+        "x": 666.59,
+        "y": 218.82,
+        "team": 1
+    },
+    {
+        "frameID": 135,
+        "playerID": 2,
+        "x": 816.56,
+        "y": 457.32,
+        "team": 1
+    },
+    {
+        "frameID": 135,
+        "playerID": 3,
+        "x": 695.22,
+        "y": 422.44,
+        "team": 1
+    },
+    {
+        "frameID": 135,
+        "playerID": 6,
+        "x": 756.16,
+        "y": 351.99,
+        "team": 0
+    },
+    {
+        "frameID": 135,
+        "playerID": 7,
+        "x": 841.71,
+        "y": 306.9,
+        "team": 0
+    },
+    {
+        "frameID": 135,
+        "playerID": 8,
+        "x": 767.94,
+        "y": 228.64,
+        "team": 0
+    },
+    {
+        "frameID": 135,
+        "playerID": 9,
+        "x": 666.35,
+        "y": 351.57,
+        "team": 0
+    },
+    {
+        "frameID": 135,
+        "playerID": 5,
+        "x": 663.38,
+        "y": 219.5,
+        "team": 1
+    },
+    {
+        "frameID": 136,
+        "playerID": 2,
+        "x": 813.14,
+        "y": 456.46,
+        "team": 1
+    },
+    {
+        "frameID": 136,
+        "playerID": 3,
+        "x": 692.63,
+        "y": 421.51,
+        "team": 1
+    },
+    {
+        "frameID": 136,
+        "playerID": 6,
+        "x": 755.58,
+        "y": 350.7,
+        "team": 0
+    },
+    {
+        "frameID": 136,
+        "playerID": 7,
+        "x": 841.37,
+        "y": 305.95,
+        "team": 0
+    },
+    {
+        "frameID": 136,
+        "playerID": 8,
+        "x": 769.14,
+        "y": 228.57,
+        "team": 0
+    },
+    {
+        "frameID": 136,
+        "playerID": 9,
+        "x": 665.44,
+        "y": 351.63,
+        "team": 0
+    },
+    {
+        "frameID": 136,
+        "playerID": 5,
+        "x": 660.4,
+        "y": 219.94,
+        "team": 1
+    },
+    {
+        "frameID": 137,
+        "playerID": 2,
+        "x": 809.66,
+        "y": 455.6,
+        "team": 1
+    },
+    {
+        "frameID": 137,
+        "playerID": 3,
+        "x": 689.97,
+        "y": 420.65,
+        "team": 1
+    },
+    {
+        "frameID": 137,
+        "playerID": 6,
+        "x": 755.02,
+        "y": 349.35,
+        "team": 0
+    },
+    {
+        "frameID": 137,
+        "playerID": 7,
+        "x": 841.03,
+        "y": 304.92,
+        "team": 0
+    },
+    {
+        "frameID": 137,
+        "playerID": 8,
+        "x": 770.43,
+        "y": 228.25,
+        "team": 0
+    },
+    {
+        "frameID": 137,
+        "playerID": 9,
+        "x": 664.45,
+        "y": 351.73,
+        "team": 0
+    },
+    {
+        "frameID": 137,
+        "playerID": 5,
+        "x": 657.8,
+        "y": 220.03,
+        "team": 1
+    },
+    {
+        "frameID": 138,
+        "playerID": 2,
+        "x": 806.11,
+        "y": 454.73,
+        "team": 1
+    },
+    {
+        "frameID": 138,
+        "playerID": 3,
+        "x": 687.24,
+        "y": 419.88,
+        "team": 1
+    },
+    {
+        "frameID": 138,
+        "playerID": 6,
+        "x": 754.48,
+        "y": 347.94,
+        "team": 0
+    },
+    {
+        "frameID": 138,
+        "playerID": 7,
+        "x": 840.68,
+        "y": 303.82,
+        "team": 0
+    },
+    {
+        "frameID": 138,
+        "playerID": 8,
+        "x": 771.8,
+        "y": 227.69,
+        "team": 0
+    },
+    {
+        "frameID": 138,
+        "playerID": 9,
+        "x": 663.38,
+        "y": 351.87,
+        "team": 0
+    },
+    {
+        "frameID": 138,
+        "playerID": 5,
+        "x": 655.7,
+        "y": 219.68,
+        "team": 1
+    },
+    {
+        "frameID": 139,
+        "playerID": 2,
+        "x": 802.5,
+        "y": 453.87,
+        "team": 1
+    },
+    {
+        "frameID": 139,
+        "playerID": 3,
+        "x": 684.43,
+        "y": 419.2,
+        "team": 1
+    },
+    {
+        "frameID": 139,
+        "playerID": 6,
+        "x": 753.97,
+        "y": 346.47,
+        "team": 0
+    },
+    {
+        "frameID": 139,
+        "playerID": 7,
+        "x": 840.33,
+        "y": 302.63,
+        "team": 0
+    },
+    {
+        "frameID": 139,
+        "playerID": 8,
+        "x": 773.27,
+        "y": 226.88,
+        "team": 0
+    },
+    {
+        "frameID": 139,
+        "playerID": 9,
+        "x": 662.23,
+        "y": 352.05,
+        "team": 0
+    },
+    {
+        "frameID": 139,
+        "playerID": 5,
+        "x": 654.27,
+        "y": 218.76,
+        "team": 1
+    },
+    {
+        "frameID": 140,
+        "playerID": 2,
+        "x": 798.83,
+        "y": 453.01,
+        "team": 1
+    },
+    {
+        "frameID": 140,
+        "playerID": 3,
+        "x": 681.55,
+        "y": 418.6,
+        "team": 1
+    },
+    {
+        "frameID": 140,
+        "playerID": 6,
+        "x": 753.51,
+        "y": 344.93,
+        "team": 0
+    },
+    {
+        "frameID": 140,
+        "playerID": 7,
+        "x": 839.98,
+        "y": 301.36,
+        "team": 0
+    },
+    {
+        "frameID": 140,
+        "playerID": 8,
+        "x": 774.84,
+        "y": 225.79,
+        "team": 0
+    },
+    {
+        "frameID": 140,
+        "playerID": 9,
+        "x": 661.01,
+        "y": 352.27,
+        "team": 0
+    },
+    {
+        "frameID": 141,
+        "playerID": 2,
+        "x": 795.1,
+        "y": 452.15,
+        "team": 1
+    },
+    {
+        "frameID": 141,
+        "playerID": 3,
+        "x": 678.59,
+        "y": 418.1,
+        "team": 1
+    },
+    {
+        "frameID": 141,
+        "playerID": 6,
+        "x": 753.08,
+        "y": 343.33,
+        "team": 0
+    },
+    {
+        "frameID": 141,
+        "playerID": 7,
+        "x": 839.62,
+        "y": 300.01,
+        "team": 0
+    },
+    {
+        "frameID": 141,
+        "playerID": 8,
+        "x": 776.5,
+        "y": 224.43,
+        "team": 0
+    },
+    {
+        "frameID": 141,
+        "playerID": 9,
+        "x": 659.7,
+        "y": 352.53,
+        "team": 0
+    },
+    {
+        "frameID": 141,
+        "playerID": 5,
+        "x": 653.7,
+        "y": 217.12,
+        "team": 1
+    },
+    {
+        "frameID": 142,
+        "playerID": 2,
+        "x": 791.31,
+        "y": 451.3,
+        "team": 1
+    },
+    {
+        "frameID": 142,
+        "playerID": 3,
+        "x": 675.56,
+        "y": 417.68,
+        "team": 1
+    },
+    {
+        "frameID": 142,
+        "playerID": 6,
+        "x": 752.69,
+        "y": 341.66,
+        "team": 0
+    },
+    {
+        "frameID": 142,
+        "playerID": 7,
+        "x": 839.25,
+        "y": 298.58,
+        "team": 0
+    },
+    {
+        "frameID": 142,
+        "playerID": 8,
+        "x": 778.28,
+        "y": 222.78,
+        "team": 0
+    },
+    {
+        "frameID": 142,
+        "playerID": 9,
+        "x": 658.31,
+        "y": 352.82,
+        "team": 0
+    },
+    {
+        "frameID": 142,
+        "playerID": 5,
+        "x": 654.2,
+        "y": 214.59,
+        "team": 1
+    },
+    {
+        "frameID": 143,
+        "playerID": 2,
+        "x": 787.47,
+        "y": 450.46,
+        "team": 1
+    },
+    {
+        "frameID": 143,
+        "playerID": 3,
+        "x": 672.46,
+        "y": 417.37,
+        "team": 1
+    },
+    {
+        "frameID": 143,
+        "playerID": 6,
+        "x": 752.35,
+        "y": 339.93,
+        "team": 0
+    },
+    {
+        "frameID": 143,
+        "playerID": 7,
+        "x": 838.87,
+        "y": 297.05,
+        "team": 0
+    },
+    {
+        "frameID": 143,
+        "playerID": 8,
+        "x": 780.16,
+        "y": 220.85,
+        "team": 0
+    },
+    {
+        "frameID": 143,
+        "playerID": 9,
+        "x": 656.85,
+        "y": 353.14,
+        "team": 0
+    },
+    {
+        "frameID": 143,
+        "playerID": 5,
+        "x": 656.0,
+        "y": 211.0,
+        "team": 1
+    },
+    {
+        "frameID": 144,
+        "playerID": 2,
+        "x": 783.58,
+        "y": 449.63,
+        "team": 1
+    },
+    {
+        "frameID": 144,
+        "playerID": 3,
+        "x": 669.29,
+        "y": 417.14,
+        "team": 1
+    },
+    {
+        "frameID": 144,
+        "playerID": 6,
+        "x": 752.05,
+        "y": 338.12,
+        "team": 0
+    },
+    {
+        "frameID": 144,
+        "playerID": 7,
+        "x": 838.49,
+        "y": 295.44,
+        "team": 0
+    },
+    {
+        "frameID": 144,
+        "playerID": 8,
+        "x": 782.16,
+        "y": 218.63,
+        "team": 0
+    },
+    {
+        "frameID": 144,
+        "playerID": 9,
+        "x": 655.3,
+        "y": 353.49,
+        "team": 0
+    },
+    {
+        "frameID": 145,
+        "playerID": 2,
+        "x": 779.63,
+        "y": 448.82,
+        "team": 1
+    },
+    {
+        "frameID": 145,
+        "playerID": 3,
+        "x": 666.05,
+        "y": 417.01,
+        "team": 1
+    },
+    {
+        "frameID": 145,
+        "playerID": 6,
+        "x": 751.81,
+        "y": 336.24,
+        "team": 0
+    },
+    {
+        "frameID": 145,
+        "playerID": 7,
+        "x": 838.09,
+        "y": 293.75,
+        "team": 0
+    },
+    {
+        "frameID": 145,
+        "playerID": 8,
+        "x": 784.26,
+        "y": 216.1,
+        "team": 0
+    },
+    {
+        "frameID": 145,
+        "playerID": 9,
+        "x": 653.68,
+        "y": 353.86,
+        "team": 0
+    },
+    {
+        "frameID": 146,
+        "playerID": 2,
+        "x": 775.63,
+        "y": 448.01,
+        "team": 1
+    },
+    {
+        "frameID": 146,
+        "playerID": 3,
+        "x": 662.74,
+        "y": 416.97,
+        "team": 1
+    },
+    {
+        "frameID": 146,
+        "playerID": 6,
+        "x": 751.62,
+        "y": 334.28,
+        "team": 0
+    },
+    {
+        "frameID": 146,
+        "playerID": 7,
+        "x": 837.67,
+        "y": 291.97,
+        "team": 0
+    },
+    {
+        "frameID": 146,
+        "playerID": 8,
+        "x": 786.47,
+        "y": 213.29,
+        "team": 0
+    },
+    {
+        "frameID": 146,
+        "playerID": 9,
+        "x": 651.97,
+        "y": 354.26,
+        "team": 0
+    },
+    {
+        "frameID": 147,
+        "playerID": 2,
+        "x": 771.58,
+        "y": 447.22,
+        "team": 1
+    },
+    {
+        "frameID": 147,
+        "playerID": 3,
+        "x": 659.36,
+        "y": 417.02,
+        "team": 1
+    },
+    {
+        "frameID": 147,
+        "playerID": 6,
+        "x": 751.48,
+        "y": 332.25,
+        "team": 0
+    },
+    {
+        "frameID": 147,
+        "playerID": 7,
+        "x": 837.24,
+        "y": 290.11,
+        "team": 0
+    },
+    {
+        "frameID": 147,
+        "playerID": 8,
+        "x": 788.78,
+        "y": 210.18,
+        "team": 0
+    },
+    {
+        "frameID": 147,
+        "playerID": 9,
+        "x": 650.18,
+        "y": 354.67,
+        "team": 0
+    },
+    {
+        "frameID": 148,
+        "playerID": 2,
+        "x": 767.48,
+        "y": 446.45,
+        "team": 1
+    },
+    {
+        "frameID": 148,
+        "playerID": 3,
+        "x": 655.91,
+        "y": 417.15,
+        "team": 1
+    },
+    {
+        "frameID": 148,
+        "playerID": 6,
+        "x": 751.39,
+        "y": 330.15,
+        "team": 0
+    },
+    {
+        "frameID": 148,
+        "playerID": 7,
+        "x": 836.78,
+        "y": 288.18,
+        "team": 0
+    },
+    {
+        "frameID": 148,
+        "playerID": 8,
+        "x": 791.19,
+        "y": 206.78,
+        "team": 0
+    },
+    {
+        "frameID": 148,
+        "playerID": 9,
+        "x": 648.32,
+        "y": 355.1,
+        "team": 0
+    },
+    {
+        "frameID": 149,
+        "playerID": 2,
+        "x": 763.33,
+        "y": 445.7,
+        "team": 1
+    },
+    {
+        "frameID": 149,
+        "playerID": 3,
+        "x": 652.38,
+        "y": 417.35,
+        "team": 1
+    },
+    {
+        "frameID": 149,
+        "playerID": 6,
+        "x": 751.35,
+        "y": 327.96,
+        "team": 0
+    },
+    {
+        "frameID": 149,
+        "playerID": 7,
+        "x": 836.3,
+        "y": 286.17,
+        "team": 0
+    },
+    {
+        "frameID": 149,
+        "playerID": 8,
+        "x": 793.7,
+        "y": 203.1,
+        "team": 0
+    },
+    {
+        "frameID": 149,
+        "playerID": 9,
+        "x": 646.37,
+        "y": 355.54,
+        "team": 0
+    },
+    {
+        "frameID": 150,
+        "playerID": 2,
+        "x": 759.12,
+        "y": 444.97,
+        "team": 1
+    },
+    {
+        "frameID": 150,
+        "playerID": 3,
+        "x": 648.79,
+        "y": 417.63,
+        "team": 1
+    },
+    {
+        "frameID": 150,
+        "playerID": 6,
+        "x": 751.35,
+        "y": 325.7,
+        "team": 0
+    },
+    {
+        "frameID": 150,
+        "playerID": 7,
+        "x": 835.79,
+        "y": 284.1,
+        "team": 0
+    },
+    {
+        "frameID": 150,
+        "playerID": 8,
+        "x": 796.3,
+        "y": 199.14,
+        "team": 0
+    },
+    {
+        "frameID": 150,
+        "playerID": 9,
+        "x": 644.34,
+        "y": 355.98,
+        "team": 0
+    },
+    {
+        "frameID": 151,
+        "playerID": 2,
+        "x": 754.87,
+        "y": 444.26,
+        "team": 1
+    },
+    {
+        "frameID": 151,
+        "playerID": 3,
+        "x": 645.13,
+        "y": 417.97,
+        "team": 1
+    },
+    {
+        "frameID": 151,
+        "playerID": 6,
+        "x": 751.4,
+        "y": 323.37,
+        "team": 0
+    },
+    {
+        "frameID": 151,
+        "playerID": 7,
+        "x": 835.23,
+        "y": 281.97,
+        "team": 0
+    },
+    {
+        "frameID": 151,
+        "playerID": 8,
+        "x": 798.97,
+        "y": 194.93,
+        "team": 0
+    },
+    {
+        "frameID": 151,
+        "playerID": 9,
+        "x": 642.24,
+        "y": 356.42,
+        "team": 0
+    },
+    {
+        "frameID": 152,
+        "playerID": 2,
+        "x": 750.57,
+        "y": 443.57,
+        "team": 1
+    },
+    {
+        "frameID": 152,
+        "playerID": 3,
+        "x": 641.4,
+        "y": 418.36,
+        "team": 1
+    },
+    {
+        "frameID": 152,
+        "playerID": 6,
+        "x": 751.49,
+        "y": 320.95,
+        "team": 0
+    },
+    {
+        "frameID": 152,
+        "playerID": 7,
+        "x": 834.64,
+        "y": 279.79,
+        "team": 0
+    },
+    {
+        "frameID": 152,
+        "playerID": 8,
+        "x": 801.71,
+        "y": 190.47,
+        "team": 0
+    },
+    {
+        "frameID": 152,
+        "playerID": 9,
+        "x": 640.05,
+        "y": 356.86,
+        "team": 0
+    },
+    {
+        "frameID": 153,
+        "playerID": 2,
+        "x": 746.21,
+        "y": 442.91,
+        "team": 1
+    },
+    {
+        "frameID": 153,
+        "playerID": 3,
+        "x": 637.6,
+        "y": 418.79,
+        "team": 1
+    },
+    {
+        "frameID": 153,
+        "playerID": 6,
+        "x": 751.62,
+        "y": 318.46,
+        "team": 0
+    },
+    {
+        "frameID": 153,
+        "playerID": 7,
+        "x": 833.99,
+        "y": 277.58,
+        "team": 0
+    },
+    {
+        "frameID": 153,
+        "playerID": 8,
+        "x": 804.49,
+        "y": 185.78,
+        "team": 0
+    },
+    {
+        "frameID": 153,
+        "playerID": 9,
+        "x": 637.78,
+        "y": 357.28,
+        "team": 0
+    },
+    {
+        "frameID": 154,
+        "playerID": 2,
+        "x": 741.8,
+        "y": 442.27,
+        "team": 1
+    },
+    {
+        "frameID": 154,
+        "playerID": 3,
+        "x": 633.73,
+        "y": 419.24,
+        "team": 1
+    },
+    {
+        "frameID": 154,
+        "playerID": 6,
+        "x": 751.76,
+        "y": 315.89,
+        "team": 0
+    },
+    {
+        "frameID": 154,
+        "playerID": 7,
+        "x": 833.29,
+        "y": 275.34,
+        "team": 0
+    },
+    {
+        "frameID": 154,
+        "playerID": 8,
+        "x": 807.31,
+        "y": 180.89,
+        "team": 0
+    },
+    {
+        "frameID": 154,
+        "playerID": 9,
+        "x": 635.43,
+        "y": 357.69,
+        "team": 0
+    },
+    {
+        "frameID": 155,
+        "playerID": 2,
+        "x": 737.34,
+        "y": 441.65,
+        "team": 1
+    },
+    {
+        "frameID": 155,
+        "playerID": 3,
+        "x": 629.79,
+        "y": 419.7,
+        "team": 1
+    },
+    {
+        "frameID": 155,
+        "playerID": 6,
+        "x": 751.93,
+        "y": 313.25,
+        "team": 0
+    },
+    {
+        "frameID": 155,
+        "playerID": 7,
+        "x": 832.52,
+        "y": 273.09,
+        "team": 0
+    },
+    {
+        "frameID": 155,
+        "playerID": 8,
+        "x": 810.14,
+        "y": 175.83,
+        "team": 0
+    },
+    {
+        "frameID": 155,
+        "playerID": 9,
+        "x": 633.0,
+        "y": 358.07,
+        "team": 0
+    },
+    {
+        "frameID": 156,
+        "playerID": 2,
+        "x": 732.83,
+        "y": 441.05,
+        "team": 1
+    },
+    {
+        "frameID": 156,
+        "playerID": 3,
+        "x": 625.77,
+        "y": 420.16,
+        "team": 1
+    },
+    {
+        "frameID": 156,
+        "playerID": 6,
+        "x": 752.1,
+        "y": 310.54,
+        "team": 0
+    },
+    {
+        "frameID": 156,
+        "playerID": 7,
+        "x": 831.67,
+        "y": 270.85,
+        "team": 0
+    },
+    {
+        "frameID": 156,
+        "playerID": 8,
+        "x": 812.97,
+        "y": 170.61,
+        "team": 0
+    },
+    {
+        "frameID": 156,
+        "playerID": 9,
+        "x": 630.49,
+        "y": 358.42,
+        "team": 0
+    },
+    {
+        "frameID": 157,
+        "playerID": 2,
+        "x": 728.26,
+        "y": 440.48,
+        "team": 1
+    },
+    {
+        "frameID": 157,
+        "playerID": 3,
+        "x": 621.69,
+        "y": 420.58,
+        "team": 1
+    },
+    {
+        "frameID": 157,
+        "playerID": 6,
+        "x": 752.26,
+        "y": 307.75,
+        "team": 0
+    },
+    {
+        "frameID": 157,
+        "playerID": 7,
+        "x": 830.74,
+        "y": 268.64,
+        "team": 0
+    },
+    {
+        "frameID": 157,
+        "playerID": 8,
+        "x": 815.76,
+        "y": 165.29,
+        "team": 0
+    },
+    {
+        "frameID": 157,
+        "playerID": 9,
+        "x": 627.9,
+        "y": 358.73,
+        "team": 0
+    },
+    {
+        "frameID": 158,
+        "playerID": 2,
+        "x": 723.62,
+        "y": 439.94,
+        "team": 1
+    },
+    {
+        "frameID": 158,
+        "playerID": 3,
+        "x": 617.53,
+        "y": 420.94,
+        "team": 1
+    },
+    {
+        "frameID": 158,
+        "playerID": 6,
+        "x": 752.4,
+        "y": 304.89,
+        "team": 0
+    },
+    {
+        "frameID": 158,
+        "playerID": 7,
+        "x": 829.71,
+        "y": 266.47,
+        "team": 0
+    },
+    {
+        "frameID": 158,
+        "playerID": 8,
+        "x": 818.48,
+        "y": 159.9,
+        "team": 0
+    },
+    {
+        "frameID": 158,
+        "playerID": 9,
+        "x": 625.22,
+        "y": 359.0,
+        "team": 0
+    },
+    {
+        "frameID": 159,
+        "playerID": 2,
+        "x": 718.93,
+        "y": 439.41,
+        "team": 1
+    },
+    {
+        "frameID": 159,
+        "playerID": 3,
+        "x": 613.29,
+        "y": 421.23,
+        "team": 1
+    },
+    {
+        "frameID": 159,
+        "playerID": 6,
+        "x": 752.5,
+        "y": 301.96,
+        "team": 0
+    },
+    {
+        "frameID": 159,
+        "playerID": 7,
+        "x": 828.57,
+        "y": 264.38,
+        "team": 0
+    },
+    {
+        "frameID": 159,
+        "playerID": 8,
+        "x": 821.11,
+        "y": 154.48,
+        "team": 0
+    },
+    {
+        "frameID": 159,
+        "playerID": 9,
+        "x": 622.46,
+        "y": 359.21,
+        "team": 0
+    },
+    {
+        "frameID": 160,
+        "playerID": 2,
+        "x": 714.17,
+        "y": 438.91,
+        "team": 1
+    },
+    {
+        "frameID": 160,
+        "playerID": 3,
+        "x": 608.99,
+        "y": 421.41,
+        "team": 1
+    },
+    {
+        "frameID": 160,
+        "playerID": 6,
+        "x": 752.55,
+        "y": 298.98,
+        "team": 0
+    },
+    {
+        "frameID": 160,
+        "playerID": 7,
+        "x": 827.3,
+        "y": 262.37,
+        "team": 0
+    },
+    {
+        "frameID": 160,
+        "playerID": 8,
+        "x": 823.61,
+        "y": 149.08,
+        "team": 0
+    },
+    {
+        "frameID": 160,
+        "playerID": 9,
+        "x": 619.62,
+        "y": 359.36,
+        "team": 0
+    },
+    {
+        "frameID": 161,
+        "playerID": 2,
+        "x": 709.35,
+        "y": 438.43,
+        "team": 1
+    },
+    {
+        "frameID": 161,
+        "playerID": 3,
+        "x": 604.6,
+        "y": 421.45,
+        "team": 1
+    },
+    {
+        "frameID": 161,
+        "playerID": 6,
+        "x": 752.52,
+        "y": 295.93,
+        "team": 0
+    },
+    {
+        "frameID": 161,
+        "playerID": 7,
+        "x": 825.9,
+        "y": 260.49,
+        "team": 0
+    },
+    {
+        "frameID": 161,
+        "playerID": 8,
+        "x": 825.94,
+        "y": 143.76,
+        "team": 0
+    },
+    {
+        "frameID": 161,
+        "playerID": 9,
+        "x": 616.69,
+        "y": 359.45,
+        "team": 0
+    },
+    {
+        "frameID": 162,
+        "playerID": 2,
+        "x": 704.45,
+        "y": 437.96,
+        "team": 1
+    },
+    {
+        "frameID": 162,
+        "playerID": 3,
+        "x": 600.13,
+        "y": 421.31,
+        "team": 1
+    },
+    {
+        "frameID": 162,
+        "playerID": 6,
+        "x": 752.39,
+        "y": 292.82,
+        "team": 0
+    },
+    {
+        "frameID": 162,
+        "playerID": 7,
+        "x": 824.34,
+        "y": 258.77,
+        "team": 0
+    },
+    {
+        "frameID": 162,
+        "playerID": 8,
+        "x": 828.06,
+        "y": 138.58,
+        "team": 0
+    },
+    {
+        "frameID": 162,
+        "playerID": 9,
+        "x": 613.67,
+        "y": 359.46,
+        "team": 0
+    },
+    {
+        "frameID": 163,
+        "playerID": 2,
+        "x": 699.47,
+        "y": 437.51,
+        "team": 1
+    },
+    {
+        "frameID": 163,
+        "playerID": 3,
+        "x": 595.58,
+        "y": 420.97,
+        "team": 1
+    },
+    {
+        "frameID": 163,
+        "playerID": 6,
+        "x": 752.14,
+        "y": 289.67,
+        "team": 0
+    },
+    {
+        "frameID": 163,
+        "playerID": 7,
+        "x": 822.61,
+        "y": 257.23,
+        "team": 0
+    },
+    {
+        "frameID": 163,
+        "playerID": 8,
+        "x": 829.91,
+        "y": 133.6,
+        "team": 0
+    },
+    {
+        "frameID": 163,
+        "playerID": 9,
+        "x": 610.56,
+        "y": 359.38,
+        "team": 0
+    },
+    {
+        "frameID": 164,
+        "playerID": 2,
+        "x": 694.41,
+        "y": 437.07,
+        "team": 1
+    },
+    {
+        "frameID": 164,
+        "playerID": 3,
+        "x": 590.95,
+        "y": 420.37,
+        "team": 1
+    },
+    {
+        "frameID": 164,
+        "playerID": 6,
+        "x": 751.73,
+        "y": 286.47,
+        "team": 0
+    },
+    {
+        "frameID": 164,
+        "playerID": 7,
+        "x": 820.69,
+        "y": 255.91,
+        "team": 0
+    },
+    {
+        "frameID": 164,
+        "playerID": 8,
+        "x": 831.45,
+        "y": 128.91,
+        "team": 0
+    },
+    {
+        "frameID": 164,
+        "playerID": 9,
+        "x": 607.37,
+        "y": 359.21,
+        "team": 0
+    },
+    {
+        "frameID": 165,
+        "playerID": 2,
+        "x": 689.26,
+        "y": 436.64,
+        "team": 1
+    },
+    {
+        "frameID": 165,
+        "playerID": 3,
+        "x": 586.23,
+        "y": 419.48,
+        "team": 1
+    },
+    {
+        "frameID": 165,
+        "playerID": 6,
+        "x": 751.14,
+        "y": 283.24,
+        "team": 0
+    },
+    {
+        "frameID": 165,
+        "playerID": 7,
+        "x": 818.56,
+        "y": 254.87,
+        "team": 0
+    },
+    {
+        "frameID": 165,
+        "playerID": 8,
+        "x": 832.62,
+        "y": 124.58,
+        "team": 0
+    },
+    {
+        "frameID": 165,
+        "playerID": 9,
+        "x": 604.08,
+        "y": 358.94,
+        "team": 0
+    },
+    {
+        "frameID": 166,
+        "playerID": 2,
+        "x": 684.02,
+        "y": 436.22,
+        "team": 1
+    },
+    {
+        "frameID": 166,
+        "playerID": 3,
+        "x": 581.43,
+        "y": 418.24,
+        "team": 1
+    },
+    {
+        "frameID": 166,
+        "playerID": 6,
+        "x": 750.34,
+        "y": 279.97,
+        "team": 0
+    },
+    {
+        "frameID": 166,
+        "playerID": 7,
+        "x": 816.2,
+        "y": 254.13,
+        "team": 0
+    },
+    {
+        "frameID": 166,
+        "playerID": 8,
+        "x": 833.36,
+        "y": 120.69,
+        "team": 0
+    },
+    {
+        "frameID": 166,
+        "playerID": 9,
+        "x": 600.69,
+        "y": 358.56,
+        "team": 0
+    },
+    {
+        "frameID": 167,
+        "playerID": 2,
+        "x": 678.68,
+        "y": 435.8,
+        "team": 1
+    },
+    {
+        "frameID": 167,
+        "playerID": 3,
+        "x": 576.53,
+        "y": 416.6,
+        "team": 1
+    },
+    {
+        "frameID": 167,
+        "playerID": 6,
+        "x": 749.27,
+        "y": 276.68,
+        "team": 0
+    },
+    {
+        "frameID": 167,
+        "playerID": 7,
+        "x": 813.58,
+        "y": 253.74,
+        "team": 0
+    },
+    {
+        "frameID": 167,
+        "playerID": 8,
+        "x": 833.59,
+        "y": 117.34,
+        "team": 0
+    },
+    {
+        "frameID": 167,
+        "playerID": 9,
+        "x": 597.2,
+        "y": 358.05,
+        "team": 0
+    },
+    {
+        "frameID": 168,
+        "playerID": 2,
+        "x": 673.23,
+        "y": 435.38,
+        "team": 1
+    },
+    {
+        "frameID": 168,
+        "playerID": 3,
+        "x": 571.54,
+        "y": 414.51,
+        "team": 1
+    },
+    {
+        "frameID": 168,
+        "playerID": 6,
+        "x": 747.91,
+        "y": 273.37,
+        "team": 0
+    },
+    {
+        "frameID": 168,
+        "playerID": 7,
+        "x": 810.68,
+        "y": 253.76,
+        "team": 0
+    },
+    {
+        "frameID": 168,
+        "playerID": 8,
+        "x": 833.26,
+        "y": 114.64,
+        "team": 0
+    },
+    {
+        "frameID": 168,
+        "playerID": 9,
+        "x": 593.62,
+        "y": 357.42,
+        "team": 0
+    },
+    {
+        "frameID": 169,
+        "playerID": 2,
+        "x": 667.65,
+        "y": 434.95,
+        "team": 1
+    },
+    {
+        "frameID": 169,
+        "playerID": 3,
+        "x": 566.44,
+        "y": 411.91,
+        "team": 1
+    },
+    {
+        "frameID": 169,
+        "playerID": 6,
+        "x": 746.21,
+        "y": 270.06,
+        "team": 0
+    },
+    {
+        "frameID": 169,
+        "playerID": 7,
+        "x": 807.48,
+        "y": 254.24,
+        "team": 0
+    },
+    {
+        "frameID": 169,
+        "playerID": 8,
+        "x": 832.27,
+        "y": 112.7,
+        "team": 0
+    },
+    {
+        "frameID": 169,
+        "playerID": 9,
+        "x": 589.92,
+        "y": 356.65,
+        "team": 0
+    },
+    {
+        "frameID": 170,
+        "playerID": 2,
+        "x": 661.96,
+        "y": 434.5,
+        "team": 1
+    },
+    {
+        "frameID": 170,
+        "playerID": 3,
+        "x": 561.25,
+        "y": 408.73,
+        "team": 1
+    },
+    {
+        "frameID": 170,
+        "playerID": 6,
+        "x": 744.12,
+        "y": 266.76,
+        "team": 0
+    },
+    {
+        "frameID": 170,
+        "playerID": 7,
+        "x": 803.94,
+        "y": 255.24,
+        "team": 0
+    },
+    {
+        "frameID": 170,
+        "playerID": 8,
+        "x": 830.54,
+        "y": 111.63,
+        "team": 0
+    },
+    {
+        "frameID": 170,
+        "playerID": 9,
+        "x": 586.12,
+        "y": 355.73,
+        "team": 0
+    },
+    {
+        "frameID": 171,
+        "playerID": 2,
+        "x": 656.12,
+        "y": 434.03,
+        "team": 1
+    },
+    {
+        "frameID": 171,
+        "playerID": 3,
+        "x": 555.95,
+        "y": 404.9,
+        "team": 1
+    },
+    {
+        "frameID": 171,
+        "playerID": 6,
+        "x": 741.6,
+        "y": 263.47,
+        "team": 0
+    },
+    {
+        "frameID": 171,
+        "playerID": 7,
+        "x": 800.03,
+        "y": 256.82,
+        "team": 0
+    },
+    {
+        "frameID": 171,
+        "playerID": 8,
+        "x": 827.99,
+        "y": 111.56,
+        "team": 0
+    },
+    {
+        "frameID": 171,
+        "playerID": 9,
+        "x": 582.2,
+        "y": 354.66,
+        "team": 0
+    },
+    {
+        "frameID": 172,
+        "playerID": 2,
+        "x": 650.14,
+        "y": 433.53,
+        "team": 1
+    },
+    {
+        "frameID": 172,
+        "playerID": 3,
+        "x": 550.53,
+        "y": 400.35,
+        "team": 1
+    },
+    {
+        "frameID": 172,
+        "playerID": 6,
+        "x": 738.58,
+        "y": 260.21,
+        "team": 0
+    },
+    {
+        "frameID": 172,
+        "playerID": 7,
+        "x": 795.73,
+        "y": 259.05,
+        "team": 0
+    },
+    {
+        "frameID": 172,
+        "playerID": 8,
+        "x": 824.51,
+        "y": 112.64,
+        "team": 0
+    },
+    {
+        "frameID": 172,
+        "playerID": 9,
+        "x": 578.16,
+        "y": 353.42,
+        "team": 0
+    },
+    {
+        "frameID": 173,
+        "playerID": 2,
+        "x": 644.0,
+        "y": 433.0,
+        "team": 1
+    },
+    {
+        "frameID": 173,
+        "playerID": 3,
+        "x": 545.0,
+        "y": 395.0,
+        "team": 1
+    },
+    {
+        "frameID": 173,
+        "playerID": 6,
+        "x": 735.0,
+        "y": 257.0,
+        "team": 0
+    },
+    {
+        "frameID": 173,
+        "playerID": 7,
+        "x": 791.0,
+        "y": 262.0,
+        "team": 0
+    },
+    {
+        "frameID": 173,
+        "playerID": 8,
+        "x": 820.0,
+        "y": 115.0,
+        "team": 0
+    },
+    {
+        "frameID": 173,
+        "playerID": 9,
+        "x": 574.0,
+        "y": 352.0,
+        "team": 0
+    }
+]
+}
