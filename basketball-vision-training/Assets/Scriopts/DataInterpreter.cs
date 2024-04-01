@@ -118,7 +118,7 @@ public class DataInterpreter : MonoBehaviour
                 {
                     players[j].framePositions.Add(s);
                     if (s.handleTF) { ballHandlerIndex[s.frameID] = j;}
-                    else if(ballHandlerIndex[s.frameID]==j){ ballHandlerIndex[s.frameID] = -1; }
+                    else if(ballHandlerIndex[s.frameID]==j){ ballHandlerIndex[s.frameID] = -1;  }
                     break;
                 }
             }
