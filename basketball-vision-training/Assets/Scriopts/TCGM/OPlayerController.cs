@@ -20,6 +20,14 @@ public class OPlayerController : MonoBehaviour
     public bool lastFrameStatus = false;
     public GameObject ballGameObject;
     public GameObject playerHighlight;
+    public LineRenderer lr;
+    private int pastIndex;
+    private int pastFrameIndex;
+
+
+    private Vector3[] _trajectoryPositions;
+    private List<Vector3> currentTrajectoryPositions;
+    private const int trajectoryLineLength = 48;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,11 +37,15 @@ public class OPlayerController : MonoBehaviour
         Animator = gameObject.GetComponent<Animator>();
         ballGameObject.SetActive(isHoldingBall);
         playerHighlight.SetActive(isHoldingBall);
+        pastIndex = -1;
+        pastFrameIndex = -1;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (DataInterpreter.instance.usedDataIndex != pastIndex) { SetLineRenderer(); pastIndex = DataInterpreter.instance.usedDataIndex; }
+        if (DataInterpreter.instance.frameCount != pastFrameIndex) { FrameUpdate();pastFrameIndex = DataInterpreter.instance.frameCount; }
         SetAnimationSpeed();
         for(int i = 0; i <9; i++)
         {
@@ -100,6 +112,45 @@ public class OPlayerController : MonoBehaviour
 
         gameObject.transform.LookAt(new Vector3(pos[0], 0, pos[1]));
         gameObject.transform.position = new Vector3(pos[0], 0, pos[1]);
+    }
+    public void SetLineRenderer()
+    {
+        if (lr == null) return;
+        PlayerTransform selfPt=null;
+        foreach(PlayerTransform pt in DataInterpreter.instance.players)
+        {
+            if (pt.id == playerID)
+            {
+                selfPt = pt;
+                break;
+            }
+        }
+        Vector3[] trajectoryPositions = new Vector3[selfPt.framePositions.Count];
+        Debug.Log("TP: Count: " + selfPt.framePositions.Count+ " "+trajectoryPositions.Length);
+        int index = 0;
+        foreach(FrameData fd in selfPt.framePositions)
+        {
+            Debug.Log("TP: " + index + " -> " + DataInterpreter.GetPositionFromFrameData(fd));
+            trajectoryPositions[index] = DataInterpreter.GetPositionFromFrameData(fd) + Vector3.up * 0.05f ;
+            index++;
+        }
+        PrintVector3Array(trajectoryPositions);
+        lr.positionCount = selfPt.framePositions.Count;
+        lr.SetPositions(trajectoryPositions);
+    }
+    void PrintVector3Array(Vector3[] vectors)
+    {
+        System.Text.StringBuilder sb = new System.Text.StringBuilder();
+        foreach (Vector3 v in vectors)
+        {
+            sb.Append(v.ToString()).Append(", ");
+        }
+        if (sb.Length > 2) sb.Length -= 2; // Remove the last comma and space
+        Debug.Log("TP: "+sb.ToString());
+    }
+    public void FrameUpdate()
+    {
+
     }
     /*
     private void Control_Animation(Vector2 prepos, Vector2 pos)

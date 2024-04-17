@@ -38,7 +38,7 @@ public class BallPassHelper : MonoBehaviour
         else
         {
             if(!(DataInterpreter.instance.ballHandlerIndex[DataInterpreter.instance.frameCount] == -1 )) { isActive = false; return; }
-            passingBall.transform.position = Vector3.Slerp(startLocation, endLocation, (DataInterpreter.instance.frameCount - startFrame) / ((float)endFrame - startFrame));
+            passingBall.transform.position = Vector3.Lerp(startLocation, endLocation, (DataInterpreter.instance.frameCount - startFrame) / ((float)endFrame - startFrame));
         }
     }
     public PlayerTransform FindNextPlayerWithBall(out int endFrame)

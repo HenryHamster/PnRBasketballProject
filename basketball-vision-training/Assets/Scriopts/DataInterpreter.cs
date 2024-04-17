@@ -48,26 +48,26 @@ public class DataInterpreter : MonoBehaviour
     //public FrameData[] playerFrameData;
     //public FrameData[] jsonTestFrameData;
     public int frameCount = 0;
-    private static int _FPS=24;
-    private float _startTime=0;
-    [SerializeField]public PlayerTransform[] players;
+    private static int _FPS = 24;
+    private float _startTime = 0;
+    [SerializeField] public PlayerTransform[] players;
     #region
     public TextAsset[] dataTextAssets;
 
-    private string[] tempData= new string[0];
+    private string[] tempData = new string[0];
     #endregion
     public int usedDataIndex;
     private int currentUsedDataIndex;
-    public int[] ballHandlerIndex=new int[1000];
+    public int[] ballHandlerIndex = new int[1000];
     private void Awake()
     {
         instance = this;
         tempData = new string[dataTextAssets.Length];
         for (int i = 0; i < dataTextAssets.Length; i++) { tempData[i] = dataTextAssets[i].text; }
-        for(int i = 0; i < ballHandlerIndex.Length; i++) { ballHandlerIndex[i] = -1; }
-        for(int i = 0; i < players.Length; i++)
+        for (int i = 0; i < ballHandlerIndex.Length; i++) { ballHandlerIndex[i] = -1; }
+        for (int i = 0; i < players.Length; i++)
         {
-            if(players[i].transform.TryGetComponent<OPlayerController>(out OPlayerController opc))
+            if (players[i].transform.TryGetComponent<OPlayerController>(out OPlayerController opc))
             {
                 players[i].opc = opc;
             }
@@ -77,7 +77,7 @@ public class DataInterpreter : MonoBehaviour
                 players[i].tpc = tpc;
             }
         }
-       // ArrayDataWrapper testWrapper = new ArrayDataWrapper();
+        // ArrayDataWrapper testWrapper = new ArrayDataWrapper();
         //testWrapper.array = jsonTestFrameData;
         //testWrapper.array=new string[] { JsonUtility.ToJson(jsonTestFrameData[0],true), JsonUtility.ToJson(jsonTestFrameData[0], true) };
         //Debug.Log(JsonUtility.ToJson(testWrapper,true));
@@ -88,7 +88,7 @@ public class DataInterpreter : MonoBehaviour
     void Start()
     {
         _startTime = Time.time;
-        TextAsset data=Resources.Load<TextAsset>(pathName);
+        TextAsset data = Resources.Load<TextAsset>(pathName);
         Debug.Log("Found data: " + (data != null));
         //string contents = data.ToString();
         UpdatePlayerPositionData();
@@ -117,8 +117,8 @@ public class DataInterpreter : MonoBehaviour
                 if (s.playerID == players[j].id)
                 {
                     players[j].framePositions.Add(s);
-                    if (s.handleTF) { ballHandlerIndex[s.frameID] = j;}
-                    else if(ballHandlerIndex[s.frameID]==j){ ballHandlerIndex[s.frameID] = -1;  }
+                    if (s.handleTF) { ballHandlerIndex[s.frameID] = j; }
+                    else if (ballHandlerIndex[s.frameID] == j) { ballHandlerIndex[s.frameID] = -1; }
                     break;
                 }
             }
@@ -129,17 +129,19 @@ public class DataInterpreter : MonoBehaviour
     }
     // Update is called once per frame
     public void UpdatePosition()
-        
+
     {
         Vector3 offset = new Vector3(5, 0, 15);
         bool hasBallHandler = false;
-        foreach(PlayerTransform pt in players)
+        foreach (PlayerTransform pt in players)
         {
             if (pt.framePositions.Count <= pt.currentFrameIndex) { continue; }
-            Vector3 currentFramePlayer = new Vector3(pt.framePositions[pt.currentFrameIndex].y,0, pt.framePositions[pt.currentFrameIndex].x);
-            Vector3 nextFramePlayer=currentFramePlayer;
-            if (pt.currentFrameIndex < pt.framePositions.Count - 1) {
-                nextFramePlayer = new Vector3(pt.framePositions[pt.currentFrameIndex + 1].y, 0,pt.framePositions[pt.currentFrameIndex + 1].x); 
+            if (pt.currentFrameIndex+1 >= pt.framePositions.Count) { continue; }
+            Vector3 currentFramePlayer = new Vector3(pt.framePositions[pt.currentFrameIndex].y, 0, pt.framePositions[pt.currentFrameIndex].x);
+            Vector3 nextFramePlayer = currentFramePlayer;
+            if (pt.currentFrameIndex < pt.framePositions.Count - 1)
+            {
+                nextFramePlayer = new Vector3(pt.framePositions[pt.currentFrameIndex + 1].y, 0, pt.framePositions[pt.currentFrameIndex + 1].x);
             }
 
             if (pt.framePositions[pt.currentFrameIndex + 1].frameID <= frameCount)
@@ -147,9 +149,10 @@ public class DataInterpreter : MonoBehaviour
                 pt.currentFrameIndex++;
                 pt.transform.position = nextFramePlayer / 50 * 1.5f - offset;
                 if (pt.framePositions[pt.currentFrameIndex].handleTF) { Debug.Log("Found ball handler at frame " + pt.currentFrameIndex + " for " + pt.id); }
-                if (pt.opc != null) { 
+                if (pt.opc != null)
+                {
                     pt.opc.isHoldingBall = pt.framePositions[pt.currentFrameIndex].handleTF;
-                    if (pt.framePositions[pt.currentFrameIndex].handleTF) hasBallHandler = true; 
+                    if (pt.framePositions[pt.currentFrameIndex].handleTF) hasBallHandler = true;
                 }
                 if (pt.tpc != null)
                 {
@@ -157,12 +160,13 @@ public class DataInterpreter : MonoBehaviour
                     if (pt.framePositions[pt.currentFrameIndex].handleTF) hasBallHandler = true;
                 }
             }
-            else if(pt.currentFrameIndex==pt.framePositions.Count-1)
+            else if (pt.currentFrameIndex == pt.framePositions.Count - 1)
             {
-                pt.transform.position = currentFramePlayer/50 * 1.5f - offset;
+                pt.transform.position = currentFramePlayer / 50 * 1.5f - offset;
                 if (pt.framePositions[pt.currentFrameIndex].handleTF) { Debug.Log("Found ball handler at frame " + pt.currentFrameIndex + " for " + pt.id); }
 
-                if (pt.opc != null) {
+                if (pt.opc != null)
+                {
                     pt.opc.isHoldingBall = pt.framePositions[pt.currentFrameIndex].handleTF;
                     if (pt.framePositions[pt.currentFrameIndex].handleTF) hasBallHandler = true;
                 }
@@ -177,9 +181,10 @@ public class DataInterpreter : MonoBehaviour
             {
                 if (pt.framePositions[pt.currentFrameIndex].handleTF) { Debug.Log("Found ball handler at frame " + pt.currentFrameIndex + " for " + pt.id); }
 
-                pt.transform.position=Vector3.MoveTowards(currentFramePlayer,nextFramePlayer,
-                    (frameCount-pt.currentFrameIndex)/(pt.framePositions[pt.currentFrameIndex+1].frameID-pt.currentFrameIndex))/50 * 1.5f - offset;
-                if (pt.opc != null){
+                pt.transform.position = Vector3.MoveTowards(currentFramePlayer, nextFramePlayer,
+                    (frameCount - pt.currentFrameIndex) / (pt.framePositions[pt.currentFrameIndex + 1].frameID - pt.currentFrameIndex)) / 50 * 1.5f - offset;
+                if (pt.opc != null)
+                {
                     pt.opc.isHoldingBall = pt.framePositions[pt.currentFrameIndex].handleTF;
                     if (pt.framePositions[pt.currentFrameIndex].handleTF) hasBallHandler = true;
                 }
@@ -202,7 +207,7 @@ public class DataInterpreter : MonoBehaviour
     {
         float minDist = Mathf.Infinity;
         PlayerTransform closest = null;
-        foreach(PlayerTransform pt in players)
+        foreach (PlayerTransform pt in players)
         {
             if (pt.isOffensive) continue;
             float dist = Vector3.Distance(pt.transform.position, pos.position);
@@ -232,5 +237,12 @@ public class DataInterpreter : MonoBehaviour
         }
         retDist = minDist;
         return closest;
+    }
+    public static Vector3 GetPositionFromFrameData(FrameData fd)
+    {
+        Vector3 offset = new Vector3(5, 0, 15);
+        Vector3 result = new Vector3(fd.y, 0, fd.x) / 50 * 1.5f - offset;
+        return result;
+
     }
 }

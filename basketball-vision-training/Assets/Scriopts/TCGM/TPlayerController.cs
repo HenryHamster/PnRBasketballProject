@@ -72,7 +72,7 @@ public class TPlayerController : MonoBehaviour
 
         Animator.SetFloat("_move", 2);
         //Animator.SetFloat("_move", (sqrDist > minSqrMagnitude * Time.deltaTime) ? 2 : 0);
-        Animator.speed = Mathf.Clamp(1000*sqrDist / Time.deltaTime, 0.5f, 1);
+        Animator.speed = sqrDist==0?0:Mathf.Clamp(1000*sqrDist / Time.deltaTime, 0.5f, 1);
         //Animator.speed = 1;
     }
     public void Init_Player()

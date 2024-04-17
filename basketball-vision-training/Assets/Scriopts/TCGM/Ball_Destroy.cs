@@ -15,6 +15,7 @@ public class Ball_Destroy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        return;
         // float pos = T1.transform.position.x;
         // Debug.Log(pos);
         // Debug.Log(T1.transform.position.x);
