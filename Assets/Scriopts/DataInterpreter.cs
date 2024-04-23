@@ -49,6 +49,9 @@ public class DataInterpreter : MonoBehaviour
     //public FrameData[] jsonTestFrameData;
     public int frameCount = 0;
     private static int _FPS = 24;
+    public float FPSMultiplier=1;
+    public int startFrameCount = 0;
+    public float startFPSTime=0;
     private float _startTime = 0;
     [SerializeField] public PlayerTransform[] players;
     #region
@@ -77,6 +80,8 @@ public class DataInterpreter : MonoBehaviour
                 players[i].tpc = tpc;
             }
         }
+        startFPSTime = Time.time;
+
         // ArrayDataWrapper testWrapper = new ArrayDataWrapper();
         //testWrapper.array = jsonTestFrameData;
         //testWrapper.array=new string[] { JsonUtility.ToJson(jsonTestFrameData[0],true), JsonUtility.ToJson(jsonTestFrameData[0], true) };
@@ -201,7 +206,13 @@ public class DataInterpreter : MonoBehaviour
     }
     private void LateUpdate()
     {
-        frameCount = Mathf.FloorToInt((Time.time - _startTime) * _FPS);
+        frameCount = Mathf.FloorToInt((Time.time - startFPSTime) * _FPS*FPSMultiplier)+startFrameCount;
+    }
+    public void UpdateFPSMultiplier(float newMulti)
+    {
+        startFPSTime = Time.time;
+        startFrameCount = frameCount;
+        FPSMultiplier = newMulti;
     }
     public PlayerTransform GetClosestDefender(Transform pos, out float retDist)
     {
