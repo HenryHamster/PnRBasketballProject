@@ -136,7 +136,7 @@ public class DataInterpreter : MonoBehaviour
     public void UpdatePosition()
 
     {
-        Vector3 offset = new Vector3(5, 0, 15);
+        Vector3 offset = new Vector3(7, 0, 13);
         bool hasBallHandler = false;
         foreach (PlayerTransform pt in players)
         {
@@ -251,7 +251,7 @@ public class DataInterpreter : MonoBehaviour
     }
     public static Vector3 GetPositionFromFrameData(FrameData fd)
     {
-        Vector3 offset = new Vector3(5, 0, 15);
+        Vector3 offset = new Vector3(7, 0, 13);
         Vector3 result = new Vector3(fd.y, 0, fd.x) / 50 * 1.5f - offset;
         return result;
 

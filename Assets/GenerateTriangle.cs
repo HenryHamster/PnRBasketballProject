@@ -7,6 +7,8 @@ public class GenerateTriangle : MonoBehaviour
     public GameObject[] objectA;
     public GameObject[] objectB;
     public GameObject[] objectC;
+    public int[] startFrame;
+    public int[] endFrame;
     public GameObject GoodSpaceText;
     // public Material material;
     Mesh mesh;
@@ -20,10 +22,11 @@ public class GenerateTriangle : MonoBehaviour
     private Vector3 Def2_EndPostion = new Vector3(-4.20f, 0f, 12.36f);
 
     // private MeshFilter meshFilter;
-    // private MeshRenderer meshRenderer;
+     private MeshRenderer meshRenderer;
 
     void Awake()
     {
+        meshRenderer = GetComponent<MeshRenderer>();
         mesh = GetComponent<MeshFilter>().mesh;
     }
     private void Start()
@@ -63,7 +66,7 @@ public class GenerateTriangle : MonoBehaviour
 
         Array.Sort(vertices, CustomSort);
         // vertices = new Vector3[] { objectA.transform.position, new Vector3(0, 0, 1), new Vector3(0, 0, 2) };
-        triangles = new int[] { 0, 1, 2 };
+        triangles = new int[] { 2, 1, 0 };
 
     }
     // private void FixedUpdate()
@@ -92,12 +95,24 @@ public class GenerateTriangle : MonoBehaviour
         // 檢查 O6 是否進入特定範圍
         bool Def1InArea = objectC[DataInterpreter.instance.usedDataIndex].transform.position.z >= Def1_StartPosition.z && objectC[DataInterpreter.instance.usedDataIndex].transform.position.z <= Def1_EndPosition.z;
         bool Def2InArea = objectB[DataInterpreter.instance.usedDataIndex].transform.position.x <= Def2_StartPosition.x && objectB[DataInterpreter.instance.usedDataIndex].transform.position.x >= Def2_EndPostion.x;
-        if (/**/true ||/**/HanlderInArea && Def1InArea && Def2InArea)
+        if (/**/(DataInterpreter.instance.frameCount<endFrame[DataInterpreter.instance.usedDataIndex] && DataInterpreter.instance.frameCount>=startFrame[DataInterpreter.instance.usedDataIndex]))///**/HanlderInArea && Def1InArea && Def2InArea)
         {
             MakeMeshData();
             CreateMesh();
             mesh.RecalculateNormals();
-            GoodSpaceText.SetActive(true);
+            mesh.RecalculateTangents();
+            Debug.Log("MeshMag: "+(mesh.bounds.center - mesh.vertices[0]).magnitude);
+
+            Debug.Log("MeshMag: " + (mesh.bounds.center - mesh.vertices[1]).magnitude);
+
+            Debug.Log("MeshMag: " + (mesh.bounds.center - mesh.vertices[2]).magnitude);
+            Color[] colors=new Color[vertices.Length];
+            for (int i = 0; i < vertices.Length; i++)
+                colors[i]=(Color.Lerp(Color.red, Color.green, (mesh.bounds.center-mesh.vertices[i]).magnitude/3f));
+            meshRenderer.material.color=Color.Lerp(Color.Lerp(colors[0], colors[1], 0.5f), colors[2], 2f / 3f);
+            mesh.SetColors(colors);
+            //if (mesh.bounds.size.magnitude > 10) { mesh.Clear(); }
+            /*else*/ GoodSpaceText.SetActive(true);
         }
         else
         {

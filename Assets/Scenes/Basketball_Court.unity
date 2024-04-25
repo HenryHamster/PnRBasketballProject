@@ -1885,7 +1885,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &81462656
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1952,8 +1952,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.7
-  m_fontSizeBase: 0.7
+  m_fontSize: 0.5
+  m_fontSizeBase: 0.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -32079,7 +32079,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1038718030}
   m_LocalRotation: {x: 0, y: 0.9890159, z: -0.14780942, w: 0}
-  m_LocalPosition: {x: -0.48, y: 3, z: 1.604}
+  m_LocalPosition: {x: -0.48, y: 5, z: 1.604}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1798037290}
@@ -64502,7 +64502,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2085878411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64518,7 +64518,7 @@ MonoBehaviour:
   objectA:
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 715578671}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -64526,7 +64526,7 @@ MonoBehaviour:
   objectB:
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 544033774}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -64534,11 +64534,13 @@ MonoBehaviour:
   objectC:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 361397045}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
+  startFrame: 00000000000000004600000000000000000000000000000000000000
+  endFrame: 00000000000000008c00000000000000000000000000000000000000
   GoodSpaceText: {fileID: 81462655}
 --- !u!4 &2085878412
 Transform:

@@ -10,7 +10,7 @@ public class BallPassHelper : MonoBehaviour
     private Vector3 startLocation;
     private Vector3 endLocation;
     public GameObject passingBall;
-    Vector3 offset = new Vector3(5, 0, 15);
+    Vector3 offset = new Vector3(7, 0, 13);
     // Update is called once per frame
     void Update()
     {
