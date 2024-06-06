@@ -39,7 +39,7 @@ public class TPlayerController : MonoBehaviour
         if (dist < 100&&dist>distFromBall*1.5)
         {
             Debug.Log("dist: " + dist);
-            defenderFillCircle.fillAmount = target.opc.isHoldingBall?(2-dist) / 4:0;
+            defenderFillCircle.fillAmount = (2-dist) / 4;
             transform.forward = (target.transform.position - transform.position).normalized;
             Animator.SetBool("_defending", true);
         }
