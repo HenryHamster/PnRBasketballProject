@@ -15,21 +15,35 @@ public class TPlayerController : MonoBehaviour
     private List<float> PlayersPos = new List<float>();
     private Vector3 prevPosition;
     public Image defenderFillCircle;
+    public LineRenderer lr;
+
+    private int pastIndex;
+    private int pastFrameIndex;
 
     public bool isHoldingBall = false;
-    
+
+    public Color overrideColor = new Color(0, 0, 0, 1);
+    private static Color tLineColor = new Color(128f/255, 1, 128f / 255,0.3f);
+
+
+    public SkinnedMeshRenderer smr;
     // Start is called before the first frame update
     void Start()
     {
         TrajectoryManager = GameObject.FindObjectOfType<TrajectoryManager>();
         playerName = gameObject.name;
-        playerID = int.Parse(playerName.Replace("T", ""));
+        playerID = int.Parse(playerName.Replace("T", ""))+5; //TODO very bad temp system
         Animator = gameObject.GetComponent<Animator>();
+
+        pastIndex = -1;
+        pastFrameIndex = -1;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (DataInterpreter.instance.usedDataIndex != pastIndex) { SetLineRenderer(); pastIndex = DataInterpreter.instance.usedDataIndex; }
+
         SetAnimationSpeed();
         PlayerTransform target=DataInterpreter.instance.GetClosestOffense(transform, out float dist);
         Debug.Log("Closest target: " + target.id + " for " + name);
@@ -68,6 +82,7 @@ public class TPlayerController : MonoBehaviour
     private void SetAnimationSpeed()
     {
         float sqrDist = (lastFramePos - transform.position).magnitude;
+        lastFramePos = transform.position;
         Debug.Log("distSqr: " + sqrDist);
 
         Animator.SetFloat("_move", 2);
@@ -93,6 +108,32 @@ public class TPlayerController : MonoBehaviour
         }
 
         gameObject.transform.position = new Vector3(pos[0], 0, pos[1]);
+    }
+    public void SetLineRenderer()
+    {
+        if (lr == null) return;
+        lr.material.color = overrideColor.Equals(Color.black) ? tLineColor : overrideColor;
+        PlayerTransform selfPt = null;
+        foreach (PlayerTransform pt in DataInterpreter.instance.players)
+        {
+            if (pt.id == playerID)
+            {
+                selfPt = pt;
+                break;
+            }
+        }
+        Vector3[] trajectoryPositions = new Vector3[selfPt.framePositions.Count];
+        Debug.Log("TP: Count: " + selfPt.framePositions.Count + " " + trajectoryPositions.Length);
+        int index = 0;
+        foreach (FrameData fd in selfPt.framePositions)
+        {
+            Debug.Log("TP: " + index + " -> " + DataInterpreter.GetPositionFromFrameData(fd));
+            trajectoryPositions[index] = DataInterpreter.GetPositionFromFrameData(fd) + Vector3.up * 0.05f;
+            index++;
+        }
+        //PrintVector3Array(trajectoryPositions);
+        lr.positionCount = selfPt.framePositions.Count;
+        lr.SetPositions(trajectoryPositions);
     }
 
     /*private void Control_Animation(Vector2 prepos, Vector2 pos)

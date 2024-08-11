@@ -21,6 +21,7 @@ public class OPlayerController : MonoBehaviour
     public GameObject ballGameObject;
     public GameObject playerHighlight;
     public LineRenderer lr;
+   
     private int pastIndex;
     private int pastFrameIndex;
 
@@ -28,6 +29,9 @@ public class OPlayerController : MonoBehaviour
     private Vector3[] _trajectoryPositions;
     private List<Vector3> currentTrajectoryPositions;
     private const int trajectoryLineLength = 48;
+    [Tooltip("If not #000000, will override the default color")]
+    public Color overrideColor = new Color(0, 0, 0,1);
+    private static Color oLineColor = new Color(1, 128f/255, 128f/255,0f);
     // Start is called before the first frame update
     void Start()
     {
@@ -46,14 +50,15 @@ public class OPlayerController : MonoBehaviour
     {
         if (DataInterpreter.instance.usedDataIndex != pastIndex) { SetLineRenderer(); pastIndex = DataInterpreter.instance.usedDataIndex; }
         if (DataInterpreter.instance.frameCount != pastFrameIndex) { FrameUpdate();pastFrameIndex = DataInterpreter.instance.frameCount; }
-        SetAnimationSpeed();
-        for(int i = 0; i <9; i++)
-        {
-            lastFramePos[i] = lastFramePos[i + 1];
-        }
-        lastFramePos[9] = transform.position;
+// lr.material.color = overrideColor.Equals(Color.black) ? oLineColor : overrideColor;
+
         
         if (lastFrameStatus != isHoldingBall) { playerHighlight.SetActive(isHoldingBall); ballGameObject.SetActive(isHoldingBall); lastFrameStatus = isHoldingBall; }
+    }
+    private void FixedUpdate()
+    {
+        SetAnimationSpeed();
+
     }
     private void LateUpdate()
     {
@@ -78,7 +83,7 @@ public class OPlayerController : MonoBehaviour
         if ((sqrDist > 1f && sqrDist / Time.deltaTime > 1f) || isHoldingBall) { Debug.Log("Option A " + (transform.position - lastFramePos[0])) ; transform.forward=(transform.position - lastFramePos[0]); }
         else { transform.forward = new Vector3(BallPositionHelper.instance.transform.position.x, transform.position.y, BallPositionHelper.instance.transform.position.z) - transform.position; Debug.Log("Option B"); }
         float angle = Vector3.SignedAngle(transform.position, BallPositionHelper.instance.transform.position, Vector3.up);
-        int dir = -1;
+        int dir = -1;   
         if (angle < -150) dir = 3;
         else if (angle < -90) dir = 2;
         else if (angle < -30) dir = 1;
@@ -86,9 +91,15 @@ public class OPlayerController : MonoBehaviour
         else if (angle < 90) dir = 5;
         else if (angle < 150) dir = 4;
         else dir = 3;
+
+        for (int i = 0; i < 9; i++)
+        {
+            lastFramePos[i] = lastFramePos[i + 1];
+        }
+        lastFramePos[9] = transform.position;
         Animator.SetInteger("_direction", dir);
         //(sqrDist > minSqrMagnitude * Time.deltaTime) ? 2 : 0);
-        Animator.speed = 1;//sqrDist > minSqrMagnitude*Time.deltaTime ? Mathf.Clamp(sqrDist *400, 0, 1) : 0;
+        Animator.speed = sqrDist == 0 ? 0 : Mathf.Clamp(1000 * sqrDist / Time.deltaTime, 0.5f, 1);
     }
 
     public void Init_Player()
@@ -116,6 +127,7 @@ public class OPlayerController : MonoBehaviour
     public void SetLineRenderer()
     {
         if (lr == null) return;
+        lr.material.color = overrideColor.Equals(Color.black)?oLineColor:overrideColor;
         PlayerTransform selfPt=null;
         foreach(PlayerTransform pt in DataInterpreter.instance.players)
         {
@@ -134,7 +146,7 @@ public class OPlayerController : MonoBehaviour
             trajectoryPositions[index] = DataInterpreter.GetPositionFromFrameData(fd) + Vector3.up * 0.05f ;
             index++;
         }
-        PrintVector3Array(trajectoryPositions);
+        //PrintVector3Array(trajectoryPositions);
         lr.positionCount = selfPt.framePositions.Count;
         lr.SetPositions(trajectoryPositions);
     }

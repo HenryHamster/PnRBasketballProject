@@ -11,6 +11,7 @@ public class BallPassHelper : MonoBehaviour
     private Vector3 endLocation;
     public GameObject passingBall;
     Vector3 offset = new Vector3(7, 0, 13);
+    
     // Update is called once per frame
     void Update()
     {
@@ -39,6 +40,7 @@ public class BallPassHelper : MonoBehaviour
         {
             if(!(DataInterpreter.instance.ballHandlerIndex[DataInterpreter.instance.frameCount] == -1 )) { isActive = false; return; }
             passingBall.transform.position = Vector3.Lerp(startLocation, endLocation, (DataInterpreter.instance.frameCount - startFrame) / ((float)endFrame - startFrame));
+            if((DataInterpreter.instance.frameCount - startFrame) / ((float)endFrame - startFrame)>0.9999f&& endLocation.Equals(new Vector3(0, 3, -12.5f))) { Time.timeScale = 0; }
         }
     }
     public PlayerTransform FindNextPlayerWithBall(out int endFrame)

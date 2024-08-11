@@ -103,6 +103,7 @@ public class DataInterpreter : MonoBehaviour
         if (currentUsedDataIndex != usedDataIndex)
         {
             UpdatePlayerPositionData();
+            AttackTimerHelper.instance.ResetTime();
             currentUsedDataIndex = usedDataIndex;
         }
     }
@@ -132,16 +133,18 @@ public class DataInterpreter : MonoBehaviour
         currentUsedDataIndex = usedDataIndex;
 
     }
-    // Update is called once per frame
     public void UpdatePosition()
 
     {
         Vector3 offset = new Vector3(7, 0, 13);
         bool hasBallHandler = false;
+        
         foreach (PlayerTransform pt in players)
         {
             if (pt.framePositions.Count <= pt.currentFrameIndex) { continue; }
-            if (pt.currentFrameIndex+1 >= pt.framePositions.Count) { continue; }
+            if (pt.currentFrameIndex + 1 >= pt.framePositions.Count) { if (pt.opc != null){ pt.opc.isHoldingBall = false; }
+                if (pt.tpc != null) { pt.tpc.isHoldingBall = false; }
+                continue; }
             Vector3 currentFramePlayer = new Vector3(pt.framePositions[pt.currentFrameIndex].y, 0, pt.framePositions[pt.currentFrameIndex].x);
             Vector3 nextFramePlayer = currentFramePlayer;
             if (pt.currentFrameIndex < pt.framePositions.Count - 1)

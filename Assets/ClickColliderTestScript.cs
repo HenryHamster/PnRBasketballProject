@@ -7,7 +7,7 @@ public class ClickColliderTestScript : MonoBehaviour
 
     private void OnMouseDown()
     {
-        //Debug.Log("Clicked on: " + name);
+        Debug.Log("Clicked on: " + name);
     }
     private void Update()
     {
